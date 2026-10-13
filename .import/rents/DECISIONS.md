@@ -29,15 +29,17 @@ Each: what, why, how to undo it.
 
 ## Shape
 
-- **A file a state**, `<State name>.md` (`District of Columbia.md`,
-  `Puerto Rico.md`, the territories too), a record a county or town:
-  `### County: <name>, <ST>`. Towns are the same kind (`County`), so
-  the whole country is one table; a row `- Level: County` or
-  `- Level: Town` tells them apart. Why: one table is what a reader
-  wants to query; a `Town` kind would split it. Undo: kind per level in
-  `record()`.
-- **Rows**: `FIPS`, `Level`, `FMR area` (this year's name, FY2027),
-  `Metro code` (FY2027's), `State`, `Census region`, `Area changes`.
+- **A file a state**, `rents/<State name>.md` (`District of Columbia.md`,
+  `Puerto Rico.md`, the territories too), headed `# Fair Market Rents:
+  <State>`, a record a county or town: `### Rents: <name>, <ST>` (was
+  `### County:` until the join with the limits, 10-13: SPEC B5). Towns
+  are the same kind, so the whole country is one table; a row
+  `- Level: County` or `- Level: Town` tells them apart. Undo: kind per
+  level in `record()`.
+- **Rows**: `FIPS`, `FIPS 2024`, `FIPS before`, `Level`, `FMR area`
+  (this year's name, FY2027), `Metro code` (FY2027's), `State`,
+  `Census region`, `Area changes`; every one in every record, blank
+  where none (SPEC B3, since 10-13).
 - **Census region** is HUD's 1–4 in words. Eight ME and VT towns have
   none in HUD's file: they take their state's (regions are by state).
   American Samoa and the Northern Mariana Islands have none, and are
@@ -50,11 +52,16 @@ Each: what, why, how to undo it.
   `NCTNY`, HUD's misspelling of `NCNTY` in FY2023–24. What is left is
   real reclassing (a county drawn into or out of a metro area, an area
   split), 677 places of 4,764. Undo: `same()` and `changes()`.
-- **The rents, one card**: `> [!CARD:line] Fair Market Rents`, a row a
-  bedroom count 0–4, a column a fiscal year. Every record has the same
-  44 columns, 1983 and 1985–2027: HUD's file has no FY1984, so there is
-  no 1984 column (a column of nothing would read as a year HUD left
-  empty). Dollars as numbers; empty where HUD gives none.
+- **The rents, one card at the 40th percentile** (since 10-13, SPEC
+  D1-D6): `#### Fair Market Rents`, `> [!CARD:line] Fair Market Rents
+  (40th percentile)`, a row a bedroom count 0–4, a column a fiscal year,
+  FY1995–2027, the years of the current definition. The 45th-percentile
+  years, FY1983 and 1985–1994, are a plain table `#### 45th percentile,
+  1983 to 1994`; a place-year HUD set at the 50th (FY2001–2019) is empty
+  in the card and written in `#### 50th percentile, 2001 to 2019`,
+  present only for the 368 places that had one. HUD's file has no
+  FY1984, so there is no 1984 column. Dollars as numbers; empty where
+  HUD gives none. Undo: `P40` and `record()`.
 - **Areas each year, cheaply, as runs**: a table `#### Areas` under each
   record, `| From | To | MSA | Metro code | Area | Percentile |`, a row for
   each run of years the place sat under one area code at one
@@ -79,5 +86,10 @@ Each: what, why, how to undo it.
   One Vermont row (`5000724400`, Burlington area, only FY2026 on) has
   no name in HUD's file: it is written `Unnamed (5000724400), VT`, and
   not guessed at.
-- **The importer** is Python, stdlib only (`.import/import.py`): the
-  source is one CSV, and no packages are needed. It reads latin-1.
+- **The importer** is Python, stdlib only (`.import/rents/import.py`):
+  the source is one CSV, and no packages are needed. It reads latin-1,
+  and checks the file's shape first (`shape.json`, SPEC V1).
+- **Connecticut and the six towns** (10-13): `- FIPS 2024:` is written
+  for Connecticut only (its county codes before FY2026); the six Maine
+  and Massachusetts towns recoded in FY2027 have their old code as
+  `- FIPS before:` alone (it was written as both, the same code twice).

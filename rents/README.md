@@ -1,41 +1,56 @@
 # Fair Market Rents, 1983 to 2027
 
-Every county's Fair Market Rents from HUD, fiscal years 1983 to 2027 (44 years; there was no FY1984), by bedroom count: 4764 places, 3161 counties and 1603 New England towns, in the states, the District of Columbia, Puerto Rico and the territories. Data only, printable as a book and queryable as tables: a file a state, a record a place, and proper gathers them into DuckDB.
+Every county's Fair Market Rents from HUD, fiscal years 1983 to 2027 (44 years; there was no FY1984), by bedroom count: 4764 places, 3161 counties and 1603 New England towns, in the states, the District of Columbia, Puerto Rico and the territories. Part of databook-hud: data only, printable as a book and queryable as tables.
 
 ## What a Fair Market Rent is
 
-A Fair Market Rent (FMR) is what HUD reckons a modest, decent home costs to rent in an area: the 40th percentile gross rent (rent and utilities) of standard-quality units, set each fiscal year for each metropolitan area and each county outside one. It is the yardstick for Housing Choice Vouchers (Section 8) and other HUD programs. It was the 45th percentile until FY1995; from FY2001 to FY2019 some costly areas were set at the 50th. A county takes the rents of its FMR area, so all the counties of one metro area have the same rents. In New England HUD draws its areas by town, not county, so there each town is a place of its own.
+A Fair Market Rent (FMR) is what HUD reckons a modest, decent home costs to rent in an area: the 40th percentile gross rent (rent and utilities) of standard-quality units, set each fiscal year for each metropolitan area and each county outside one. It is the yardstick for Housing Choice Vouchers (Section 8) and other HUD programs. A county takes the rents of its FMR area, so all the counties of one metro area have the same rents. In New England HUD draws its areas by town, not county, so there each town is a place of its own.
 
 ## How it is written
 
-Each place is a record, `### County: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county). Its rents are a card, a row a bedroom count and a column a year; empty where HUD gives none. Its `#### Areas` are the runs of years it sat in one FMR area: HUD names areas only from FY2022, so older runs give the code alone, and a new code is not always a move (HUD renumbered every area in FY2006). `- Area changes:` counts the years its code changed, leaving out 2006.
+Each place is a record, `### Rents: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county). Its card, **Fair Market Rents**, holds the rents at the 40th percentile, the definition since FY1995, a row a bedroom count and a column a year. Rents set otherwise are kept beside it, never in it: `#### 45th percentile, 1983 to 1994`, and, for the places HUD set at the 50th percentile in some years from FY2001 to FY2019, `#### 50th percentile, 2001 to 2019` (those years are empty in the card). Its `#### Areas` are the runs of years it sat in one FMR area: HUD names areas only from FY2022, so older runs give the code alone. `- Area changes:` counts the years its code changed, leaving out 2006.
 
 ## How to ask
 
-Every place's rents are one table, `County_table`, a row a place and bedroom count:
+Each table is one across the country, a row a place and bedroom count: `Rents_Fair_Market_Rents`, `Rents_45th_percentile_1983_to_1994`, `Rents_50th_percentile_2001_to_2019`; and `Rents_Areas`, a row a run.
 
 ```sql
--- two-bedroom rents in Manhattan and Onondaga County, then and now
-select record, "1983", "2000", "2027" from County_table
+-- two-bedroom rents in Manhattan and Onondaga County, 1995 and now
+select record, "1995", "2010", "2027" from Rents_Fair_Market_Rents
 where Bedrooms = 2 and record in ('New York County, NY', 'Onondaga County, NY')
 ```
 
 ```sql
 -- the dearest two-bedroom FMRs this year, with each place's area
-select t.record, c."FMR area", t."2027" from County_table t join County c on c.name = t.record
+select t.record, r."FMR area", t."2027" from Rents_Fair_Market_Rents t join Rents r on r.name = t.record
 where t.Bedrooms = 2 order by t."2027" desc limit 10
 ```
 
 ```sql
--- the places that have sat in the most FMR areas
-select name, "Area changes" from County order by "Area changes" desc limit 10
+-- the places set at the 50th percentile longest
+select record, count(*) as years
+from (unpivot (select * exclude (_file, _line) from Rents_50th_percentile_2001_to_2019 where Bedrooms = 2)
+  on columns('^[0-9]+$') into name year value rent)
+group by record order by years desc, record limit 10
 ```
 
 `FIPS` is gathered as a number, so its leading zero goes; `lpad(cast("FIPS" as varchar), 10, '0')` gives it back.
 
+## Changes
+
+Where HUD's file changes a definition or a key, in full in [Changes](./Changes.md):
+
+- 1995: Percentile, 45th to 40th
+- 2001: Some areas at the 50th percentile
+- 2005: HUD's nonmetropolitan mark
+- 2006: Areas renumbered
+- 2020: The 50th percentile ended
+- 2026: Connecticut's planning regions
+- 2027: New England town codes
+
 ## The source
 
-HUD User, the Office of Policy Development and Research of the U.S. Department of Housing and Urban Development: *FMR History 1983 - Present: All Bedroom Unit data*, `FMR_All_1983_2027.csv`, from <https://www.huduser.gov/portal/datasets/fmr.html>, with its Read Me (updated August 2025). Written here by the importer (`.import/`); nothing here is edited by hand.
+HUD User, the Office of Policy Development and Research of the U.S. Department of Housing and Urban Development: *FMR History 1983 - Present: All Bedroom Unit data*, `FMR_All_1983_2027.csv`, from <https://www.huduser.gov/portal/datasets/fmr.html>, with its Read Me (updated August 2025). Written here by the importer (`.import/rents/`); nothing here is edited by hand.
 
 Notice of use: HUD's data are a work of the United States Government, and so free of copyright in the United States (17 U.S.C. 105). HUD User's notice: reference to a product or firm is not endorsement by HUD. This databook is not HUD's, nor endorsed by it.
 

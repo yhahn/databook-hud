@@ -1,27 +1,41 @@
-"""The Fair Market Rents databook's importer.
+"""The Fair Market Rents' importer, for databook-hud's rents/.
 
 Reads HUD's FMR history (FMR_All_1983_2027.csv, latin-1, a row a county
-or New England town) and writes every page of the databook: a file a
-state, a record a place, its rents a card, its areas a table of runs;
-and README.md. Nothing it writes is edited by hand: run it again.
+or New England town), checks its shape (shape.json), and writes every page
+of rents/: a file a state, a record a place (`### Rents:`), its rents a
+card at the 40th percentile, the older 45th-percentile years and the
+50th-percentile years in tables of their own, its areas a table of runs;
+Changes.md, the changes in HUD's file; README.md. Nothing it writes is
+edited by hand: run it again.
 
-    python3 -I .import/import.py [source.csv]
+    python3 -I .import/rents/import.py [source.csv]
 
-Decisions: .import/DECISIONS.md.
+Decisions: .import/rents/DECISIONS.md. Tests: test_import.py, vectors/.
 """
 
 import csv
+import json
 import os
 import sys
 from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.dirname(HERE)
+REPO = os.path.dirname(os.path.dirname(HERE))
+OUT = os.path.join(REPO, 'rents')
 SOURCE = os.path.expanduser('~/.cache/proper/hud/fmr/FMR_All_1983_2027.csv')
 
 # HUD's file has no FY1984 (its Read Me: "There are no Fiscal Year 1984 FMRs")
 YEARS = [1983] + list(range(1985, 2028))
+LATEST = YEARS[-1]
 YY = {y: f'{y % 100:02d}' for y in YEARS}
+BEDROOMS = range(5)
+
+# The percentile eras (Read Me, and the file's fmrNN column, checked in
+# check_shape): the 45th to FY1994; the 40th from FY1995, the current
+# definition and so the main card; some areas at the 50th, FY2001-2019.
+P45 = [y for y in YEARS if y <= 1994]
+P40 = [y for y in YEARS if y >= 1995]
+P50 = list(range(2001, 2020))
 
 STATES = {
     '01': ('Alabama', 'AL'), '02': ('Alaska', 'AK'), '04': ('Arizona', 'AZ'),
@@ -48,18 +62,69 @@ STATES = {
 REGIONS = {'1': 'Northeast', '2': 'Midwest', '3': 'South', '4': 'West'}
 
 
+# --- V1: the source's shape, checked before anything is written -------------
+
+class ShapeError(Exception):
+    pass
+
+
+def check_shape(raw, header, rows, shape):
+    """Stop the import if HUD's file is not the shape it was: its encoding,
+    its columns, its row count, its keys, its percentile eras."""
+    said = []
+    high = sum(b > 127 for b in raw)
+    if high:
+        try:
+            raw.decode('utf-8')
+            said.append(f'the file now reads as UTF-8 ({high} bytes over 127), not latin-1')
+        except UnicodeDecodeError:
+            pass
+    want = shape['columns']
+    if header != want:
+        added = [c for c in header if c not in want]
+        gone = [c for c in want if c not in header]
+        said.append('its columns changed: '
+                    + (f'new {", ".join(added[:12])}{" …" if len(added) > 12 else ""}; ' if added else '')
+                    + (f'gone {", ".join(gone[:12])}{" …" if len(gone) > 12 else ""}' if gone else 'none gone'))
+    lo, hi = shape['rows']
+    if not lo <= len(rows) <= hi:
+        said.append(f'{len(rows)} rows, not {lo} to {hi}')
+    keys = [r.get('fips2027', '') for r in rows]
+    odd = [k for k in keys if len(k) != 10 or not k.isdigit()]
+    if odd:
+        said.append(f'{len(odd)} fips2027 not ten digits ({", ".join(odd[:3])})')
+    twice = [k for k, n in Counter(keys).items() if n > 1]
+    if twice:
+        said.append(f'{len(twice)} fips2027 twice ({", ".join(twice[:3])})')
+    unknown = sorted({r.get('state') for r in rows} - set(STATES))
+    if unknown:
+        said.append(f'state codes not known: {", ".join(map(str, unknown))}')
+    if not said:
+        for y in YEARS:
+            col = f'fmr{YY[y]}'
+            if col not in header:
+                continue
+            seen = {r[col] for r in rows} - {''}
+            allowed = {'45'} if y in P45 else ({'40', '50'} if y in P50 else {'40'})
+            if not seen <= allowed:
+                said.append(f'FY{y} percentiles {sorted(seen)}, not {sorted(allowed)}')
+    if said:
+        raise ShapeError("HUD's FMR file is not the shape this importer knows: "
+                         + '; '.join(said)
+                         + '. Read it, mend the importer and shape.json, and say the change (Changes.md).')
+
+
+# --- the records ------------------------------------------------------------
+
 def cell(s):
     """A value fit for a table cell or a row: one line, no pipes."""
     return ' '.join((s or '').split()).replace('|', '/')
 
 
-STATE_REGION = {}  # a state's census region, from its other rows (main fills it)
-
-
-def region(row):
+def region(row, state_region):
     """HUD's census region in words; where a row has none, its state's
     (census regions are by state); none for a territory HUD gives none."""
-    code = row['census_region'] or STATE_REGION.get(row['state'], '')
+    code = row['census_region'] or state_region.get(row['state'], '')
     return REGIONS.get(code, 'none')
 
 
@@ -73,20 +138,34 @@ def name_of(row, dupes):
     return f'{name}, {st}'
 
 
+def percentile(row, y):
+    """The percentile a place-year's FMR was set at: HUD's fmrNN; from
+    FY2024 the file has no such column, and every FMR is the 40th."""
+    pct = cell(row.get(f'fmr{YY[y]}'))
+    if not pct and y >= 2024 and any(cell(row.get(f'fmr{YY[y]}_{b}')) for b in BEDROOMS):
+        pct = '40'
+    return pct
+
+
+def rent(row, y, b, at):
+    """A rent, where the place-year was set at the percentile `at`; else empty."""
+    return cell(row.get(f'fmr{YY[y]}_{b}')) if percentile(row, y) == at else ''
+
+
+def prev(y):
+    return 1983 if y == 1985 else y - 1
+
+
 def areas(row):
     """Runs of years under one area code at one percentile:
     (from, to, code, area name or '', percentile or '')."""
     runs = []
     for y in YEARS:
-        yy = YY[y]
-        code = cell(row.get(f'msa{yy}'))
+        code = cell(row.get(f'msa{YY[y]}'))
         if not code:
             continue
-        name = cell(row.get(f'areaname{yy}'))
-        pct = cell(row.get(f'fmr{yy}'))
-        # FY2024 on, HUD gives no percentile column: every FMR is the 40th
-        if not pct and y >= 2024 and row.get(f'fmr{yy}_2', '').strip():
-            pct = '40'
+        name = cell(row.get(f'areaname{YY[y]}'))
+        pct = percentile(row, y)
         last = runs[-1] if runs else None
         if last and last[2] == code and last[4] == pct and last[1] == prev(y) and y != 2006:
             last[1] = y
@@ -114,155 +193,242 @@ def changes(row):
     return sum(1 for (y0, a), (y1, b) in zip(codes, codes[1:]) if a != b and y1 != 2006)
 
 
-def prev(y):
-    return 1983 if y == 1985 else y - 1
+def fips_before(row):
+    """(FIPS 2024, FIPS before): Connecticut's county codes before its
+    planning regions (FY2026); any other code a place had before this
+    year's (six Maine and Massachusetts towns, FY2027)."""
+    now, f24, f = row['fips2027'], row.get('fips2024', ''), row.get('fips', '')
+    if row['state'] == '09' and f24 != now:
+        return f24, ''
+    old = f24 if f24 != now else (f if f != now else '')
+    return '', old
 
 
-def record(row, dupes):
+def table(head, rows_of, years, card=None, unit=None):
+    """A card (drawn) or a plain table (kept as data), a row a label."""
+    q = '> ' if card else ''
+    cols = [head] + [str(y) for y in years]
+    out = []
+    if card:
+        out.append(f'> [!CARD:line] {card}')
+    out.append(q + '| ' + ' | '.join(cols) + ' |')
+    out.append(q + '|' + '---|' * len(cols))
+    for lab, vals in rows_of:
+        out.append(q + f'| {lab} | ' + ' | '.join(vals) + ' |')
+    if unit:
+        out += ['>', f'> - Unit: {unit}']
+    return out
+
+
+UNIT = 'dollars a month, gross rent (rent and utilities)'
+
+
+def record(row, dupes, state_region):
     st_name, _ = STATES[row['state']]
-    fips = row['fips2027']
-    runs = areas(row)
-    lines = [f'### County: {name_of(row, dupes)}', '']
-    lines.append(f'- FIPS: {fips}')
-    if row.get('fips2024') and row['fips2024'] != fips:
-        lines.append(f"- FIPS 2024: {row['fips2024']}")
-    if row.get('fips') and row['fips'] != fips:
-        lines.append(f"- FIPS before: {row['fips']}")
-    lines.append(f"- Level: {'County' if row['cousub'] == '99999' else 'Town'}")
-    lines.append(f"- FMR area: {cell(row['areaname27'])}")
-    lines.append(f"- Metro code: {cell(row['msa27'])}")
-    lines.append(f'- State: {st_name}')
-    lines.append(f"- Census region: {region(row)}")
-    lines.append(f'- Area changes: {changes(row)}')
-    lines.append('')
-    head = ['Bedrooms'] + [str(y) for y in YEARS]
-    lines.append('> [!CARD:line] Fair Market Rents')
-    lines.append('> | ' + ' | '.join(head) + ' |')
-    lines.append('> |' + '---|' * len(head))
-    for b in range(5):
-        vals = [cell(row.get(f'fmr{YY[y]}_{b}')) for y in YEARS]
-        lines.append(f'> | {b} | ' + ' | '.join(vals) + ' |')
-    lines.append('>')
-    lines.append('> - Unit: dollars a month, gross rent (rent and utilities)')
-    lines.append('')
-    lines.append('#### Areas')
-    lines.append('')
-    # HUD's old MSA numbers (to FY2005) and its metro codes (FY2006 on) are
-    # two columns: the one a number, the other text
-    lines.append('| From | To | MSA | Metro code | Area | Percentile |')
-    lines.append('|---|---|---|---|---|---|')
-    for f, t, code, name, pct in runs:
-        old, new = (code, '') if t < 2006 else ('', code)
-        lines.append(f'| {f} | {t} | {old} | {new} | {name} | {pct} |')
+    f24, before = fips_before(row)
+    lines = [f'### Rents: {name_of(row, dupes)}', '',
+             f"- FIPS: {row['fips2027']}",
+             f'- FIPS 2024: {f24}',
+             f'- FIPS before: {before}',
+             f"- Level: {'County' if row['cousub'] == '99999' else 'Town'}",
+             f"- FMR area: {cell(row['areaname27'])}",
+             f"- Metro code: {cell(row['msa27'])}",
+             f'- State: {st_name}',
+             f'- Census region: {region(row, state_region)}',
+             f'- Area changes: {changes(row)}',
+             '', '#### Fair Market Rents', '']
+    lines += table('Bedrooms', [(str(b), [rent(row, y, b, '40') for y in P40]) for b in BEDROOMS],
+                   P40, card='Fair Market Rents (40th percentile)', unit=UNIT)
+    old = [(str(b), [rent(row, y, b, '45') for y in P45]) for b in BEDROOMS]
+    if any(v for _, vals in old for v in vals):
+        lines += ['', '#### 45th percentile, 1983 to 1994', '']
+        lines += table('Bedrooms', old, P45)
+    high = [(str(b), [rent(row, y, b, '50') for y in P50]) for b in BEDROOMS]
+    if any(v for _, vals in high for v in vals):
+        lines += ['', '#### 50th percentile, 2001 to 2019', '']
+        lines += table('Bedrooms', high, P50)
+    lines += ['', '#### Areas', '',
+              # HUD's old MSA numbers (to FY2005) and its metro codes (FY2006
+              # on) are two columns: the one a number, the other text
+              '| From | To | MSA | Metro code | Area | Percentile |',
+              '|---|---|---|---|---|---|']
+    for f, t, code, name, pct in areas(row):
+        old_code, new_code = (code, '') if t < 2006 else ('', code)
+        lines.append(f'| {f} | {t} | {old_code} | {new_code} | {name} | {pct} |')
     lines.append('')
     return lines
 
 
-def state_page(code, rows, dupes):
+def state_page(code, rows, dupes, state_region):
     st_name, st = STATES[code]
     counties = sum(r['cousub'] == '99999' for r in rows)
     towns = len(rows) - counties
     moved = sum(changes(r) > 0 for r in rows)
-    lines = [f'# State: {st_name}', '']
-    lines.append(f'- Postal code: {st}')
-    lines.append(f'- State FIPS: {code}')
-    lines.append(f'- Counties: {counties}')
-    lines.append(f'- Towns: {towns}')
-    lines.append('')
+    lines = [f'# Fair Market Rents: {st_name}', '',
+             f'- Postal code: {st}',
+             f'- State FIPS: {code}',
+             f'- Counties: {counties}',
+             f'- Towns: {towns}', '']
     what = (f'{counties} counties' if counties != 1 else '1 county') + \
         (f' and {towns} towns' if towns else '')
     if not counties:
         what = f'{towns} towns'
-    lines.append(f'HUD\'s Fair Market Rents for {st_name}, fiscal years 1983 to 2027: {what}, '
+    lines.append(f"HUD's Fair Market Rents for {st_name}, fiscal years 1983 to {LATEST}: {what}, "
                  'each with its rents by bedroom count and the FMR areas it has sat in. '
                  + (f'{moved} of them have changed FMR area at least once '
                     if len(rows) > 1 else
                     ('It has changed FMR area ' if moved else 'It has never changed FMR area ')) +
                  '(not counting 2006, when HUD renumbered every area).')
-    lines.append('')
-    lines.append('## Places')
-    lines.append('')
+    lines += ['', '## Places', '']
     for r in rows:
-        lines += record(r, dupes)
+        lines += record(r, dupes, state_region)
     return '\n'.join(lines).rstrip() + '\n'
 
 
-def readme(by_state, total, counties, towns):
-    L = []
-    L.append('# Fair Market Rents, 1983 to 2027')
-    L.append('')
-    L.append("Every county's Fair Market Rents from HUD, fiscal years 1983 to 2027 "
-             f'({len(YEARS)} years; there was no FY1984), by bedroom count: '
-             f'{total} places, {counties} counties and {towns} New England towns, '
-             'in the states, the District of Columbia, Puerto Rico and the territories. '
-             'Data only, printable as a book and queryable as tables: a file a state, '
-             'a record a place, and proper gathers them into DuckDB.')
-    L.append('')
-    L.append('## What a Fair Market Rent is')
-    L.append('')
-    L.append('A Fair Market Rent (FMR) is what HUD reckons a modest, decent home '
-             'costs to rent in an area: the 40th percentile gross rent (rent and '
-             'utilities) of standard-quality units, set each fiscal year for each '
-             'metropolitan area and each county outside one. It is the yardstick for '
-             'Housing Choice Vouchers (Section 8) and other HUD programs. It was the '
-             '45th percentile until FY1995; from FY2001 to FY2019 some costly areas '
-             'were set at the 50th. A county takes the rents of its FMR area, so all '
-             'the counties of one metro area have the same rents. In New England HUD '
-             'draws its areas by town, not county, so there each town is a place of '
-             'its own.')
-    L.append('')
-    L.append('## How it is written')
-    L.append('')
-    L.append('Each place is a record, `### County: <name>, <ST>` (towns too, with '
-             '`- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes '
-             '(state, county, county subdivision; `99999` for a whole county). Its '
-             'rents are a card, a row a bedroom count and a column a year; empty where '
-             "HUD gives none. Its `#### Areas` are the runs of years it sat in one FMR "
-             'area: HUD names areas only from FY2022, so older runs give the code '
-             'alone, and a new code is not always a move (HUD renumbered every area '
-             'in FY2006). `- Area changes:` counts the years its code changed, leaving '
-             'out 2006.')
-    L.append('')
-    L.append('## How to ask')
-    L.append('')
-    L.append('Every place\'s rents are one table, `County_table`, a row a place and bedroom count:')
-    L.append('')
-    L.append('```sql')
-    L.append('-- two-bedroom rents in Manhattan and Onondaga County, then and now')
-    L.append('select record, "1983", "2000", "2027" from County_table')
-    L.append("where Bedrooms = 2 and record in ('New York County, NY', 'Onondaga County, NY')")
-    L.append('```')
-    L.append('')
-    L.append('```sql')
-    L.append("-- the dearest two-bedroom FMRs this year, with each place's area")
-    L.append('select t.record, c."FMR area", t."2027" from County_table t join County c on c.name = t.record')
-    L.append('where t.Bedrooms = 2 order by t."2027" desc limit 10')
-    L.append('```')
-    L.append('')
-    L.append('```sql')
-    L.append('-- the places that have sat in the most FMR areas')
-    L.append('select name, "Area changes" from County order by "Area changes" desc limit 10')
-    L.append('```')
-    L.append('')
-    L.append('`FIPS` is gathered as a number, so its leading zero goes; '
-             "`lpad(cast(\"FIPS\" as varchar), 10, '0')` gives it back.")
-    L.append('')
-    L.append('## The source')
-    L.append('')
-    L.append("HUD User, the Office of Policy Development and Research of the U.S. "
-             "Department of Housing and Urban Development: *FMR History 1983 - "
-             "Present: All Bedroom Unit data*, `FMR_All_1983_2027.csv`, from "
-             "<https://www.huduser.gov/portal/datasets/fmr.html>, with its Read Me "
-             "(updated August 2025). Written here by the importer (`.import/`); "
-             "nothing here is edited by hand.")
-    L.append('')
-    L.append("Notice of use: HUD's data are a work of the United States Government, "
-             "and so free of copyright in the United States (17 U.S.C. 105). HUD "
-             "User's notice: reference to a product or firm is not endorsement by "
-             "HUD. This databook is not HUD's, nor endorsed by it.")
-    L.append('')
-    L.append('## The states')
-    L.append('')
+# --- the changes in HUD's file (D5) ----------------------------------------
+
+def found_changes(rows):
+    """Every change of definition or key in HUD's file, as found in it:
+    (title, boundary, was, now, crosswalk, source, places)."""
+    def at(y, pct):
+        return sum(r.get(f'fmr{YY[y]}') == pct for r in rows)
+    ct = [r for r in rows if r['state'] == '09' and r['fips2024'] != r['fips2027']]
+    six = [r for r in rows if fips_before(r)[1]]
+    readme = "HUD's Read Me for the FMR history (READ_ME_FMRHIST_FY2025)"
+    return sorted([
+        ('Percentile, 45th to 40th', 1995,
+         f'FMRs set at the 45th percentile of gross rents ({at(1994, "45")} places in FY1994)',
+         f'FMRs set at the 40th percentile ({at(1995, "40")} places in FY1995)',
+         'None in this file: HUD says the FY1995 proposed FMRs were published at both, but this file '
+         'holds the 40th only. The years to FY1994 are in each place\'s table "45th percentile, '
+         '1983 to 1994", never in its card.',
+         readme + ', note 2; the fmr94 and fmr95 columns', at(1994, '45')),
+        ('Some areas at the 50th percentile', 2001,
+         'every FMR at the 40th percentile',
+         f'FMRs of selected costly areas at the 50th percentile ({at(2001, "50")} places in FY2001)',
+         'None: a place-year has one FMR in this file. Its 50th-percentile years are in its table '
+         '"50th percentile, 2001 to 2019", and empty in its card.',
+         readme + ', note 4; the fmr01 column', at(2001, '50')),
+        ('The 50th percentile ended', 2020,
+         f'FMRs of {at(2019, "50")} places at the 50th percentile in FY2019',
+         'every FMR at the 40th percentile (the Small Area FMR rule, 81 FR 80567)',
+         'None, as in 2001.', readme + ', note 4; the fmr19 and fmr20 columns', at(2019, '50')),
+        ("HUD's nonmetropolitan mark", 2005,
+         'MSA 10000 for a county outside a metropolitan area',
+         'MSA 9999', "None needed: a code, not a move; each place's Areas runs show both.",
+         "HUD's file, the msa04 and msa05 columns", sum(r['msa05'] == '9999' for r in rows)),
+        ('Areas renumbered', 2006,
+         "HUD's MSA numbers (5240), areas as OMB drew them in the 1990s",
+         "HUD Metro FMR Area codes (METRO33860M33860, NCNTY…), areas from OMB's 2003 "
+         'definitions and the 2000 Census',
+         'Each place: its Areas runs end at 2005 under an MSA number and begin at 2006 under a Metro code.',
+         readme + ', fields msa_83 to msa_06, and note 4', len(rows)),
+        ("Connecticut's planning regions", 2026,
+         "towns keyed by Connecticut's eight counties (090xx)",
+         'towns keyed by its nine planning regions (0911x to 0919x)',
+         f'Each town: `- FIPS 2024:` holds its old code ({len(ct)} towns).',
+         readme + ', field fips2024', len(ct)),
+        ('New England town codes', LATEST,
+         f'{len(six)} towns under the codes they had to FY{LATEST - 1}',
+         'the same towns under new codes',
+         f'Each town: `- FIPS before:` holds its old code ({len(six)} towns).',
+         "HUD's file, fips and fips2024 against fips2027", len(six),
+         sorted((name_of(r, set()), fips_before(r)[1], r['fips2027'], 'new code') for r in six)),
+    ], key=lambda c: c[1])
+
+
+def changes_page(found):
+    lines = ['# Changes in the Fair Market Rents', '',
+             "Where HUD's file changes a definition or a key during its years: the "
+             'latest form is kept in the cards, the older only in tables of their own, '
+             'and nothing runs across a change.', '']
+    for title, year, was, now, cross, source, n, *table in found:
+        lines += [f'### Change: {title}, {year}', '',
+                  '- Dataset: Fair Market Rents',
+                  f'- Boundary: {year}',
+                  f'- Was: {was}',
+                  f'- Now: {now}',
+                  f'- Crosswalk: {cross}',
+                  f'- Places: {n}',
+                  f'- Source: {source}', '']
+        if table:
+            lines += ['#### Places', '', '| Place | Was | Now | What |', '|---|---|---|---|']
+            lines += [f'| {p} | {was_} | {now_} | {what} |' for p, was_, now_, what in table[0]]
+            lines.append('')
+    return '\n'.join(lines).rstrip() + '\n'
+
+
+# --- README -----------------------------------------------------------------
+
+def readme(by_state, total, counties, towns, found):
+    L = [f'# Fair Market Rents, 1983 to {LATEST}', '',
+         "Every county's Fair Market Rents from HUD, fiscal years 1983 to "
+         f'{LATEST} ({len(YEARS)} years; there was no FY1984), by bedroom count: '
+         f'{total} places, {counties} counties and {towns} New England towns, '
+         'in the states, the District of Columbia, Puerto Rico and the territories. '
+         'Part of databook-hud: data only, printable as a book and queryable as tables.', '',
+         '## What a Fair Market Rent is', '',
+         'A Fair Market Rent (FMR) is what HUD reckons a modest, decent home '
+         'costs to rent in an area: the 40th percentile gross rent (rent and '
+         'utilities) of standard-quality units, set each fiscal year for each '
+         'metropolitan area and each county outside one. It is the yardstick for '
+         'Housing Choice Vouchers (Section 8) and other HUD programs. A county '
+         'takes the rents of its FMR area, so all the counties of one metro area '
+         'have the same rents. In New England HUD draws its areas by town, not '
+         'county, so there each town is a place of its own.', '',
+         '## How it is written', '',
+         'Each place is a record, `### Rents: <name>, <ST>` (towns too, with '
+         '`- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes '
+         '(state, county, county subdivision; `99999` for a whole county). Its '
+         'card, **Fair Market Rents**, holds the rents at the 40th percentile, '
+         'the definition since FY1995, a row a bedroom count and a column a year. '
+         'Rents set otherwise are kept beside it, never in it: '
+         '`#### 45th percentile, 1983 to 1994`, and, for the places HUD set at '
+         'the 50th percentile in some years from FY2001 to FY2019, '
+         '`#### 50th percentile, 2001 to 2019` (those years are empty in the '
+         "card). Its `#### Areas` are the runs of years it sat in one FMR area: "
+         'HUD names areas only from FY2022, so older runs give the code alone. '
+         '`- Area changes:` counts the years its code changed, leaving out 2006.', '',
+         '## How to ask', '',
+         'Each table is one across the country, a row a place and bedroom count: '
+         '`Rents_Fair_Market_Rents`, `Rents_45th_percentile_1983_to_1994`, '
+         '`Rents_50th_percentile_2001_to_2019`; and `Rents_Areas`, a row a run.', '',
+         '```sql',
+         '-- two-bedroom rents in Manhattan and Onondaga County, 1995 and now',
+         f'select record, "1995", "2010", "{LATEST}" from Rents_Fair_Market_Rents',
+         "where Bedrooms = 2 and record in ('New York County, NY', 'Onondaga County, NY')",
+         '```', '',
+         '```sql',
+         "-- the dearest two-bedroom FMRs this year, with each place's area",
+         f'select t.record, r."FMR area", t."{LATEST}" from Rents_Fair_Market_Rents t join Rents r on r.name = t.record',
+         f'where t.Bedrooms = 2 order by t."{LATEST}" desc limit 10',
+         '```', '',
+         '```sql',
+         '-- the places set at the 50th percentile longest',
+         'select record, count(*) as years',
+         'from (unpivot (select * exclude (_file, _line) from Rents_50th_percentile_2001_to_2019 where Bedrooms = 2)',
+         "  on columns('^[0-9]+$') into name year value rent)",
+         'group by record order by years desc, record limit 10',
+         '```', '',
+         '`FIPS` is gathered as a number, so its leading zero goes; '
+         "`lpad(cast(\"FIPS\" as varchar), 10, '0')` gives it back.", '',
+         '## Changes', '',
+         "Where HUD's file changes a definition or a key, in full in "
+         '[Changes](./Changes.md):', '']
+    for title, year, *_ in sorted(found, key=lambda c: c[1]):
+        L.append(f'- {year}: {title}')
+    L += ['', '## The source', '',
+          'HUD User, the Office of Policy Development and Research of the U.S. '
+          'Department of Housing and Urban Development: *FMR History 1983 - '
+          'Present: All Bedroom Unit data*, `FMR_All_1983_2027.csv`, from '
+          '<https://www.huduser.gov/portal/datasets/fmr.html>, with its Read Me '
+          '(updated August 2025). Written here by the importer (`.import/rents/`); '
+          'nothing here is edited by hand.', '',
+          "Notice of use: HUD's data are a work of the United States Government, "
+          'and so free of copyright in the United States (17 U.S.C. 105). HUD '
+          "User's notice: reference to a product or firm is not endorsement by "
+          "HUD. This databook is not HUD's, nor endorsed by it.", '',
+          '## The states', '']
     for code in sorted(by_state, key=lambda c: STATES[c][0]):
         rows = by_state[code]
         st_name = STATES[code][0]
@@ -271,39 +437,92 @@ def readme(by_state, total, counties, towns):
         word = 'towns' if towns == n else ('places' if towns else 'counties')
         if n == 1:
             word = {'towns': 'town', 'places': 'place', 'counties': 'county'}[word]
-        kind = f'{n} {word}'
-        L.append(f'- [{st_name}](./{st_name.replace(" ", "%20")}.md): {kind}')
+        L.append(f'- [{st_name}](./{st_name.replace(" ", "%20")}.md): {n} {word}')
     L.append('')
     return '\n'.join(L)
 
 
-def main():
-    src = sys.argv[1] if len(sys.argv) > 1 else SOURCE
-    with open(src, encoding='latin-1', newline='') as f:
-        rows = list(csv.DictReader(f))
+# --- the run ----------------------------------------------------------------
+
+def read(src):
+    with open(src, 'rb') as f:
+        raw = f.read()
+    reader = csv.reader(raw.decode('latin-1').splitlines())
+    header = next(reader)
+    rows = [dict(zip(header, r)) for r in reader if r]
+    return raw, header, rows
+
+
+def build(rows):
+    """Every page, as {file name: text}, and the counts written."""
     names = Counter((r['name'], r['state']) for r in rows)
     dupes = {k for k, v in names.items() if v > 1}
+    state_region = {}
     by_state = {}
     for r in rows:
         if r['census_region']:
-            STATE_REGION.setdefault(r['state'], r['census_region'])
+            state_region.setdefault(r['state'], r['census_region'])
         by_state.setdefault(r['state'], []).append(r)
-    # the pages a run writes: the old ones go first, so a gone state goes
-    for fn in os.listdir(OUT):
-        if fn.endswith('.md') and not fn.startswith('.'):
-            os.remove(os.path.join(OUT, fn))
-    written = 0
+    pages = {}
     for code, srows in by_state.items():
         srows.sort(key=lambda r: r['fips2027'])
-        path = os.path.join(OUT, STATES[code][0] + '.md')
-        with open(path, 'w', encoding='utf-8') as f:
-            f.write(state_page(code, srows, dupes))
-        written += len(srows)
+        pages[STATES[code][0] + '.md'] = state_page(code, srows, dupes, state_region)
+    found = found_changes(rows)
+    pages['Changes.md'] = changes_page(found)
     counties = sum(r['cousub'] == '99999' for r in rows)
-    with open(os.path.join(OUT, 'README.md'), 'w', encoding='utf-8') as f:
-        f.write(readme(by_state, len(rows), counties, len(rows) - counties))
-    print(f'{len(rows)} rows read, {written} records written in {len(by_state)} files '
-          f'({counties} counties, {len(rows) - counties} towns)')
+    pages['README.md'] = readme(by_state, len(rows), counties, len(rows) - counties, found)
+
+    def cells(years, at):
+        vals = [int(v) for r in rows for y in years for b in BEDROOMS for v in [rent(r, y, b, at)] if v]
+        return {'cells': len(vals), 'sum': sum(vals)}
+
+    def has(years, at):
+        return sum(any(rent(r, y, b, at) for y in years for b in BEDROOMS) for r in rows)
+    src_vals = [int(v) for r in rows for y in YEARS for b in BEDROOMS
+                for v in [cell(r.get(f'fmr{YY[y]}_{b}'))] if v]
+    counts = {
+        'records': len(rows), 'counties': counties, 'towns': len(rows) - counties,
+        'pages': len(by_state), 'changes': [[c[1], c[0]] for c in found],
+        'tables': {
+            'Rents_Fair_Market_Rents': {'rows': 5 * len(rows), **cells(P40, '40')},
+            'Rents_45th_percentile_1983_to_1994': {'rows': 5 * has(P45, '45'), **cells(P45, '45')},
+            'Rents_50th_percentile_2001_to_2019': {'rows': 5 * has(P50, '50'), **cells(P50, '50')},
+            'Rents_Areas': {'rows': sum(len(areas(r)) for r in rows)},
+        },
+        'place_years_at_50th': sum(percentile(r, y) == '50' for r in rows for y in P50),
+        'source': {'rows': len(rows), 'cells': len(src_vals), 'sum': sum(src_vals)},
+    }
+    return pages, counts
+
+
+def main():
+    src = sys.argv[1] if len(sys.argv) > 1 else SOURCE
+    raw, header, rows = read(src)
+    with open(os.path.join(HERE, 'shape.json'), encoding='utf-8') as f:
+        shape = json.load(f)
+    try:
+        check_shape(raw, header, rows, shape)
+    except ShapeError as e:
+        sys.exit(str(e))
+    pages, counts = build(rows)
+    t = counts['tables']
+    written = sum(t[k]['cells'] for k in t if 'cells' in t[k])
+    if written != counts['source']['cells']:
+        sys.exit(f"would write {written} rent cells, but the source has {counts['source']['cells']}")
+    os.makedirs(OUT, exist_ok=True)
+    # the pages a run writes: the old ones go first, so a gone state goes
+    for fn in os.listdir(OUT):
+        if fn.endswith('.md'):
+            os.remove(os.path.join(OUT, fn))
+    for fn, text in pages.items():
+        with open(os.path.join(OUT, fn), 'w', encoding='utf-8') as f:
+            f.write(text)
+    with open(os.path.join(HERE, 'counts.json'), 'w', encoding='utf-8') as f:
+        json.dump(counts, f, indent=1)
+        f.write('\n')
+    print(f"{len(rows)} rows read; {counts['records']} records in {counts['pages']} state pages, "
+          f"{len(counts['changes'])} changes; the source's {counts['source']['cells']:,} rents written as "
+          + ' + '.join(f"{t[k]['cells']:,} ({k})" for k in t if 'cells' in t[k]))
 
 
 if __name__ == '__main__':

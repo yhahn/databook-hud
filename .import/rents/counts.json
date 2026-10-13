@@ -1,0 +1,62 @@
+{
+ "records": 4764,
+ "counties": 3161,
+ "towns": 1603,
+ "pages": 56,
+ "changes": [
+  [
+   1995,
+   "Percentile, 45th to 40th"
+  ],
+  [
+   2001,
+   "Some areas at the 50th percentile"
+  ],
+  [
+   2005,
+   "HUD's nonmetropolitan mark"
+  ],
+  [
+   2006,
+   "Areas renumbered"
+  ],
+  [
+   2020,
+   "The 50th percentile ended"
+  ],
+  [
+   2026,
+   "Connecticut's planning regions"
+  ],
+  [
+   2027,
+   "New England town codes"
+  ]
+ ],
+ "tables": {
+  "Rents_Fair_Market_Rents": {
+   "rows": 23820,
+   "cells": 767230,
+   "sum": 635834938
+  },
+  "Rents_45th_percentile_1983_to_1994": {
+   "rows": 23720,
+   "cells": 259235,
+   "sum": 113642523
+  },
+  "Rents_50th_percentile_2001_to_2019": {
+   "rows": 1840,
+   "cells": 16330,
+   "sum": 17392415
+  },
+  "Rents_Areas": {
+   "rows": 19294
+  }
+ },
+ "place_years_at_50th": 3270,
+ "source": {
+  "rows": 4764,
+  "cells": 1042795,
+  "sum": 766869876
+ }
+}

@@ -37,7 +37,35 @@ class Vectors(unittest.TestCase):
             with open(fn, encoding='utf-8') as f:
                 v = json.load(f)
             with self.subTest(vector=os.path.basename(fn), rule=v['rule']):
-                self.assertEqual(written(v['input']), v['output'], v['about'])
+                if isinstance(v['output'], dict):
+                    # B7: the pages written, by path; README and the changes aside
+                    pages = {k: t for k, t in imp.build(v['input'])[0].items()
+                             if k != 'README.md' and k != 'Changes.md' and not k.startswith('Changes/')}
+                    self.assertEqual(sorted(pages), sorted(v['output']), v['about'])
+                    for k, t in v['output'].items():
+                        self.assertEqual(pages[k], t, k)
+                else:
+                    self.assertEqual(written(v['input']), v['output'], v['about'])
+
+
+class FileNames(unittest.TestCase):
+    """B7: a page's name is the place's, made safe; a link to it, every
+    character but letters, digits and -_.~, written as %XX."""
+
+    def test_safe(self):
+        self.assertEqual(imp.safe('Vi St.John/St.Thomas'), 'Vi St.John-St.Thomas')
+        self.assertEqual(imp.safe(' .Odd:  name? '), 'Odd name')
+        self.assertEqual(imp.safe('Añasco Municipio'), 'Añasco Municipio')
+
+    def test_link(self):
+        self.assertEqual(imp.link('Maine/Penobscot County/Indian Island (2301957936).md'),
+                         './Maine/Penobscot%20County/Indian%20Island%20%282301957936%29.md')
+        self.assertEqual(imp.link('Puerto Rico/Añasco Municipio.md'), './Puerto%20Rico/A%C3%B1asco%20Municipio.md')
+
+    def test_unique(self):
+        # one name twice in a folder, whatever its case: each named with its FIPS
+        self.assertEqual(imp.unique([('Dup town', '1'), ('DUP town', '2'), ('Other', '3')]),
+                         ['Dup town (1)', 'DUP town (2)', 'Other'])
 
 
 class Shape(unittest.TestCase):

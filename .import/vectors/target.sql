@@ -24,6 +24,12 @@ where table_name = 'County before 2006' and column_name not in ('name', '_file',
 select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
 where table_name = 'Change' and column_name not in ('name', '_file', '_line', '_end_line');
 
+-- name: B3 the keys of the listing pages, a state's or a New England county's, in both
+-- want: Level, Postal code, State FIPS, County FIPS, Counties, Towns / Level, Postal code, State FIPS, County FIPS, Counties, Towns
+select string_agg(k, ' / ' order by t) from (select table_name t, string_agg(column_name, ', ' order by ordinal_position) k
+from information_schema.columns where table_name in ('Fair Market Rents', 'Income Limits')
+and column_name not in ('name', '_file', '_line', '_end_line') group by t);
+
 -- name: B5 the kinds, each dataset its own
 -- want: Change, County before 2006, Fair Market Rents, Income Limits, Limits, Rents
 select string_agg(distinct table_name, ', ' order by table_name) from information_schema.columns
@@ -171,11 +177,11 @@ select count(*) from Limits l join "County before 2006" c on c.name = l."County 
 
 -- name: D7 no place HUD no longer lists on a state's page
 -- want: 0
-select count(*) from Limits where ("Last year" is not null) <> (_file = 'limits/Gone.md');
+select count(*) from Limits where ("Last year" is not null) <> (_file like 'limits/Gone/%');
 
 -- name: D7 the places HUD no longer lists, each with its last year
 -- want: {limits.gone}
-select count("Last year") from Limits where _file = 'limits/Gone.md';
+select count("Last year") from Limits where _file like 'limits/Gone/%';
 
 -- name: K1 every Connecticut town with its code before the planning regions, in both
 -- want: 169 169
@@ -206,3 +212,44 @@ with n as (
   union all select 'med', count(v) from (unpivot Limits_Median_family_income on columns('^[0-9]+$') into name y value v)
   union all select 'med', count(v) from (unpivot "County before 2006_Median_family_income" on columns('^[0-9]+$') into name y value v))
 select string_agg(c, ' ' order by o) from (select k, sum(c) c, case k when 'l50' then 1 when 'l80' then 2 when 'l30' then 3 when 'eli' then 4 else 5 end o from n group by k);
+
+-- name: B7 no page holds more than ten records of a kind (pages over ten)
+-- want: 0
+select count(*) from (
+  select _file, count(*) n from Rents group by _file union all
+  select _file, count(*) from Limits group by _file union all
+  select _file, count(*) from "County before 2006" group by _file union all
+  select _file, count(*) from Change group by _file union all
+  select _file, count(*) from "Fair Market Rents" group by _file union all
+  select _file, count(*) from "Income Limits" group by _file) where n > 10;
+
+-- name: B7 a place a page, a change a page: the most records of each on one page (Rents, Limits, Change)
+-- want: 1 1 1
+select (select max(n) from (select count(*) n from Rents group by _file)) || ' ' ||
+  (select max(n) from (select count(*) n from Limits group by _file)) || ' ' ||
+  (select max(n) from (select count(*) n from Change group by _file));
+
+-- name: B7 the pages written, rents and limits, every one gathered
+-- want: {rents.pages} {limits.pages}
+select count(*) filter (where path like 'rents/%') || ' ' || count(*) filter (where path like 'limits/%') from files;
+
+-- name: B7 every place's page linked from the page that lists it (Rents, Limits)
+-- want: {rents.records} {limits.records}
+select (select count(*) from Rents where _file in (select path from links)) || ' ' ||
+  (select count(*) from Limits where _file in (select path from links));
+
+-- name: B7 every change's page, and every page of county rows before 2006, linked
+-- want: {changes} 0
+select (select count(*) from Change where _file in (select path from links)) || ' ' ||
+  (select count(distinct _file) from "County before 2006" where _file not in (select path from links));
+
+-- name: B7 every place listed once, in its state's or county's table (the rents' and the limits' listed now)
+-- want: {rents.records} {limits.current}
+select (select count(distinct l.path) from "Fair Market Rents_Places" p join links l on l._file = p._file and l._line = p._line
+         join Rents r on r._file = l.path) || ' ' ||
+  (select count(distinct l.path) from "Income Limits_Places" p join links l on l._file = p._file and l._line = p._line
+         join Limits r on r._file = l.path);
+
+-- name: B7 no link that leads nowhere
+-- want: 0
+select count(*) from mend.warnings where kind = 'links';

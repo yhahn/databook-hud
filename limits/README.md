@@ -1,6 +1,6 @@
 # Income Limits, 1998 to 2026
 
-HUD's Section 8 income limits for every county, fiscal years 1998 to 2026: the area median family income, and the household incomes under which a family counts as extremely low, very low and low income, for households of one to eight. 4764 places as HUD keys them in FY2026 (counties, and New England towns), and 18 more that HUD has since stopped listing. Data only, printable as a book and queryable as tables: a file a state, a record a place, and proper gathers them into DuckDB.
+HUD's Section 8 income limits for every county, fiscal years 1998 to 2026: the area median family income, and the household incomes under which a family counts as extremely low, very low and low income, for households of one to eight. 4764 places as HUD lists them in FY2026 (3161 counties and 1603 New England towns), 18 more that HUD has since stopped listing ([Gone](./Gone.md)), and 125 New England county rows from before FY2006. Part of databook-hud: data only, printable as a book and queryable as tables.
 
 ## What the limits are
 
@@ -8,52 +8,78 @@ Each year HUD sets, for each metropolitan area and each county outside one, the 
 
 - **Very low income (50%)** starts from half the area's median family income for a family of four, adjusted for high or low housing costs, and for household size.
 - **Low income (80%)** starts from 80% of the median, likewise adjusted, and is capped near the national median.
-- **Extremely low income (30%)** is 30/50ths of the very low income limit. From FY2014 the law (the Consolidated Appropriations Act, 2014) made it the greater of that and the federal poverty guideline for the household size, but never above the very low income limit: that is why from 2014 the larger households' figures jump. Before FY2014 the column holds the plain 30% limit, which HUD has published since FY1999 (after the Quality Housing and Work Responsibility Act of 1998); FY1998 has none.
+- **Extremely low income (30%)**, since FY2014: the greater of 30/50ths of the very low income limit and the federal poverty guideline for the household size, never above the very low income limit (the Consolidated Appropriations Act, 2014). That is why the larger households' figures jump.
+- **30% limit**, FY1999 to FY2014: the plain 30/50ths of the very low income limit, as HUD set it before the Act; FY1998 has none.
 - **Median family income** is HUD's estimate of the area's median, the figure the limits start from.
 
 A county takes the limits of its area, so all the counties of one metropolitan area have the same limits. Until FY2010 HUD held an area's limits at the year before's where they would have fallen ("hold harmless"); since FY2009 it caps a year's rise.
 
 ## How it is written
 
-Each place is a record, `### County: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county): the same key as the Fair Market Rents databook, so a place's rents and its income limits join. Each record has four cards, a column a fiscal year and, for the limits, a row a household size, one to eight; empty where HUD gives none. Its `#### Areas` are the runs of years it sat in one HUD area (HUD's MSA numbers before FY2006, its area codes since).
+Each place is a record, `### Limits: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county): the rents' key, so a place's rents and its income limits join. Its cards, a column a fiscal year and, for the limits, a row a household size: Median family income, Extremely low income (30%) from FY2014, Very low income (50%), Low income (80%); empty where HUD gives none. Beside them, never in them, the table `30% limit, 1999 to 2014`, the old definition; FY2014 is in both, the year HUD published both. Its `#### Areas` are the runs of years it sat in one HUD area (HUD's MSA numbers before FY2006, its area codes since).
 
-Where a place's FIPS changed, it is followed: Connecticut's towns moved to planning-region codes in FY2023 (`- FIPS 2024:` keeps the old county code, as the rents do), and some Maine, Massachusetts and Vermont towns and three counties were renamed with new codes (`- FIPS before:`). Places HUD stopped listing (a county split or merged, a town deorganized, a part listed twice) are records of their own, with `- Last year:`.
+Where a place's FIPS changed, it is followed by code, a table of renames, or name: Connecticut's towns moved to planning-region codes in FY2025 (`- FIPS 2024:` keeps the old county code, as the rents do); some Maine, Massachusetts and Vermont towns and three counties were renamed with new codes (`- FIPS before:`, and `- FIPS earlier:` for a place with two).
 
-**Before FY2006** HUD keyed its limits by county and MSA, not by town, though it drew New England's areas by town, so a New England county could lie in several areas. A place before FY2006 takes its county's limits where the county lay wholly in one area. Where it was split (89 to 91 of HUD's rows a year, all in 33 New England counties), its years before 2006 are empty: the source cannot say which part a town was in.
+**Before FY2006** HUD keyed its limits by county and MSA, though it drew New England's areas by town, so a New England county could lie in several areas. Outside New England a county's row is its own record's. In New England a town's cards are empty before FY2006: its county's rows (123 to 125 a year) are records of their own, `### County before 2006: <county>, <ST> (MSA <number>)`, on the state's page, and each town names the one it lay in, from FY2006's own crosswalk, as `- County before 2006:`.
 
 ## How to ask
 
-Each card is one table across the country, a row a place and household size: `County_Extremely_low_income_30`, `County_Very_low_income_50`, `County_Low_income_80`; and `County_Median_family_income`, a row a place.
+Each card or table is one across the country, a row a place and household size: `Limits_Extremely_low_income_30`, `Limits_Very_low_income_50`, `Limits_Low_income_80`, `Limits_30_limit_1999_to_2014`; `Limits_Median_family_income`, a row a place; `Limits_Areas`, a row a run; and the county rows before 2006, `"County before 2006_Very_low_income_50"` and the like.
 
 ```sql
 -- a family of four's very low income limit, then and now, in Manhattan and Onondaga County
-select record, "1998", "2006", "2026" from County_Very_low_income_50
+select record, "1998", "2006", "2026" from Limits_Very_low_income_50
 where Persons = 4 and record in ('New York County, NY', 'Onondaga County, NY')
 ```
 
 ```sql
 -- the highest area median family incomes this year
-select record, "2026" from County_Median_family_income order by "2026" desc limit 10
+select record, "2026" from Limits_Median_family_income order by "2026" desc limit 10
 ```
-
-With the Fair Market Rents databook beside it: a family of four at the very low income limit, and what a two-bedroom rent takes of its income.
 
 ```sql
-select l.record, l."2026" as "Very low income, 4", r."2026" as "Two-bedroom rent",
-  round(100 * 12 * r."2026" / l."2026") as "Rent, % of income"
-from County_Very_low_income_50 l
-join County c on c.name = l.record
-join "repo_databook-hud-rents".County rc on rc.FIPS = c.FIPS
-join "repo_databook-hud-rents".County_table r on r.record = rc.name and r.Bedrooms = 2
-where l.Persons = 4
-order by "Rent, % of income" desc limit 10
+-- the two definitions of the 30% limit in FY2014, for a family of eight, where they differ most
+select o.record, o."2014" as "30% limit", n."2014" as "Extremely low income"
+from Limits_30_limit_1999_to_2014 o join Limits_Extremely_low_income_30 n using (record, Persons)
+where o.Persons = 8 order by n."2014" - o."2014" desc limit 10
 ```
 
-`FIPS` is gathered as a number, so its leading zero goes (in both databooks alike, so the join holds); `lpad(cast("FIPS" as varchar), 10, '0')` gives it back.
+```sql
+-- a Connecticut town's very low income limit for four, before and after 2006, through its county's row
+select t.name, c."2005" as "its county row, 2005", v."2006" as "the town, 2006"
+from Limits t
+join "County before 2006_Very_low_income_50" c on c.record = t."County before 2006" and c.Persons = 4
+join Limits_Very_low_income_50 v on v.record = t.name and v.Persons = 4
+where t.State = 'Connecticut' order by t.name limit 10
+```
+
+`FIPS` is gathered as a number, so its leading zero goes; `lpad(cast("FIPS" as varchar), 10, '0')` gives it back. The join with the rents is in the repo's README.
+
+## Changes
+
+Where HUD's files change a definition or a key, in full in [Changes](./Changes.md):
+
+- 2003: HUD's nonmetropolitan mark
+- 2006: New England keyed by town
+- 2006: Areas renumbered
+- 2010: Places recoded, listed or dropped (8)
+- 2013: Places recoded, listed or dropped (16)
+- 2014: Extremely low income redefined
+- 2016: Places recoded, listed or dropped (7)
+- 2017: Places recoded, listed or dropped (4)
+- 2018: Places recoded, listed or dropped (2)
+- 2019: Places recoded, listed or dropped (3)
+- 2020: Places recoded, listed or dropped (1)
+- 2021: Places recoded, listed or dropped (2)
+- 2022: Places recoded, listed or dropped (4)
+- 2023: Places recoded, listed or dropped (9)
+- 2025: Connecticut's planning regions
+- 2025: Places recoded, listed or dropped (2)
+- 2026: Places recoded, listed or dropped (6)
 
 ## The source
 
-HUD User, the Office of Policy Development and Research of the U.S. Department of Housing and Urban Development: *Income Limits*, <https://www.huduser.gov/portal/datasets/il.html>, the Section 8 file of each year (FY1998–2000 text; FY2001–2013 `.xls`; FY2014 `Poverty.xls`, the extremely low income limits; FY2015 on `.xlsx`). Written here by the importer (`.import/`); nothing here is edited by hand.
+HUD User, the Office of Policy Development and Research of the U.S. Department of Housing and Urban Development: *Income Limits*, <https://www.huduser.gov/portal/datasets/il.html>, the Section 8 file of each year (FY1998–2000 text; FY2001–2013 `.xls`; FY2014 `Poverty.xls` and `Section8.xls`; FY2015 on `.xlsx`). Written here by the importer (`.import/limits/`); nothing here is edited by hand.
 
 Notice of use: HUD's data are a work of the United States Government, and so free of copyright in the United States (17 U.S.C. 105). The limits in force for any program are those HUD publishes, not these copies. This databook is not HUD's, nor endorsed by it.
 
@@ -114,4 +140,5 @@ Notice of use: HUD's data are a work of the United States Government, and so fre
 - [Guam](./Guam.md): 1 county
 - [Northern Mariana Islands](./Northern%20Mariana%20Islands.md): 1 county
 - [Puerto Rico](./Puerto%20Rico.md): 78 counties
-- [Virgin Islands](./Virgin%20Islands.md): 3 counties
+- [U.S. Virgin Islands](./U.S.%20Virgin%20Islands.md): 3 counties
+- [Gone](./Gone.md): 18 places HUD no longer lists

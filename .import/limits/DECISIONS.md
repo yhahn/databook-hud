@@ -13,7 +13,9 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
    number, as the rents' is. Undo: none wanted.
 
 2. **Connecticut** went to planning-region codes (`091xx`) in HUD's
-   income limits from **FY2023** (the rents: FY2026). Its towns are
+   income limits from **FY2025** (the rents: FY2026). (Written FY2023
+   at first; the files say FY2025: FY2024's still has `0900x`/`0901x`.
+   Mended 10-13.) Its towns are
    followed back by name; the old county code is written
    `- FIPS 2024:`, as the rents write it (169 towns; all join the
    rents' `FIPS 2024`). Undo: `fipsBefore` in import.js.
@@ -38,9 +40,10 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
    (`…99998`: listed again inside the New York area, FY2006-2020, with
    that area's limits), and four pre-2006 rows that are no county
    today (W. Pacific Islands, GU; PR Non-Metro counties; VI St.
-   John/St. Thomas; Skagway-Yakutat-Angoon, AK). These have
-   `- Metro code: none` and `- MSA:` their last number. Undo: drop
-   records with `gone` in import.js.
+   John/St. Thomas; Skagway-Yakutat-Angoon, AK). Since 10-13 (SPEC D7)
+   they are out of the state pages, on `limits/Gone.md`, still of kind
+   Limits so a count of earlier years finds them; the four pre-2006
+   ones have `- Metro code:` blank and `- MSA:` their last number.
 
 ## Before FY2006
 
@@ -51,21 +54,30 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
    record takes the row of the county it lay in in FY2006 (so a
    Connecticut town takes its old county's row). Undo: `--from 2006`.
 
-6. **New England's split counties are left empty before FY2006.**
-   HUD drew New England's areas by town but keyed these years by
-   county, so 33 counties (CT, ME, MA, NH, RI, VT) lie in two to
-   several areas, 89 to 91 rows a year. A town in such a county cannot
-   be told its part, so its years before 2006 are empty, not guessed.
-   A town in a county wholly in one area takes that county's row:
-   every part of it had those limits. Undo: `p.length === 1` in the
-   pre-2006 loop.
+6. **New England before FY2006 is kept by county, apart** (10-13, the
+   person: SPEC D2, D3, D6). HUD drew New England's areas by town but
+   keyed these years by county and MSA. A town's own cards are empty
+   before FY2006, even where its county lay wholly in one area (it was
+   filled then; no more). Every New England row of FY1998-2005, 123 a
+   year, is a record of its own, `### County before 2006: <county>,
+   <ST> (MSA <n>)` (or `(nonmetro)`: HUD's mark was 0 to FY2002, 10000
+   after, one part), on the state's page under `## Counties before
+   2006`, with plain tables, not cards. The crosswalk is HUD's own:
+   FY2006's file gives each town its old MSA (`msa`, beside `CBSASub`),
+   so each town names its county's row as `- County before 2006:`; all
+   1,604 towns of FY2006 tie. Crawford County, MO, split between two
+   areas in FY2003-2004, is kept the same way (its own record's two
+   years empty). Undo: the `NEW_ENGLAND` branch of the pre-2006 loop.
 
 ## Shape
 
-7. **As the rents**: a file a state (`<State name>.md`, `# State:`),
-   a record a place, `### County: <name>, <ST>`, towns the same kind
-   with `- Level: Town`; rows `FIPS`, `Level`, `State`, `Area` (the
-   latest area's name), `Metro code` (its code). Names are HUD's;
+7. **As the rents**: a file a state (`limits/<State name>.md`,
+   `# Income Limits: <State>`), a record a place, `### Limits: <name>,
+   <ST>` (was `### County:` until 10-13: SPEC B5), towns the same kind
+   with `- Level: Town`; rows `FIPS`, `FIPS 2024`, `FIPS before`,
+   `FIPS earlier`, `Level`, `State`, `Area` (the latest area's name),
+   `Metro code` (its code), `MSA`, `County before 2006`, `Last year`,
+   every one in every record, blank where none. Names are HUD's;
    FY2026 cuts them at 26 letters, so a cut name takes the whole one an
    earlier year gave (`Penobscot Indian Island Reservation`); one with
    none stays cut (`North Attleborough Town ci`). The two Penobscot
@@ -76,21 +88,21 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
    table across the country: `#### Median family income` (a row,
    `Measure | Median`), and `#### Extremely low income (30%)`,
    `#### Very low income (50%)`, `#### Low income (80%)`, a row a
-   household size (`Persons` 1-8). Every card has the same 29 year
-   columns, 1998-2026, empty where HUD gives nothing. Gathered:
-   `County_Median_family_income`, `County_Extremely_low_income_30`,
-   `County_Very_low_income_50`, `County_Low_income_80`. Line cards,
-   as the rents. Undo: `card()`.
+   household size (`Persons` 1-8). The median and the 50% and 80% cards
+   have 29 year columns, 1998-2026; the extremely low income card 13,
+   2014-2026 (decision 9). Gathered: `Limits_Median_family_income`,
+   `Limits_Extremely_low_income_30`, `Limits_Very_low_income_50`,
+   `Limits_Low_income_80`. Undo: `card()`.
 
-9. **The 30% card holds the plain 30% limit before FY2014**, and the
-   extremely low income limit (the greater of it and the poverty
-   guideline, capped at very low income) from FY2014. HUD named the
-   30% limits "extremely low income" since the 1998 Act; the 2014 Act
-   redefined them. One card keeps the series a reader looks for; the
-   README says where it changes. FY2014's file is `Poverty.xls` (the
-   redefined limits), not `Section8.xls` (the old 30%); the 50% and 80%
-   limits are the same in both. FY1998 has no 30% limit. Undo: read
-   `Section8.xls` for FY2014, or leave pre-2014 out of the card.
+9. **The 30% limit, split at its redefinition** (10-13, the person:
+   SPEC D1-D4). The card "Extremely low income (30%)" holds FY2014 on,
+   the definition of the Act of 2014 (the greater of 30/50ths of very
+   low income and the poverty guideline, never above very low income),
+   FY2014 from `Poverty.xls`. The plain 30% limit, FY1999-2014, is a
+   plain table `#### 30% limit, 1999 to 2014`, FY2014 from
+   `Section8.xls`: both in the year HUD published both. The importer
+   stops if the two FY2014 files differ in anything but the 30% limit.
+   FY1998 has no 30% limit. Undo: `LEVELS`, `OLD30`.
 
 10. **`#### Areas`, as runs**, `| From | To | MSA | Metro code | Area |`:
     a run is one area code over unbroken years, named as last written.
@@ -103,8 +115,9 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
     none wanted.
 
 12. **The README is the importer's** (`readme.js`): what the limits
-    are, how they are keyed, three queries (one joining the rents),
-    the source and its notice, the states. Undo: `readme.js`.
+    are, how they are keyed, four queries, the changes, the source and
+    its notice, the states. The join with the rents is the repo's front
+    page now. Undo: `readme.js`.
 
 ## Later
 

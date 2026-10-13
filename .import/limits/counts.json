@@ -1,12 +1,163 @@
 {
+ "records": 4782,
+ "current": 4764,
+ "gone": 18,
+ "counties": 3161,
+ "towns": 1603,
+ "era": 125,
+ "eraTowns": 1604,
+ "unmatched": 0,
+ "tables": {
+  "Limits_Median_family_income": {
+   "rows": 4782,
+   "cells": 124645
+  },
+  "Limits_Extremely_low_income_30": {
+   "rows": 38256,
+   "cells": 495768
+  },
+  "Limits_Very_low_income_50": {
+   "rows": 38256,
+   "cells": 997160
+  },
+  "Limits_Low_income_80": {
+   "rows": 38256,
+   "cells": 997160
+  },
+  "Limits_30_limit_1999_to_2014": {
+   "rows": 38192,
+   "cells": 514984
+  },
+  "Limits_Areas": {
+   "rows": 10849,
+   "cells": 0
+  },
+  "County before 2006_Median_family_income": {
+   "rows": 125,
+   "cells": 988
+  },
+  "County before 2006_30_limit": {
+   "rows": 1000,
+   "cells": 6920
+  },
+  "County before 2006_Very_low_income_50": {
+   "rows": 1000,
+   "cells": 7904
+  },
+  "County before 2006_Low_income_80": {
+   "rows": 1000,
+   "cells": 7904
+  }
+ },
+ "cells": {
+  "1998": 3068,
+  "1999": 3068,
+  "2000": 3068,
+  "2001": 3068,
+  "2002": 3068,
+  "2003": 3070,
+  "2004": 3070,
+  "2005": 3073,
+  "2006": 4764,
+  "2007": 4764,
+  "2008": 4764,
+  "2009": 4764,
+  "2010": 4766,
+  "2011": 4766,
+  "2012": 4766,
+  "2013": 4767,
+  "2014": 4767,
+  "2015": 4767,
+  "2016": 4771,
+  "2017": 4771,
+  "2018": 4771,
+  "2019": 4769,
+  "2020": 4768,
+  "2021": 4766,
+  "2022": 4765,
+  "2023": 4764,
+  "2024": 4764,
+  "2025": 4764,
+  "2026": 4764
+ },
+ "changes": [
+  [
+   2003,
+   "HUD's nonmetropolitan mark"
+  ],
+  [
+   2006,
+   "New England keyed by town"
+  ],
+  [
+   2006,
+   "Areas renumbered"
+  ],
+  [
+   2010,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2013,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2014,
+   "Extremely low income redefined"
+  ],
+  [
+   2016,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2017,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2018,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2019,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2020,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2021,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2022,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2023,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2025,
+   "Connecticut's planning regions"
+  ],
+  [
+   2025,
+   "Places recoded, listed or dropped"
+  ],
+  [
+   2026,
+   "Places recoded, listed or dropped"
+  ]
+ ],
  "ledger": [
   {
    "year": 1998,
    "rows": 3189,
    "exact": 0,
    "byName": 0,
-   "county": 3095,
-   "split": 89,
+   "county": 3061,
+   "era": 123,
    "orphan": 5,
    "twice": 0
   },
@@ -15,8 +166,8 @@
    "rows": 3189,
    "exact": 0,
    "byName": 0,
-   "county": 3098,
-   "split": 89,
+   "county": 3064,
+   "era": 123,
    "orphan": 2,
    "twice": 0
   },
@@ -25,8 +176,8 @@
    "rows": 3189,
    "exact": 0,
    "byName": 0,
-   "county": 3098,
-   "split": 89,
+   "county": 3064,
+   "era": 123,
    "orphan": 2,
    "twice": 0
   },
@@ -35,8 +186,8 @@
    "rows": 3189,
    "exact": 0,
    "byName": 0,
-   "county": 3098,
-   "split": 89,
+   "county": 3064,
+   "era": 123,
    "orphan": 2,
    "twice": 0
   },
@@ -45,8 +196,8 @@
    "rows": 3189,
    "exact": 0,
    "byName": 0,
-   "county": 3098,
-   "split": 89,
+   "county": 3064,
+   "era": 123,
    "orphan": 2,
    "twice": 0
   },
@@ -55,8 +206,8 @@
    "rows": 3193,
    "exact": 0,
    "byName": 0,
-   "county": 3099,
-   "split": 91,
+   "county": 3065,
+   "era": 125,
    "orphan": 3,
    "twice": 0
   },
@@ -65,8 +216,8 @@
    "rows": 3193,
    "exact": 0,
    "byName": 0,
-   "county": 3100,
-   "split": 91,
+   "county": 3066,
+   "era": 125,
    "orphan": 2,
    "twice": 0
   },
@@ -75,8 +226,8 @@
    "rows": 3194,
    "exact": 0,
    "byName": 0,
-   "county": 3103,
-   "split": 89,
+   "county": 3069,
+   "era": 123,
    "orphan": 2,
    "twice": 0
   },
@@ -86,7 +237,7 @@
    "exact": 4551,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 14,
    "twice": 0
   },
@@ -96,7 +247,7 @@
    "exact": 4565,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -106,7 +257,7 @@
    "exact": 4565,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -116,7 +267,7 @@
    "exact": 4565,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -126,7 +277,7 @@
    "exact": 4567,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -136,7 +287,7 @@
    "exact": 4567,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -146,7 +297,7 @@
    "exact": 4567,
    "byName": 199,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -156,7 +307,7 @@
    "exact": 4579,
    "byName": 188,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -166,7 +317,7 @@
    "exact": 4579,
    "byName": 188,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -176,7 +327,7 @@
    "exact": 4579,
    "byName": 188,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -186,7 +337,7 @@
    "exact": 4583,
    "byName": 188,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -196,7 +347,7 @@
    "exact": 4586,
    "byName": 185,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -206,7 +357,7 @@
    "exact": 4588,
    "byName": 183,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -216,7 +367,7 @@
    "exact": 4587,
    "byName": 182,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -226,7 +377,7 @@
    "exact": 4586,
    "byName": 182,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -236,7 +387,7 @@
    "exact": 4584,
    "byName": 182,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -246,7 +397,7 @@
    "exact": 4586,
    "byName": 179,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -256,7 +407,7 @@
    "exact": 4589,
    "byName": 175,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -266,7 +417,7 @@
    "exact": 4589,
    "byName": 175,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -276,7 +427,7 @@
    "exact": 4758,
    "byName": 6,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   },
@@ -286,45 +437,9 @@
    "exact": 4764,
    "byName": 0,
    "county": 0,
-   "split": 0,
+   "era": 0,
    "orphan": 0,
    "twice": 0
   }
- ],
- "written": {
-  "files": 56,
-  "records": 4782,
-  "gone": 18,
-  "cells": {
-   "1998": 3843,
-   "1999": 3843,
-   "2000": 3843,
-   "2001": 3843,
-   "2002": 3843,
-   "2003": 3845,
-   "2004": 3845,
-   "2005": 3848,
-   "2006": 4764,
-   "2007": 4764,
-   "2008": 4764,
-   "2009": 4764,
-   "2010": 4766,
-   "2011": 4766,
-   "2012": 4766,
-   "2013": 4767,
-   "2014": 4767,
-   "2015": 4767,
-   "2016": 4771,
-   "2017": 4771,
-   "2018": 4771,
-   "2019": 4769,
-   "2020": 4768,
-   "2021": 4766,
-   "2022": 4765,
-   "2023": 4764,
-   "2024": 4764,
-   "2025": 4764,
-   "2026": 4764
-  }
- }
+ ]
 }

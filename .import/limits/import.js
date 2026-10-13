@@ -1,61 +1,42 @@
 #!/usr/bin/env node
-// Writes the Income Limits databook from HUD's Section 8 income limits,
-// FY1998 to the latest year kept.
+// The Income Limits' importer, for databook-hud's limits/: HUD's Section 8
+// income limits, FY1998 to the latest year kept.
 //
-//   node .import/import.js [--from 1998] [--src ~/.cache/proper/hud/il] [--out <repo>]
+//   node .import/limits/import.js [--src ~/.cache/proper/hud/il] [--out <repo>/limits]
 //
 // A file a state; a record a county (or New England town) as HUD keys it
-// today, by its 10-digit FIPS, the key of the Fair Market Rents databook.
-// Each record carries its median family income and its three limits as
-// cards, years across, and the areas it has belonged to. Says what it wrote,
-// and every row it could not key.
+// today, `### Limits: <name>`, by its 10-digit FIPS, the rents' key. Each
+// record carries its median family income and its limits as cards, years
+// across, and the areas it has belonged to. Where HUD changed a definition
+// or a key, the older form is kept apart and never spliced (SPEC D1-D7):
+// the plain 30% limit to FY2014, New England's county rows before FY2006,
+// the places HUD no longer lists. Says what it wrote, and every row it could
+// not key. Tests: import.test.js, vectors/.
 
 const fs = require('node:fs');
 const path = require('node:path');
 const os = require('node:os');
-const { FILES, STATES, SIZES, readYear } = require('./sources');
+const { FILES, OLD30, STATES, SIZES, readYear } = require('./sources');
 
-const arg = (name, fallback) => { const i = process.argv.indexOf(`--${name}`); return i > 0 ? process.argv[i + 1] : fallback; };
-const SRC = arg('src', path.join(os.homedir(), '.cache/proper/hud/il'));
-const OUT = path.resolve(arg('out', path.join(__dirname, '..')));
-const YEARS = Object.keys(FILES).map(Number).filter((y) => y >= Number(arg('from', 1998))).sort();
+const YEARS = Object.keys(FILES).map(Number).sort();
 const LATEST = YEARS[YEARS.length - 1];
 const KEYED = 2006; // from FY2006 the files carry the FIPS; before, state, county and MSA
+const ELI = 2014; // the extremely low income limit, redefined (Consolidated Appropriations Act, 2014)
+const OLD30_YEARS = YEARS.filter((y) => y >= 1999 && y <= ELI); // FY1998 has no 30% limit
+const NEW_ENGLAND = new Set(['09', '23', '25', '33', '44', '50']);
 
 const LEVELS = [
-  ['l30', 'Extremely low income (30%)'],
-  ['l50', 'Very low income (50%)'],
-  ['l80', 'Low income (80%)'],
+  ['l30', 'Extremely low income (30%)', YEARS.filter((y) => y >= ELI)],
+  ['l50', 'Very low income (50%)', YEARS],
+  ['l80', 'Low income (80%)', YEARS],
 ];
 
 const norm = (s) => String(s ?? '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 const stateOf = (fips) => STATES[fips.slice(0, 2)];
+// HUD's nonmetropolitan mark before FY2006: 0 to FY2002, 10000 from FY2003
+const msaOf = (code) => (code === '0' ? '10000' : code);
+const isCounty = (fips) => /9999[89]$/.test(fips);
 
-// --- the records: today's areas, then the years matched to them -----------
-
-const byYear = new Map(YEARS.map((y) => [y, readYear(SRC, y)]));
-const ledger = YEARS.map((y) => ({ year: y, rows: byYear.get(y).length, exact: 0, byName: 0, county: 0, split: 0, orphan: 0, twice: 0 }));
-const L = (y) => ledger.find((l) => l.year === y);
-
-const records = new Map(); // fips -> record
-const newRecord = (row, fips) => ({
-  fips, name: row.name, alpha: row.alpha || stateOf(fips)[0], stateFips: fips.slice(0, 2),
-  years: new Map(), // year -> row
-  county2006: null, // the state and county it lay in when keyed first (FY2006 or after)
-  gone: false,
-  before: new Set(), // the FIPS it was written under in earlier years, where they differ
-});
-const twice = [];
-for (const r of byYear.get(LATEST)) records.set(r.fips, newRecord(r, r.fips));
-
-// A name a state, for rows whose FIPS has changed (Connecticut's towns in
-// FY2023, a few towns in Maine and Massachusetts): matched only where the
-// name is one record's alone.
-const nameIndex = new Map();
-// and a base name a county, for a town whose name and code both changed when
-// it took a city's form ("Amesbury town" to "Amesbury Town city" to
-// "Amesbury city", each with a new code): the same place, renamed.
-const base = (s) => norm(s).replace(/( (town|city|plantation|township|gore|grant|location|purchase|unorganized territory|ut))+$/, '');
 // Places the Census renamed with a new code, which no name would find: the
 // county and town changes it publishes, each the same land under a new name.
 const RENAMED = {
@@ -70,77 +51,421 @@ const RENAMED = {
   5001123875: '5001124050', // Enosburg town, VT to Enosburgh
   5001300700: '5001300860', // Alburg town, VT to Alburgh
 };
-const baseIndex = new Map();
-const index = (map, k, rec) => map.set(k, map.has(k) ? null : rec);
-for (const rec of records.values()) {
-  index(nameIndex, `${rec.stateFips}|${norm(rec.name)}`, rec);
-  index(baseIndex, `${rec.fips.slice(0, 5)}|${base(rec.name)}`, rec);
-}
 
-for (const y of YEARS.filter((y) => y >= KEYED)) {
-  const l = L(y);
-  // rows whose FIPS is a record's first, so that a name never takes a year
-  // its own row holds (Rockland and Westchester, NY, are listed twice in
-  // FY2006-2020: as themselves, 99999, and in the New York area, 99998)
-  const rows = byYear.get(y);
-  for (const r of [...rows.filter((r) => records.has(r.fips)), ...rows.filter((r) => !records.has(r.fips))]) {
-    let rec = records.get(r.fips);
-    if (rec) { if (!rec.years.has(y)) l.exact++; } else {
-      rec = records.get(RENAMED[r.fips]) ?? nameIndex.get(`${r.stateFips}|${norm(r.name)}`) ?? baseIndex.get(`${r.fips.slice(0, 5)}|${base(r.name)}`);
-      if (rec && !rec.years.has(y)) { l.byName++; rec.before.add(r.fips); }
-      else {
-        // an area HUD no longer lists (a county split or merged, a town
-        // deorganized): a record of its own, under its last FIPS
-        rec = newRecord(r, r.fips);
-        rec.gone = true;
-        records.set(r.fips, rec);
-        l.orphan++;
+// --- the records: today's places, then the years matched to them ----------
+
+function build({ byYear, old30 }) {
+  const rowsOf = (y) => byYear.get(y) ?? [];
+  const ledger = YEARS.map((y) => ({ year: y, rows: rowsOf(y).length, exact: 0, byName: 0, county: 0, era: 0, orphan: 0, twice: 0 }));
+  const L = (y) => ledger.find((l) => l.year === y);
+
+  const records = new Map(); // fips -> record
+  const newRecord = (row, fips) => ({
+    fips, name: row.name, alpha: row.alpha || stateOf(fips)[0], stateFips: fips.slice(0, 2),
+    years: new Map(), // year -> row
+    county2006: null, // the state and county it lay in when keyed first (FY2006 or after)
+    gone: false,
+    codes: new Map(), // year -> the FIPS its row had that year
+    era: null, // New England: the county row it lay in before FY2006 (the crosswalk)
+  });
+  const twice = [];
+  for (const r of rowsOf(LATEST)) records.set(r.fips, newRecord(r, r.fips));
+
+  // A name a state, for rows whose FIPS has changed (Connecticut's towns in
+  // FY2025, a few towns in Maine and Massachusetts): matched only where the
+  // name is one record's alone; and a base name a county, for a town whose
+  // name and code both changed when it took a city's form ("Amesbury town"
+  // to "Amesbury Town city" to "Amesbury city").
+  const base = (s) => norm(s).replace(/( (town|city|plantation|township|gore|grant|location|purchase|unorganized territory|ut))+$/, '');
+  const nameIndex = new Map();
+  const baseIndex = new Map();
+  const index = (map, k, rec) => map.set(k, map.has(k) ? null : rec);
+  for (const rec of records.values()) {
+    index(nameIndex, `${rec.stateFips}|${norm(rec.name)}`, rec);
+    index(baseIndex, `${rec.fips.slice(0, 5)}|${base(rec.name)}`, rec);
+  }
+
+  for (const y of YEARS.filter((y) => y >= KEYED)) {
+    const l = L(y);
+    // rows whose FIPS is a record's first, so that a name never takes a year
+    // its own row holds (Rockland and Westchester, NY, are listed twice in
+    // FY2006-2020: as themselves, 99999, and in the New York area, 99998)
+    const rows = rowsOf(y);
+    for (const r of [...rows.filter((r) => records.has(r.fips)), ...rows.filter((r) => !records.has(r.fips))]) {
+      let rec = records.get(r.fips);
+      if (rec) { if (!rec.years.has(y)) l.exact++; } else {
+        rec = records.get(RENAMED[r.fips]) ?? nameIndex.get(`${r.stateFips}|${norm(r.name)}`) ?? baseIndex.get(`${r.fips.slice(0, 5)}|${base(r.name)}`);
+        if (rec && !rec.years.has(y)) l.byName++;
+        else {
+          // a place HUD no longer lists (a county split or merged, a town
+          // deorganized): a record of its own, under its last FIPS
+          rec = newRecord(r, r.fips);
+          rec.gone = true;
+          records.set(r.fips, rec);
+          l.orphan++;
+        }
+      }
+      if (rec.years.has(y)) { l.twice++; twice.push(`FY${y} ${r.fips} ${r.name} (${r.areaName}): ${rec.fips} has FY${y} already`); continue; }
+      rec.years.set(y, r);
+      rec.codes.set(y, r.fips);
+      if (!rec.county2006) rec.county2006 = r.fips.slice(0, 5);
+      if (rec.gone) rec.name = r.name; // its name as it was last written
+    }
+  }
+
+  // Before FY2006 a row is a county's part in one area. Outside New England a
+  // county lay in one area, and its row is every record's within it. In New
+  // England HUD drew areas by town but keyed these years by county: its rows
+  // are records of their own (County before 2006), never a town's (D6).
+  const eraRecords = new Map(); // county5|msa -> era record
+  for (const y of YEARS.filter((y) => y < KEYED)) {
+    const l = L(y);
+    const parts = new Map();
+    for (const r of rowsOf(y)) {
+      let k = r.stateFips + r.county3;
+      if (NEW_ENGLAND.has(r.stateFips)) {
+        const ek = `${k}|${msaOf(r.areaCode)}`;
+        if (!eraRecords.has(ek)) eraRecords.set(ek, { county5: k, msa: msaOf(r.areaCode), years: new Map(), towns: 0 });
+        eraRecords.get(ek).years.set(y, r);
+        l.era++;
+        continue;
+      }
+      if (RENAMED[`${k}99999`]) k = RENAMED[`${k}99999`].slice(0, 5);
+      if (!parts.has(k)) parts.set(k, []);
+      parts.get(k).push(r);
+    }
+    // a county outside New England split between areas in a year (Crawford
+    // County, MO, FY2003-2004): its parts are county rows of their own too,
+    // and its record's year is empty
+    for (const [k, p] of parts) {
+      if (p.length < 2) continue;
+      for (const r of p) {
+        const ek = `${k}|${msaOf(r.areaCode)}`;
+        if (!eraRecords.has(ek)) eraRecords.set(ek, { county5: k, msa: msaOf(r.areaCode), years: new Map(), towns: 0 });
+        eraRecords.get(ek).years.set(y, r);
+        l.era++;
       }
     }
-    if (rec.years.has(y)) { l.twice++; twice.push(`FY${y} ${r.fips} ${r.name} (${r.areaName}): ${rec.fips} has FY${y} already`); continue; }
-    rec.years.set(y, r);
-    if (!rec.county2006) rec.county2006 = r.fips.slice(0, 5);
-    if (rec.gone) rec.name = r.name; // its name as it was last written
+    const claimed = new Set();
+    for (const rec of records.values()) {
+      if (NEW_ENGLAND.has(rec.stateFips)) continue;
+      const k = rec.county2006 ?? rec.fips.slice(0, 5);
+      const p = parts.get(k);
+      if (!p) continue;
+      claimed.add(k);
+      if (p.length === 1) rec.years.set(y, p[0]);
+    }
+    for (const [k, p] of parts) {
+      if (!claimed.has(k)) {
+        // a county gone before FY2006: a record of its own
+        const fips = `${k}99999`;
+        const rec = records.get(fips) ?? Object.assign(newRecord(p[0], fips), { gone: true });
+        records.set(fips, rec);
+        if (p.length === 1) { rec.years.set(y, p[0]); rec.name = rec.name || p[0].name; l.orphan++; }
+      } else if (p.length === 1) l.county++;
+    }
   }
-}
-
-// Before FY2006 a row is a county's part in one area. Where a county lay
-// wholly in one area, every record within it takes that row; where it was
-// split among areas (New England's counties, mostly), no record can be told
-// which part was its own, and the year is left empty.
-for (const y of YEARS.filter((y) => y < KEYED)) {
-  const l = L(y);
-  const parts = new Map();
-  for (const r of byYear.get(y)) {
-    let k = r.stateFips + r.county3;
-    if (RENAMED[`${k}99999`]) k = RENAMED[`${k}99999`].slice(0, 5);
-    if (!parts.has(k)) parts.set(k, []);
-    parts.get(k).push(r);
-  }
-  const claimed = new Set();
+  // the crosswalk at 2006: FY2006's msa column gives each New England town
+  // the MSA it lay in, and so its county's row before
+  const unmatched = [];
   for (const rec of records.values()) {
-    const k = rec.county2006 ?? rec.fips.slice(0, 5);
-    const p = parts.get(k);
-    if (!p) continue;
-    claimed.add(k);
-    if (p.length === 1) rec.years.set(y, p[0]);
+    const r = rec.years.get(KEYED);
+    if (!NEW_ENGLAND.has(rec.stateFips) || !r) continue;
+    const era = eraRecords.get(`${r.fips.slice(0, 5)}|${msaOf(r.oldMsa ?? '')}`);
+    if (era && era.years.has(KEYED - 1)) { rec.era = era; era.towns++; } else unmatched.push(`${rec.fips} ${rec.name} (msa ${r.oldMsa})`);
   }
-  for (const [k, p] of parts) {
-    if (!claimed.has(k)) {
-      // a county gone before FY2006: a record of its own
-      const fips = `${k}99999`;
-      const rec = records.get(fips) ?? Object.assign(newRecord(p[0], fips), { gone: true });
-      records.set(fips, rec);
-      if (p.length === 1) { rec.years.set(y, p[0]); rec.name = rec.name || p[0].name; l.orphan++; } else l.split += p.length;
-    } else if (p.length === 1) l.county++;
-    else l.split += p.length;
+
+  // FY2014's plain 30% limit, by FIPS: the old definition in the year of the
+  // new; the 50% and 80% limits and the median must be the same in both files
+  const old30By = new Map();
+  for (const [y, rows] of old30) {
+    const now = new Map(rowsOf(y).map((r) => [r.fips, r]));
+    for (const r of rows) {
+      const n = now.get(r.fips);
+      if (!n || n.median !== r.median || String(n.l50) !== String(r.l50) || String(n.l80) !== String(r.l80)) {
+        throw new Error(`FY${y}: the two files differ beyond the 30% limit at ${r.fips} ${r.name}; read them before going on`);
+      }
+      old30By.set(`${y}|${r.fips}`, r.l30);
+    }
+    if (now.size !== rows.length) throw new Error(`FY${y}: ${now.size} rows in one file, ${rows.length} in the other`);
   }
+  const old30Of = (rec, y) => {
+    if (y === ELI) { const r = rec.years.get(y); return r ? old30By.get(`${y}|${r.fips}`) ?? null : null; }
+    return y < ELI ? rec.years.get(y)?.l30 ?? null : null;
+  };
+
+  // --- writing --------------------------------------------------------------
+
+  const all = [...records.values()].filter((r) => r.years.size > 0);
+  const clashKeys = new Map();
+  for (const r of all) { const k = `${r.stateFips}|${norm(r.name)}`; clashKeys.set(k, (clashKeys.get(k) ?? 0) + 1); }
+  const clashes = new Set([...clashKeys].filter(([, n]) => n > 1).map(([k]) => k));
+  const displayName = (rec) => {
+    let name = titleCase(fullName(rec));
+    if (clashes.has(`${rec.stateFips}|${norm(rec.name)}`)) name += ` (${rec.fips})`;
+    return `${name}, ${rec.alpha || rec.years.get(Math.max(...rec.years.keys())).alpha}`;
+  };
+  const eraName = (e) => {
+    const r = e.years.get(Math.max(...e.years.keys()));
+    const county = titleCase(r.name.replace(/\s+\(part\)$/i, ''));
+    return `${county}, ${stateOf(e.county5 + '00000')[0]} (${e.msa === '10000' ? 'nonmetro' : `MSA ${e.msa}`})`;
+  };
+
+  const texts = new Map(); // a record's name -> its markdown, for the tests
+  const pages = {};
+  const counts = {
+    records: 0, current: 0, gone: 0, counties: 0, towns: 0, era: eraRecords.size, eraTowns: 0,
+    unmatched: unmatched.length,
+    tables: {},
+    cells: Object.fromEntries(YEARS.map((y) => [y, 0])),
+  };
+  const tally = (table, rows, cells) => {
+    const t = (counts.tables[table] ??= { rows: 0, cells: 0 });
+    t.rows += rows; t.cells += cells;
+  };
+  const filled = (vals) => vals.filter((v) => v != null && v !== '').length;
+
+  function recordText(rec) {
+    const latestYear = Math.max(...rec.years.keys());
+    const latest = rec.years.get(latestYear);
+    const [f24, before, earlier] = fipsBefore(rec);
+    const name = displayName(rec);
+    const lines = [
+      `### Limits: ${name}`, '',
+      `- FIPS: ${rec.fips}`,
+      `- FIPS 2024: ${f24}`,
+      `- FIPS before: ${before}`,
+      `- FIPS earlier: ${earlier}`,
+      `- Level: ${isCounty(rec.fips) ? 'County' : 'Town'}`,
+      `- State: ${stateOf(rec.fips)[1]}`,
+      `- Area: ${latest.areaName ?? ''}`,
+      // HUD's area codes since FY2006 (METRO…, NCNTY…); its MSA numbers before
+      `- Metro code: ${latestYear >= KEYED ? latest.areaCode : ''}`,
+      `- MSA: ${latestYear < KEYED ? latest.areaCode : ''}`,
+      `- County before 2006: ${rec.era ? eraName(rec.era) : ''}`,
+      `- Last year: ${rec.gone ? latestYear : ''}`,
+    ];
+    const median = YEARS.map((y) => rec.years.get(y)?.median);
+    lines.push('', '#### Median family income', '', ...card('Median family income', 'Measure', YEARS, [['Median', median]]));
+    tally('Limits_Median_family_income', 1, filled(median));
+    for (const [k, title, years] of LEVELS) {
+      const rows = SIZES.map((n) => [n, years.map((y) => rec.years.get(y)?.[k]?.[n - 1])]);
+      lines.push('', `#### ${title}`, '', ...card(title, 'Persons', years, rows));
+      tally(`Limits_${tableName(title)}`, 8, rows.reduce((s, [, v]) => s + filled(v), 0));
+    }
+    const old = SIZES.map((n) => [n, OLD30_YEARS.map((y) => old30Of(rec, y)?.[n - 1])]);
+    if (old.some(([, v]) => filled(v))) {
+      lines.push('', '#### 30% limit, 1999 to 2014', '', ...plain('Persons', OLD30_YEARS, old));
+      tally('Limits_30_limit_1999_to_2014', 8, old.reduce((s, [, v]) => s + filled(v), 0));
+    }
+    const runs = areas(rec);
+    lines.push('', '#### Areas', '', '| From | To | MSA | Metro code | Area |', '|---|---|---|---|---|');
+    for (const a of runs) lines.push(`| ${a.from} | ${a.to} | ${a.from < KEYED ? a.code : ''} | ${a.from < KEYED ? '' : a.code} | ${a.name} |`);
+    tally('Limits_Areas', runs.length, 0);
+    const text = lines.join('\n');
+    texts.set(name, text);
+    counts.records++;
+    for (const y of rec.years.keys()) counts.cells[y]++;
+    return text;
+  }
+
+  const ERA_YEARS = YEARS.filter((y) => y < KEYED);
+  function eraText(e) {
+    const r = e.years.get(Math.max(...e.years.keys()));
+    const name = eraName(e);
+    const lines = [
+      `### County before 2006: ${name}`, '',
+      `- County FIPS: ${e.county5}`,
+      `- State: ${stateOf(e.county5 + '00000')[1]}`,
+      `- MSA: ${e.msa}`,
+      `- Area: ${r.areaName ?? ''}`,
+      `- Towns: ${e.towns}`,
+    ];
+    const median = ERA_YEARS.map((y) => e.years.get(y)?.median);
+    lines.push('', '#### Median family income', '', ...plain('Measure', ERA_YEARS, [['Median', median]]));
+    tally('County before 2006_Median_family_income', 1, filled(median));
+    const sets = [['l30', '30% limit', ERA_YEARS.filter((y) => y >= 1999)], ['l50', 'Very low income (50%)', ERA_YEARS], ['l80', 'Low income (80%)', ERA_YEARS]];
+    for (const [k, title, years] of sets) {
+      const rows = SIZES.map((n) => [n, years.map((y) => e.years.get(y)?.[k]?.[n - 1])]);
+      lines.push('', `#### ${title}`, '', ...plain('Persons', years, rows));
+      tally(`County before 2006_${tableName(title)}`, 8, rows.reduce((s, [, v]) => s + filled(v), 0));
+    }
+    texts.set(name, lines.join('\n'));
+    counts.eraTowns += e.towns;
+    return lines.join('\n');
+  }
+
+  const byState = new Map();
+  for (const r of all) {
+    if (!byState.has(r.stateFips)) byState.set(r.stateFips, []);
+    byState.get(r.stateFips).push(r);
+  }
+  const eraByState = new Map();
+  for (const e of eraRecords.values()) {
+    const s = e.county5.slice(0, 2);
+    if (!eraByState.has(s)) eraByState.set(s, []);
+    eraByState.get(s).push(e);
+  }
+  const states = [];
+  const goneRecs = [];
+  for (const [sf, recs] of [...byState].sort()) {
+    const [alpha, stateName] = STATES[sf];
+    const cur = recs.filter((r) => !r.gone).sort((a, b) => a.fips.localeCompare(b.fips));
+    goneRecs.push(...recs.filter((r) => r.gone));
+    const counties = cur.filter((r) => isCounty(r.fips)).length;
+    const towns = cur.length - counties;
+    counts.current += cur.length; counts.counties += counties; counts.towns += towns;
+    const eras = (eraByState.get(sf) ?? []).sort((a, b) => eraName(a).localeCompare(eraName(b)));
+    const what = [counties && `${counties} ${counties === 1 ? 'county' : 'counties'}`, towns && `${towns} ${towns === 1 ? 'town' : 'towns'}`].filter(Boolean).join(' and ');
+    const text = [
+      `# Income Limits: ${stateName}`, '',
+      `- Postal code: ${alpha}`,
+      `- State FIPS: ${sf}`,
+      `- Counties: ${counties}`,
+      `- Towns: ${towns}`, '',
+      `HUD's Section 8 income limits for ${stateName}, fiscal years ${YEARS[0]} to ${LATEST}: ${what}, as HUD lists them in FY${LATEST}.`
+        + (eras.length && NEW_ENGLAND.has(sf) ? ` Before FY2006 HUD keyed New England's limits by county, not town: those rows are kept below, under Counties before 2006, and each town names its own as \`County before 2006\`.` : '')
+        + (eras.length && !NEW_ENGLAND.has(sf) ? ` Before FY2006 a county split between two areas in a year has its parts kept below, under Counties before 2006, and its own year empty.` : ''), '',
+      '## Places', '',
+      ...cur.map((r) => recordText(r) + '\n'),
+      ...(eras.length ? ['## Counties before 2006', '', ...eras.map((e) => eraText(e) + '\n')] : []),
+    ].join('\n');
+    pages[`${stateName}.md`] = text.trimEnd() + '\n';
+    states.push([stateName, counties, towns]);
+  }
+  goneRecs.sort((a, b) => a.fips.localeCompare(b.fips));
+  pages['Gone.md'] = [
+    '# Places HUD no longer lists', '',
+    `${goneRecs.length} places HUD listed in some years and no longer does: a county split or merged, a town deorganized, a county listed a second time inside another area. Each is kept under its last FIPS, with its last year (\`- Last year:\`), so a count of the years it was listed still finds it.`, '',
+    ...goneRecs.map((r) => recordText(r) + '\n'),
+  ].join('\n').trimEnd() + '\n';
+  counts.gone = goneRecs.length;
+
+  const changes = foundChanges({ records: all, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, placeName: displayName });
+  pages['Changes.md'] = changesPage(changes);
+  counts.changes = changes.map((c) => [c.year, c.title]);
+
+  return { pages, texts, counts, ledger, twice, unmatched, states, changes };
 }
 
-// --- writing ----------------------------------------------------------------
+// --- the changes in HUD's files (D5) ----------------------------------------
+
+function foundChanges({ records, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, placeName }) {
+  const out = [];
+  const firstWith = (test) => YEARS.find((y) => rowsOf(y).some(test));
+  const eli = rowsOf(ELI).filter((r) => { const o = old30By.get(`${ELI}|${r.fips}`); return o && String(o) !== String(r.l30); }).length;
+  out.push({
+    title: 'Extremely low income redefined', year: ELI,
+    was: 'the 30% limit: 30/50ths of the very low income limit',
+    now: 'the greater of that and the federal poverty guideline for the household size, never above the very low income limit',
+    cross: `FY${ELI} carries both: HUD's Section8.xls, the old 30% limit, is in each place's table "30% limit, 1999 to 2014"; its Poverty.xls, the new, begins the card "Extremely low income (30%)". The new differs from the old in ${eli} of ${rowsOf(ELI).length} places in FY${ELI}.`,
+    places: eli,
+    source: "HUD's FY2014 income limits, Section8.xls and Poverty.xls; the Consolidated Appropriations Act, 2014",
+  });
+  const ne05 = ledger.find((l) => l.year === KEYED - 1)?.era ?? 0;
+  const ne06 = rowsOf(KEYED).filter((r) => NEW_ENGLAND.has(r.stateFips)).length;
+  const tied = records.filter((r) => r.era).length;
+  out.push({
+    title: 'New England keyed by town', year: KEYED,
+    was: `New England's limits by county, a row a county's part in one MSA (${ne05} rows in FY${KEYED - 1})`,
+    now: `by town, as HUD draws New England's areas (${ne06} towns in FY${KEYED})`,
+    cross: `FY${KEYED}'s msa column gives each town the MSA it lay in, and so its county's row before: \`- County before 2006:\` on ${tied} towns (${unmatched.length} not tied). The county rows are records of their own (County before 2006), ${eraRecords.size} of them; a town's own cards are empty before FY${KEYED}.`,
+    places: tied,
+    source: "HUD's FY2005 and FY2006 income limits (Section8FY2005.xls, Section8FY2006.xls)",
+  });
+  out.push({
+    title: 'Areas renumbered', year: KEYED,
+    was: "HUD's MSA numbers (5240), areas as OMB drew them in the 1990s",
+    now: "HUD's area codes (METRO33860M33860, NCNTY…), areas from OMB's 2003 definitions and the 2000 Census",
+    cross: `FY${KEYED} and FY${KEYED + 1} give each place's old MSA number beside its new code (msa, CBSASub); each place's Areas runs end at FY${KEYED - 1} under an MSA number and begin at FY${KEYED} under a Metro code.`,
+    places: rowsOf(KEYED).length,
+    source: "HUD's FY2006 income limits, the CBSASub and msa columns",
+  });
+  const mark = firstWith((r) => r.areaCode === '10000');
+  out.push({
+    title: "HUD's nonmetropolitan mark", year: mark,
+    was: 'MSA 0 for a county outside a metropolitan area', now: 'MSA 10000',
+    cross: "None needed: a code, not a move. The County before 2006 records count both as one (nonmetro).",
+    places: rowsOf(mark).filter((r) => r.areaCode === '10000').length,
+    source: `HUD's FY${mark - 1} and FY${mark} income limits`,
+  });
+  // codes: Connecticut's all at once; the rest year by year
+  const moves = []; // [year, record, was, now]
+  for (const rec of records) {
+    const ys = [...rec.codes.keys()].sort();
+    for (let i = 1; i < ys.length; i++) {
+      const was = rec.codes.get(ys[i - 1]); const now = rec.codes.get(ys[i]);
+      if (was !== now) moves.push([ys[i], rec, was, now]);
+    }
+  }
+  const ct = moves.filter(([, , was, now]) => was.startsWith('090') && now.startsWith('091'));
+  if (ct.length) {
+    const y = ct[0][0];
+    out.push({
+      title: "Connecticut's planning regions", year: y,
+      was: "towns keyed by Connecticut's eight counties (090xx)",
+      now: 'towns keyed by its nine planning regions (0911x to 0919x)',
+      cross: `Each town: \`- FIPS 2024:\` holds its old code (${ct.length} towns). The rents made the same change in FY2026.`,
+      places: ct.length,
+      source: `HUD's FY${y - 1} and FY${y} income limits`,
+    });
+  }
+  const other = moves.filter((m) => !ct.includes(m));
+  const listed = new Map(); // year -> [[place, was, now]]
+  const add = (y, row) => { if (!listed.has(y)) listed.set(y, []); listed.get(y).push(row); };
+  for (const [y, rec, was, now] of other) add(y, [placeName(rec), was, now, 'new code']);
+  for (const rec of goneRecs) {
+    const last = Math.max(...rec.years.keys());
+    if (last >= KEYED) add(YEARS[YEARS.indexOf(last) + 1], [placeName(rec), rec.fips, '', 'no longer listed']);
+  }
+  for (const rec of records) {
+    if (rec.gone) continue;
+    const first = Math.min(...[...rec.years.keys()].filter((y) => y >= KEYED));
+    if (first > KEYED) add(first, [placeName(rec), '', rec.codes.get(first), 'first listed']);
+  }
+  for (const [y, rows] of [...listed].sort((a, b) => a[0] - b[0])) {
+    const n = (w) => rows.filter((r) => r[3] === w).length;
+    const parts = [n('new code') && `${n('new code')} under a new code`, n('first listed') && `${n('first listed')} first listed`, n('no longer listed') && `${n('no longer listed')} no longer listed`].filter(Boolean);
+    out.push({
+      title: 'Places recoded, listed or dropped', year: y,
+      was: `the places as HUD listed them in FY${YEARS[YEARS.indexOf(y) - 1]}`,
+      now: `${parts.join(', ')} in FY${y}`,
+      cross: 'A place under a new code is followed by code, a table of renames, or name (never a guess); its old code is `- FIPS before:`. A place no longer listed is on the Gone page, with `- Last year:`.',
+      places: rows.length,
+      source: `HUD's FY${YEARS[YEARS.indexOf(y) - 1]} and FY${y} income limits`,
+      table: rows.sort((a, b) => a[0].localeCompare(b[0])),
+    });
+  }
+  return out.sort((a, b) => a.year - b.year);
+}
+
+function changesPage(changes) {
+  const lines = ['# Changes in the Income Limits', '',
+    "Where HUD's files change a definition or a key during their years: the latest form is kept in the cards, the older only in tables or records of their own, and nothing runs across a change.", ''];
+  for (const c of changes) {
+    lines.push(`### Change: ${c.title}, ${c.year}`, '',
+      '- Dataset: Income Limits',
+      `- Boundary: ${c.year}`,
+      `- Was: ${c.was}`,
+      `- Now: ${c.now}`,
+      `- Crosswalk: ${c.cross}`,
+      `- Places: ${c.places}`,
+      `- Source: ${c.source}`, '');
+    if (c.table) {
+      lines.push('#### Places', '', '| Place | Was | Now | What |', '|---|---|---|---|');
+      for (const [p, was, now, what] of c.table) lines.push(`| ${p} | ${was} | ${now} | ${what} |`);
+      lines.push('');
+    }
+  }
+  return lines.join('\n').trimEnd() + '\n';
+}
+
+// --- small things ------------------------------------------------------------
 
 const cell = (v) => (v == null ? '' : String(v));
 const titleCase = (s) => (s === s.toUpperCase() ? s.toLowerCase().replace(/\b[a-z]/g, (c) => c.toUpperCase()) : s);
+// the table proper gathers a heading's card or table as
+const tableName = (title) => title.replace(/[^A-Za-z0-9]+/g, '_').replace(/^_|_$/g, '');
 
 // FY2026 cuts names at 26 letters ("Penobscot Indian Island Re"): where it
 // has, the name an earlier year gave whole.
@@ -150,17 +475,14 @@ function fullName(rec) {
   return whole.length ? whole[whole.length - 1] : rec.name;
 }
 
-function displayName(rec, clashes) {
-  const latest = rec.years.get(Math.max(...rec.years.keys()));
-  let name = titleCase(fullName(rec));
-  if (clashes.has(`${rec.stateFips}|${norm(rec.name)}`)) name += ` (${rec.fips})`;
-  return `${name}, ${rec.alpha || latest.alpha}`;
+function card(title, head, years, rows) {
+  return [`> [!CARD:line] ${title}`, `> | ${head} | ${years.join(' | ')} |`, `> |${'---|'.repeat(years.length + 1)}`,
+    ...rows.map(([label, vals]) => `> | ${label} | ${vals.map(cell).join(' | ')} |`)];
 }
 
-function card(title, head, rows) {
-  const out = [`> [!CARD:line] ${title}`, `> | ${head} | ${YEARS.join(' | ')} |`, `> |${' --- |'.repeat(YEARS.length + 1).replace(/ /g, '')}`];
-  for (const [label, vals] of rows) out.push(`> | ${label} | ${vals.map(cell).join(' | ')} |`);
-  return out.join('\n');
+function plain(head, years, rows) {
+  return [`| ${head} | ${years.join(' | ')} |`, `|${'---|'.repeat(years.length + 1)}`,
+    ...rows.map(([label, vals]) => `| ${label} | ${vals.map(cell).join(' | ')} |`)];
 }
 
 // the areas a record has belonged to, a row a run of years
@@ -178,76 +500,47 @@ function areas(rec) {
 }
 
 // Earlier keys, as the rents write them: Connecticut's old county codes
-// (090xx, before its planning regions) as `FIPS 2024`, any other as
-// `FIPS before`.
+// (090xx, before its planning regions) as `FIPS 2024`; any other, the
+// latest as `FIPS before`, the one before it as `FIPS earlier`.
 function fipsBefore(rec) {
-  const ct = [...rec.before].filter((f) => f.startsWith('090') && rec.fips.startsWith('091'));
-  const other = [...rec.before].filter((f) => !ct.includes(f)).sort();
-  // the latest earlier code; the one before it, for the three places that
-  // have had two
-  const [latest, earlier] = other.reverse();
-  return [...ct.map((f) => `- FIPS 2024: ${f}`), ...(latest ? [`- FIPS before: ${latest}`] : []), ...(earlier ? [`- FIPS earlier: ${earlier}`] : [])];
+  const before = new Set([...rec.codes.values()].filter((f) => f !== rec.fips));
+  const ct = [...before].filter((f) => f.startsWith('090') && rec.fips.startsWith('091'));
+  const ys = [...rec.codes.keys()].sort((a, b) => b - a);
+  const other = [];
+  for (const y of ys) { const f = rec.codes.get(y); if (f !== rec.fips && !ct.includes(f) && !other.includes(f)) other.push(f); }
+  return [ct[0] ?? '', other[0] ?? '', other[1] ?? ''];
 }
 
-function recordText(rec, clashes) {
-  const latest = rec.years.get(Math.max(...rec.years.keys()));
-  const lines = [
-    `### County: ${displayName(rec, clashes)}`, '',
-    `- FIPS: ${rec.fips}`,
-    ...fipsBefore(rec),
-    `- Level: ${/9999[89]$/.test(rec.fips) ? 'County' : 'Town'}`,
-    `- State: ${stateOf(rec.fips)[1]}`,
-    `- Area: ${latest.areaName ?? ''}`,
-    // HUD's area codes since FY2006 (METRO…, NCNTY…); its MSA numbers before
-    ...(latest.year >= KEYED ? [`- Metro code: ${latest.areaCode}`] : [`- Metro code: none`, `- MSA: ${latest.areaCode}`]),
-  ];
-  if (rec.gone) lines.push(`- Last year: ${Math.max(...rec.years.keys())}`);
-  lines.push('', '#### Median family income', '',
-    card('Median family income', 'Measure', [['Median', YEARS.map((y) => rec.years.get(y)?.median)]]));
-  for (const [k, title] of LEVELS) {
-    lines.push('', `#### ${title}`, '',
-      card(title, 'Persons', SIZES.map((n) => [n, YEARS.map((y) => rec.years.get(y)?.[k]?.[n - 1])])));
+// --- the run -------------------------------------------------------------------
+
+function main() {
+  const arg = (name, fallback) => { const i = process.argv.indexOf(`--${name}`); return i > 0 ? process.argv[i + 1] : fallback; };
+  const SRC = arg('src', path.join(os.homedir(), '.cache/proper/hud/il'));
+  const OUT = path.resolve(arg('out', path.join(__dirname, '..', '..', 'limits')));
+  const shape = JSON.parse(fs.readFileSync(path.join(__dirname, 'shape.json'), 'utf8'));
+  let byYear, old30;
+  try {
+    byYear = new Map(YEARS.map((y) => [y, readYear(SRC, y, shape).rows]));
+    old30 = new Map(Object.entries(OLD30).map(([y, f]) => [Number(y), readYear(SRC, Number(y), shape, f).rows]));
+  } catch (e) {
+    if (e.name === 'ShapeError' || e.constructor.name === 'ShapeError') { console.error(e.message); process.exit(1); }
+    throw e;
   }
-  lines.push('', '#### Areas', '', '| From | To | MSA | Metro code | Area |', '|---|---|---|---|---|');
-  for (const a of areas(rec)) lines.push(`| ${a.from} | ${a.to} | ${a.from < KEYED ? a.code : ''} | ${a.from < KEYED ? '' : a.code} | ${a.name} |`);
-  return lines.join('\n');
+  const { pages, counts, ledger, twice, unmatched, states, changes } = build({ byYear, old30 });
+  pages['README.md'] = require('./readme').text({ YEARS, LATEST, counts, ledger, states, changes });
+
+  fs.mkdirSync(OUT, { recursive: true });
+  // clear what an earlier run wrote, so a page no longer written goes
+  for (const f of fs.readdirSync(OUT)) if (f.endsWith('.md')) fs.rmSync(path.join(OUT, f));
+  for (const [f, text] of Object.entries(pages)) fs.writeFileSync(path.join(OUT, f), text);
+
+  console.log(`Wrote ${Object.keys(pages).length} pages: ${counts.records} records (${counts.current} listed in FY${LATEST}, ${counts.gone} gone), ${counts.era} county rows before 2006, ${changes.length} changes.`);
+  console.log('year  rows  exact byName county   era orphan twice  records-with-year');
+  for (const l of ledger) console.log([l.year, l.rows, l.exact, l.byName, l.county, l.era, l.orphan, l.twice, counts.cells[l.year]].map((v) => String(v).padStart(5)).join(' '));
+  if (twice.length) console.log(`Rows a record had already in their year, not written:\n  ${twice.join('\n  ')}`);
+  if (unmatched.length) console.log(`New England towns not tied to a county row before 2006:\n  ${unmatched.join('\n  ')}`);
+  fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify({ ...counts, ledger }, null, 1) + '\n');
 }
 
-const written = { files: 0, records: 0, gone: 0, cells: Object.fromEntries(YEARS.map((y) => [y, 0])) };
-const all = [...records.values()].filter((r) => r.years.size > 0);
-const clashKeys = new Map();
-for (const r of all) { const k = `${r.stateFips}|${norm(r.name)}`; clashKeys.set(k, (clashKeys.get(k) ?? 0) + 1); }
-const clashes = new Set([...clashKeys].filter(([, n]) => n > 1).map(([k]) => k));
-
-// clear what an earlier run wrote (every state file; README.md is rewritten)
-for (const f of fs.readdirSync(OUT)) if (f.endsWith('.md') && f !== 'README.md' && !f.startsWith('.')) fs.rmSync(path.join(OUT, f));
-
-const byState = new Map();
-for (const r of all) {
-  if (!byState.has(r.stateFips)) byState.set(r.stateFips, []);
-  byState.get(r.stateFips).push(r);
-}
-for (const [sf, recs] of [...byState].sort()) {
-  const [, stateName] = STATES[sf];
-  recs.sort((a, b) => (a.gone - b.gone) || a.fips.localeCompare(b.fips));
-  const text = [`# State: ${stateName}`, '', ...recs.map((r) => recordText(r, clashes) + '\n')].join('\n');
-  fs.writeFileSync(path.join(OUT, `${stateName}.md`), text);
-  written.files++;
-  for (const r of recs) {
-    written.records++;
-    if (r.gone) written.gone++;
-    for (const y of r.years.keys()) written.cells[y]++;
-  }
-}
-
-const states = [...byState].sort().map(([sf, recs]) => {
-  const cur = recs.filter((r) => !r.gone);
-  return [STATES[sf][1], cur.filter((r) => /9999[89]$/.test(r.fips)).length, cur.filter((r) => !/9999[89]$/.test(r.fips)).length];
-});
-require('./readme').write(OUT, { YEARS, ledger, written, states });
-
-console.log(`Wrote ${written.files} files, ${written.records} records (${written.gone} areas HUD no longer lists).`);
-console.log('year  rows  exact byName county split orphan twice  records-with-year');
-for (const l of ledger) console.log([l.year, l.rows, l.exact, l.byName, l.county, l.split, l.orphan, l.twice, written.cells[l.year]].map((v) => String(v).padStart(5)).join(' '));
-if (twice.length) console.log(`Rows a record had already in their year, not written:\n  ${twice.join('\n  ')}`);
-fs.writeFileSync(path.join(__dirname, 'ledger.json'), JSON.stringify({ ledger, written }, null, 1) + '\n');
+module.exports = { build, YEARS, LATEST };
+if (require.main === module) main();

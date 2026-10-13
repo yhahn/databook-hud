@@ -148,7 +148,9 @@ function build({ byYear, old30 }) {
     }
     const claimed = new Set();
     for (const rec of records.values()) {
-      if (NEW_ENGLAND.has(rec.stateFips)) continue;
+      // a county's row is its own record's: never a second listing's
+      // (Rockland and Westchester's 99998 rows, FY2006-2020 only)
+      if (NEW_ENGLAND.has(rec.stateFips) || !rec.fips.endsWith('99999')) continue;
       const k = rec.county2006 ?? rec.fips.slice(0, 5);
       const p = parts.get(k);
       if (!p) continue;
@@ -344,6 +346,16 @@ function build({ byYear, old30 }) {
   const changes = foundChanges({ records: all, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, placeName: displayName });
   pages['Changes.md'] = changesPage(changes);
   counts.changes = changes.map((c) => [c.year, c.title]);
+  // every limit in HUD's files, to be found once in what is written
+  const vals = (rows, f) => rows.reduce((s, r) => s + filled(f(r) ?? []), 0);
+  const allRows = YEARS.flatMap(rowsOf);
+  counts.source = {
+    median: allRows.filter((r) => r.median != null).length,
+    l50: vals(allRows, (r) => r.l50),
+    l80: vals(allRows, (r) => r.l80),
+    l30: vals(allRows.filter((r) => r.year < ELI), (r) => r.l30) + vals(old30.get(ELI) ?? [], (r) => r.l30),
+    eli: vals(allRows.filter((r) => r.year >= ELI), (r) => r.l30),
+  };
 
   return { pages, texts, counts, ledger, twice, unmatched, states, changes };
 }

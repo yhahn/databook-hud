@@ -180,3 +180,17 @@ select count(*) from Limits l join Rents r using (FIPS) where l."Last year" is n
 -- name: D5 every change with its boundary, was, now and source
 -- want: 0
 select count(*) from Change where Boundary is null or Was is null or Now is null or Source is null or Crosswalk is null;
+
+-- name: every limit and median in HUD's files, written once (50%, 80%, the old 30%, extremely low, median)
+-- want: {limits.source.l50} {limits.source.l80} {limits.source.l30} {limits.source.eli} {limits.source.median}
+with n as (
+  select 'l50' k, count(v) c from (unpivot Limits_Very_low_income_50 on columns('^[0-9]+$') into name y value v)
+  union all select 'l50', count(v) from (unpivot "County before 2006_Very_low_income_50" on columns('^[0-9]+$') into name y value v)
+  union all select 'l80', count(v) from (unpivot Limits_Low_income_80 on columns('^[0-9]+$') into name y value v)
+  union all select 'l80', count(v) from (unpivot "County before 2006_Low_income_80" on columns('^[0-9]+$') into name y value v)
+  union all select 'l30', count(v) from (unpivot Limits_30_limit_1999_to_2014 on columns('^[0-9]+$') into name y value v)
+  union all select 'l30', count(v) from (unpivot "County before 2006_30_limit" on columns('^[0-9]+$') into name y value v)
+  union all select 'eli', count(v) from (unpivot Limits_Extremely_low_income_30 on columns('^[0-9]+$') into name y value v)
+  union all select 'med', count(v) from (unpivot Limits_Median_family_income on columns('^[0-9]+$') into name y value v)
+  union all select 'med', count(v) from (unpivot "County before 2006_Median_family_income" on columns('^[0-9]+$') into name y value v))
+select string_agg(c, ' ' order by o) from (select k, sum(c) c, case k when 'l50' then 1 when 'l80' then 2 when 'l30' then 3 when 'eli' then 4 else 5 end o from n group by k);

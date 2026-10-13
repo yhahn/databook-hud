@@ -10,7 +10,7 @@
  "tables": {
   "Limits_Median_family_income": {
    "rows": 4782,
-   "cells": 124645
+   "cells": 124629
   },
   "Limits_Extremely_low_income_30": {
    "rows": 38256,
@@ -18,18 +18,18 @@
   },
   "Limits_Very_low_income_50": {
    "rows": 38256,
-   "cells": 997160
+   "cells": 997032
   },
   "Limits_Low_income_80": {
    "rows": 38256,
-   "cells": 997160
+   "cells": 997032
   },
   "Limits_30_limit_1999_to_2014": {
    "rows": 38192,
-   "cells": 514984
+   "cells": 514872
   },
   "Limits_Areas": {
-   "rows": 10849,
+   "rows": 10846,
    "cells": 0
   },
   "County before 2006_Median_family_income": {
@@ -50,14 +50,14 @@
   }
  },
  "cells": {
-  "1998": 3068,
-  "1999": 3068,
-  "2000": 3068,
-  "2001": 3068,
-  "2002": 3068,
-  "2003": 3070,
-  "2004": 3070,
-  "2005": 3073,
+  "1998": 3066,
+  "1999": 3066,
+  "2000": 3066,
+  "2001": 3066,
+  "2002": 3066,
+  "2003": 3068,
+  "2004": 3068,
+  "2005": 3071,
   "2006": 4764,
   "2007": 4764,
   "2008": 4764,
@@ -150,6 +150,13 @@
    "Places recoded, listed or dropped"
   ]
  ],
+ "source": {
+  "median": 125617,
+  "l50": 1004936,
+  "l80": 1004936,
+  "l30": 521792,
+  "eli": 495768
+ },
  "ledger": [
   {
    "year": 1998,

@@ -51,8 +51,11 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
    rows are a county's part in one MSA, keyed by state and county, not
    FIPS-10. Outside New England every county is one row a year, and
    county codes are stable, so a county's row is its own: kept. A
-   record takes the row of the county it lay in in FY2006 (so a
-   Connecticut town takes its old county's row). Undo: `--from 2006`.
+   record takes the row of the county it lay in in FY2006. Since 10-13
+   only a county's own record (`…99999`) does: Rockland and
+   Westchester's second listings (`…99998`, FY2006-2020) took their
+   county's rows FY1998-2005 too, a year they were never listed; no
+   more. New England: decision 6. Undo: the `endsWith('99999')` test.
 
 6. **New England before FY2006 is kept by county, apart** (10-13, the
    person: SPEC D2, D3, D6). HUD drew New England's areas by town but

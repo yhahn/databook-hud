@@ -1,0 +1,14 @@
+{
+  "name": "databook-hud-limits-import",
+  "private": true,
+  "description": "Writes the Income Limits databook from HUD's Section 8 income limits.",
+  "scripts": {
+    "import": "node import.js"
+  },
+  "engines": {
+    "node": ">=22.8"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

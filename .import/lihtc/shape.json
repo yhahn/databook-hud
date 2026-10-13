@@ -1,0 +1,297 @@
+{
+ "file": "LIHTCPUB.xlsx",
+ "heads": [
+  "hud_id",
+  "project",
+  "proj_add",
+  "proj_cty",
+  "proj_st",
+  "proj_zip",
+  "state_id",
+  "latitude",
+  "longitude",
+  "place1990",
+  "place2000",
+  "place2010",
+  "place2020",
+  "fips1990",
+  "fips2000",
+  "fips2010",
+  "fips2020",
+  "st2020",
+  "cnty2020",
+  "trct2020",
+  "scattered_site_cd",
+  "resyndication_cd",
+  "allocamt",
+  "n_units",
+  "li_units",
+  "n_0br",
+  "n_1br",
+  "n_2br",
+  "n_3br",
+  "n_4br",
+  "aff_period",
+  "aff_yrs",
+  "inc_ceil",
+  "low_ceil",
+  "ceilunit",
+  "yr_pis",
+  "yr_alloc",
+  "non_prof",
+  "basis",
+  "bond",
+  "mff_ra",
+  "fmha_514",
+  "fmha_515",
+  "fmha_538",
+  "home",
+  "home_amt",
+  "tcap",
+  "tcap_amt",
+  "cdbg",
+  "cdbg_amt",
+  "htf",
+  "htf_amt",
+  "fha",
+  "hopevi",
+  "hpvi_amt",
+  "tcep",
+  "tcep_amt",
+  "rad",
+  "qozf",
+  "qozf_amt",
+  "rentassist",
+  "trgt_pop",
+  "trgt_fam",
+  "trgt_eld",
+  "trgt_dis",
+  "trgt_hml",
+  "trgt_oth",
+  "trgt_spc",
+  "type",
+  "credit",
+  "n_unitsr",
+  "li_unitr",
+  "metro",
+  "dda",
+  "qct",
+  "nonprog",
+  "nlm_reason",
+  "nlm_spc",
+  "datanote",
+  "record_stat"
+ ],
+ "rows": [
+  55345,
+  55345
+ ],
+ "lastYear": 2024,
+ "oddYears": [
+  2025,
+  2027
+ ],
+ "codes": {
+  "aff_period": [
+   "",
+   "1",
+   "2",
+   "3"
+  ],
+  "basis": [
+   "",
+   "1",
+   "2"
+  ],
+  "bond": [
+   "",
+   "1",
+   "2"
+  ],
+  "cdbg": [
+   "",
+   "1",
+   "2"
+  ],
+  "credit": [
+   "",
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "dda": [
+   "",
+   "0",
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "fha": [
+   "",
+   "1",
+   "2",
+   "4"
+  ],
+  "fmha_514": [
+   "",
+   "1",
+   "2"
+  ],
+  "fmha_515": [
+   "",
+   "1",
+   "2"
+  ],
+  "fmha_538": [
+   "",
+   "1",
+   "2"
+  ],
+  "home": [
+   "",
+   "1",
+   "2"
+  ],
+  "hopevi": [
+   "",
+   "1",
+   "2"
+  ],
+  "htf": [
+   "",
+   "1",
+   "2"
+  ],
+  "inc_ceil": [
+   "",
+   "1",
+   "2",
+   "3",
+   "9"
+  ],
+  "low_ceil": [
+   "",
+   "1",
+   "2"
+  ],
+  "metro": [
+   "",
+   "1",
+   "2",
+   "3"
+  ],
+  "mff_ra": [
+   "",
+   "1",
+   "2"
+  ],
+  "nlm_reason": [
+   "",
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "non_prof": [
+   "",
+   "1",
+   "2"
+  ],
+  "nonprog": [
+   "",
+   "1"
+  ],
+  "qct": [
+   "",
+   "1",
+   "2"
+  ],
+  "qozf": [
+   "",
+   "1",
+   "2"
+  ],
+  "rad": [
+   "",
+   "1",
+   "2"
+  ],
+  "record_stat": [
+   "N",
+   "U",
+   "X"
+  ],
+  "rentassist": [
+   "",
+   "1",
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "resyndication_cd": [
+   "",
+   "1",
+   "2"
+  ],
+  "scattered_site_cd": [
+   "",
+   "1",
+   "2"
+  ],
+  "tcap": [
+   "",
+   "1",
+   "2"
+  ],
+  "tcep": [
+   "",
+   "1",
+   "2"
+  ],
+  "trgt_dis": [
+   "",
+   "0",
+   "1",
+   "2"
+  ],
+  "trgt_eld": [
+   "",
+   "0",
+   "1",
+   "2"
+  ],
+  "trgt_fam": [
+   "",
+   "0",
+   "1",
+   "2"
+  ],
+  "trgt_hml": [
+   "",
+   "0",
+   "1",
+   "2"
+  ],
+  "trgt_oth": [
+   "",
+   "0",
+   "1",
+   "2"
+  ],
+  "trgt_pop": [
+   "",
+   "1",
+   "2"
+  ],
+  "type": [
+   "",
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ }
+}

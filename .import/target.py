@@ -19,10 +19,11 @@ REPO = os.path.dirname(HERE)
 
 def counts():
     c = {}
-    for name in ('rents', 'limits'):
+    for name in ('rents', 'limits', 'lihtc'):
         with open(os.path.join(HERE, name, 'counts.json'), encoding='utf-8') as f:
             c[name] = json.load(f)
-    c['changes'] = len(c['rents']['changes']) + len(c['limits']['changes'])
+    c['changes'] = len(c['rents']['changes']) + len(c['limits']['changes']) + len(c['lihtc']['changes'])
+    c['lihtc']['changes_n'] = len(c['lihtc']['changes'])
     c['limits']['rows_2006_on'] = ' '.join(str(l['rows']) for l in c['limits']['ledger'] if l['year'] >= 2006)
     return c
 
@@ -70,7 +71,7 @@ def main():
         ok = have == want
         failed += not ok
         print(f"{'held' if ok else 'NOT HELD'}  {name}" + ('' if ok else f'\n    want {want}\n    have {have}'))
-    for readme in ('README.md', 'rents/README.md', 'limits/README.md'):
+    for readme in ('README.md', 'rents/README.md', 'limits/README.md', 'lihtc/README.md'):
         with open(os.path.join(REPO, readme), encoding='utf-8') as f:
             blocks = re.findall(r'```sql\n(.*?)```', f.read(), re.S)
         for i, sql in enumerate(blocks, 1):

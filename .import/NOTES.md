@@ -1,3 +1,205 @@
+# Notes: Gone mended, and the tax credits (deputy, 2026-10-13)
+
+## What was asked
+
+1. Gone first, in a commit of its own: the limits' Gone held 18, but
+   Rockland and Westchester, NY's `…99998` rows are second listings, not
+   dropped places: 16. Decide where their data lives; mend the checks,
+   then the importer. Mend the limits' NOTES (Connecticut, FY2025).
+2. LIHTC: HUD's tax credit database, a new folder `lihtc/` with its own
+   importer, held to SPEC from the start (V1, V2, V3, B7, B5, K2, D5),
+   and a README whose queries run, one joining a county's projects to its
+   rents.
+3. The whole build, every check held, `proper check` with nothing to
+   mend, and the cold gather of the whole book timed.
+
+Branch `lihtc`, worktree `.claude/worktrees/lihtc`; the merge is the seat's.
+
+## What I made
+
+| Commit | What | Files |
+|---|---|---|
+| 72a3006 | Gone 16: the second listings their counties' (checks, vector `rockland-ny.json`, importer, pages); the CT year | 29 |
+| the next | the tax credits' importer, shape, vector, tests, checks, decisions, this note; `counties.json` for every county; the front page | (see `--stat`) |
+| the last | the tax credits' pages, `lihtc/` | 58,315 |
+
+### 1. Gone
+
+The `…99998` rows are now records of a kind of their own, `### Second
+listing: Rockland County, NY (3608799998)`, under `## Second listings` on
+the county's page after its record, with the New York area's limits in
+plain tables (`Second_listing_Very_low_income_50` and the like) and its
+Areas. Not out: HUD published those limits, and every limit in its files
+is written once. Their end in FY2021 is a row, `second listing ended`, in
+that year's Places change. The counties take their plain names
+(`Rockland County, NY`, was `Rockland County (3608799999), NY`). Gone:
+16, as the bench (hud-analysis-3). Limits decision 4a, repo decision 22.
+
+### 2. The tax credits
+
+`lihtc/<State>.md` lists its counties; `lihtc/<State>/<County>.md` its
+projects; `lihtc/<State>/<County>/<name> (<HUD ID>).md` a project each,
+`# Project:` with all 82 keys (every column of HUD's row, its codes in
+the dictionary's words). Four Change records. The README's four queries
+run, one a county's projects against its rents the year each was placed
+in service, one the counties' projects against their income limits; the
+front page joins projects to the dearest rents.
+
+### Counts: source, written, gathered
+
+| | HUD's file | Written | Gathered |
+|---|---|---|---|
+| projects | 55,345 rows, 55,345 ids | 55,345 pages | 55,345 `Project`, 55,345 ids |
+| units, low-income units (HUD's) | 3,860,546; 3,611,592 | the same | the same |
+| as reported | 3,847,045; 3,404,162 | the same | the same |
+| year placed in service 8888 or 9999 | 2,765 | blank, noted | 2,765 notes |
+| allocation year 8888 or 9999 | 2,709 | blank, noted | 2,709 |
+| county from tract 2020 / 2010 / 2000 / 1990 / none | 44,435 / 8,726 / 1,843 / 1 / 340 | the same | the same |
+| projects in no county of their state | 340 + 10 tracted elsewhere | `County not given` | |
+| outside New England with a county | 52,281 | | 52,273 join the rents and the limits; 8 do not (below) |
+| codes the dictionary does not give | 57 | bare | 57 |
+| HUD ID before (HUD's notes) | 138 | 138 | 138 |
+| pages | | 58,315 (55,345 projects, 2,908 county, 56 state, 4 changes, Changes.md, README) | 58,315 |
+
+The 8 that do not join: Wade Hampton, AK (02270) and Shannon, SD (46113),
+renamed in 2015 and read from older tracts; American Samoa (60010) and
+the Northern Mariana Islands (69110, five), which have no HUD rents.
+
+Limits after the Gone mend: 4,780 Limits records (4,764 listed, 16 gone),
+2 second listings; every limit in HUD's files still written once (the
+check now counts the second listings' tables too).
+
+`sh .import/build.sh` under `crew run 6G`: 11 Python tests, 13 + 9 node
+tests, 80 target checks and every README query held, 235 s wall (the
+budget's wait in it), 2.75 GB peak. `proper check`: nothing to mend.
+
+### The gather, cold (no `.proper/`), the whole book
+
+| | proper's own time | peak memory |
+|---|---|---|
+| main before (B7 note) | 17 s | 0.87 GB |
+| lihtc branch: rents, limits, tax credits (68,145 pages, 152 MB) | 42.7 s | 2.53 GB |
+
+(The wall clock under `crew run` was 10 min 39 s, nearly all of it
+waiting for the budget behind other seats.) Warm: under a second.
+
+## Decisions
+
+`.import/lihtc/DECISIONS.md` 1-21 and `.import/DECISIONS.md` 22-24. The
+ones that matter: every column a key (4); keys at most 24 characters (5);
+8888 and 9999 blank and noted (7); the county from the latest tract HUD
+gives (8); tracts blank where HUD writes X (9); place codes padded (10);
+ZIP split, eight names in the ZIP blanked (11); a page a project always,
+filed by HUD's address state, `County not given` where the tract names
+none in it (15, 16); every county named from the limits' files, two by
+code (17); second listings their county's (22).
+
+## Learnings
+
+For proper (for engine, with evidence):
+1. **A list whose keys pass 24 characters is not a record.** My first
+   project pages had keys of 25-30 characters ("Year placed in service
+   missing"); proper read every project's list as items: no `Project`
+   table, and 55,345 × 82 item rows. It did warn (once, on one page), but
+   the warning read like a style note. A record with one long key could
+   still be a record, the long key kept; or the limit said in the rules.
+2. **A big gather dies writing a table as one string.** With those 4.5
+   million item rows, `proper check` failed: first the JS heap (2 GB, at
+   88 s), then, with a 4.5 GB heap, `RangeError: Invalid string length`
+   at `lib/node/host.js:95`, where `insert` joins all a table's rows into
+   one JSON string. Writing the rows in chunks (or streaming the file)
+   would lift it. Once the keys were short the gather held: 42.7 s, 2.53
+   GB for 68,145 pages.
+3. **A blank key in a text column gathers as `''`, in a number column as
+   null.** `count("HUD ID before")` gave 55,345, not 138;
+   `count("FIPS 2024")` in the rents gives 169. One rule for blank would
+   spare every check a `nullif`.
+4. **Codes with an X** (`06XXXXXXXXX`, HUD's missing tract) make a
+   column of numbers mixed, and proper warns: rightly. Written blank.
+
+For cards.md: not looked at on the bench this time (a county of 1,224
+projects is the page to try).
+
+For the seat (CATALOG, LEARNINGS):
+5. **The LIHTC file has no county column**: the county is the first five
+   digits of a tract, of whichever census HUD geocoded (2020 for 80%).
+   Older tracts give counties since renamed. And HUD's file disagrees
+   with itself: KYA19960070, a Nicholasville, KY address, has its 1990
+   tract in Kentucky and its 2000-2020 tracts in Ohio.
+6. **The zip holds an older release**: `LIHTCPUB.accdb` is May 2025's,
+   the spreadsheet April 2026's.
+7. **HUD's dictionary has slips**: RAD described as "Housing Trust Fund
+   funds"; QCT's tract year silent on 2003 and on 2024; two codes not
+   given (FHA 4, a reason 4). V1's code check is what finds a new one.
+8. **New England does not join by county**: the rents and limits are by
+   town, and the tax credits give no town. Said in the README.
+
+## SPEC, where it did not fit a gazetteer
+
+1. **D is for series.** D1-D4 speak of cards across years; a project is
+   one record of one year, so a change of meaning (income averaging, the
+   QCT's tract maps) splits nothing. D could say: in a gazetteer, a change
+   is said (D5), and the column read with it.
+2. **D7's mirror, again**: questions first asked later (2003, 2006,
+   2012, 2018) leave blanks before; not a change of meaning, not said in
+   D. I said them in the README.
+3. **B3 and proper's 24 characters**: B3 should say a key is at most 24
+   characters, or whatever proper reads.
+4. **B7 and size**: a page a project is 58,315 pages, 102 MB, and the
+   one listing page of Los Angeles County holds 1,224 rows. B7 holds; the
+   cost is the gather (above). Whether a reader wants a county's 1,224
+   in one table, or by city, is for the person.
+5. **K2 and codes stored as numbers by the source**: HUD's spreadsheet
+   stores place codes as numbers; I padded them back (the dictionary
+   says alphanumeric). K2 could say: a code the source's own format lost
+   zeros from is padded to its definition, and said.
+6. **B8 shared tables grow**: `counties.json` now serves three
+   importers; whose it is (the repo's) could be said.
+
+## What I was unsure of
+
+- Writing all 82 keys on every project page (most blank before 2003).
+  A reader may want the help and targets as a small table instead.
+- Filing the ten projects tracted in another state under `County not
+  given` rather than under the tract's county.
+- Folders named `County 60010` and `County 69110`.
+- The Change "Income averaging, 2018" when the first project electing it
+  was placed in service in 2017.
+
+## Against the brief's Predicted
+
+Predicted: 45 minutes; Gone a few minutes; one zip (CSV or dbf and a
+codebook), ~55,000 projects keyed by HUD's id, with county FIPS; will
+find no county or bad FIPS, codes to spell out, years blank or
+8888/9999, duplicate ids; a county of 1,000+ needs a folder; may come
+back on what a project page shows.
+
+Turned out: Gone took 5 minutes (13:32 to its commit at 13:37). The zip
+was an xlsx, an accdb and a PDF, 55,345 projects, no duplicate ids. **No
+county column at all**: counties come from tracts of four censuses.
+8888/9999 and codes as predicted, plus slips in the dictionary, names in
+the ZIP, and X's in tracts. The 1,000+ county is one listing page (B7's
+"a page a project, always" gives every project a folder). I did not come
+back on what a page shows: I wrote everything. What the prediction
+missed was proper: the 24-character key limit, and the gather's
+string-length ceiling, which cost about 25 minutes of failed gathers
+(most of it the budget's wait). In all, 13:32 to about 14:55, some 85
+minutes, about 25 of them waiting for `crew run`.
+
+## What the brief lacked
+
+- That the file gives no county, only tracts.
+- That the book would be 58,000 pages and the gather wait for budget
+  behind other seats (10 minutes a cold gather, of which 43 s work).
+- Where the county names come from (the limits' files, B8).
+
+In one line: Gone is 16, the second listings now their counties'; the
+tax credits are written, 55,345 projects a page each by state and county,
+every check held and nothing to mend, the whole book gathered cold in 43
+s and 2.5 GB, once proper's 24-character key limit was found.
+
+---
+
 # Notes: B7, a page a place (deputy, 2026-10-13)
 
 ## What was asked

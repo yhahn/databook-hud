@@ -1,0 +1,40 @@
+{
+ "projects": 55345,
+ "states": 56,
+ "counties": 2865,
+ "pages": 58315,
+ "ids_before": 138,
+ "bare_codes": 57,
+ "unplaced": 350,
+ "elsewhere": 10,
+ "county_from": "none:340 2020:44435 2010:8726 2000:1843 1990:1",
+ "join_county": 52281,
+ "unnamed": "60010 69110",
+ "source": {
+  "rows": 55345,
+  "units": 3860546,
+  "li_units": 3611592,
+  "units_reported": 3847045,
+  "li_units_reported": 3404162,
+  "pis_missing": 2765,
+  "alloc_missing": 2709
+ },
+ "changes": [
+  [
+   2004,
+   "Qualified census tracts on the 2000 tracts"
+  ],
+  [
+   2013,
+   "Qualified census tracts on the 2010 tracts"
+  ],
+  [
+   2015,
+   "HUD ID gains a digit"
+  ],
+  [
+   2018,
+   "Income averaging"
+  ]
+ ]
+}

@@ -153,3 +153,17 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
     and its keys, 2 records each on its county's page, Gone 16, the
     year-rows check counting them), then vector `rockland-ny.json`, then
     the importer. Undo: as 4a.
+
+## The tax credits, 10-13, branch `lihtc`
+
+23. **A third dataset, `lihtc/`**: HUD's Low-Income Housing Tax Credit
+    database, a record a project (`# Project:`), its importer in
+    `.import/lihtc/` (Node, as the limits), its decisions in
+    `.import/lihtc/DECISIONS.md`. Its checks join the shared
+    `target.sql`; `build.sh` runs it and its tests; the front page names
+    it and joins its projects to the rents. Undo: delete `lihtc/` and
+    `.import/lihtc/`, and the lines naming them.
+24. **`counties.json` names every county**, 3,250, not New England's
+    76 alone, from the limits' files FY1998 on, whole names over
+    FY2026's cut ones. The rents and limits read only New England's,
+    which are unchanged. Undo: `counties.js` from git.

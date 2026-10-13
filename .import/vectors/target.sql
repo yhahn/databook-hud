@@ -35,8 +35,18 @@ select string_agg(k, ' / ' order by t) from (select table_name t, string_agg(col
 from information_schema.columns where table_name in ('Fair Market Rents', 'Income Limits')
 and column_name not in ('name', '_file', '_line', '_end_line') group by t);
 
+-- name: B3 the keys of Project (the tax credits)
+-- want: HUD ID, HUD ID before, Project, Address, City, State, ZIP, ZIP extension, State project ID, Latitude, Longitude, County FIPS, County from, Tract 2020, Tract 2010, Tract 2000, Tract 1990, Place 2020, Place 2010, Place 2000, Place 1990, Year placed in service, Placed in service note, Allocation year, Allocation year note, Allocation amount, Units, Low-income units, Units reported, Low-income reported, Efficiencies, 1-bedroom units, 2-bedroom units, 3-bedroom units, 4-bedroom units, Construction, Credit, Income ceiling, Rents below ceiling, Units below ceiling, Affordable over 30 years, Affordability years, Non-profit sponsor, Increased basis, Tax-exempt bond, HUD multifamily aid, RHS 514 loan, RHS 515 loan, RHS 538 loan, HOME, HOME amount, CDBG, CDBG amount, TCAP, TCAP amount, TCEP, TCEP amount, HTF, HTF amount, FHA, HOPE VI, HOPE VI amount, RAD, QOZF, QOZF amount, Rental assistance, Targets a population, Families, Elderly, Disabled, Homeless, Other population, Other population named, Scattered site, Resyndicated, Metro, DDA, QCT, No longer monitored, Why no longer monitored, Why, other, Data note, Record status
+select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
+where table_name = 'Project' and column_name not in ('name', '_file', '_line', '_end_line');
+
+-- name: B3 the keys of the tax credits' listing pages, a state's or a county's
+-- want: Level, Postal code, State FIPS, County FIPS, Counties, Projects, Units, Low-income units
+select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
+where table_name = 'Tax Credit Projects' and column_name not in ('name', '_file', '_line', '_end_line');
+
 -- name: B5 the kinds, each dataset its own
--- want: Change, County before 2006, Fair Market Rents, Income Limits, Limits, Rents, Second listing
+-- want: Change, County before 2006, Fair Market Rents, Income Limits, Limits, Project, Rents, Second listing, Tax Credit Projects
 select string_agg(distinct table_name, ', ' order by table_name) from information_schema.columns
 where column_name = '_end_line';
 
@@ -280,3 +290,56 @@ select (select count(distinct l.path) from Fair_Market_Rents_Places p join links
 -- name: B7 no link that leads nowhere
 -- want: 0
 select count(*) from mend.warnings where kind = 'links';
+
+-- The tax credits (lihtc/)
+
+-- name: LIHTC every row of HUD's file a Project, one a HUD ID
+-- want: {lihtc.source.rows} {lihtc.source.rows}
+select count(*) || ' ' || count(distinct "HUD ID") from Project;
+
+-- name: LIHTC units and low-income units, as HUD reckons them, and as reported: their sums against the file's
+-- want: {lihtc.source.units} {lihtc.source.li_units} {lihtc.source.units_reported} {lihtc.source.li_units_reported}
+select sum("Units") || ' ' || sum("Low-income units") || ' ' || sum("Units reported") || ' ' || sum("Low-income reported") from Project;
+
+-- name: LIHTC a county for every project HUD geocoded, by the latest tract it gives (2020, 2010, 2000, 1990)
+-- want: {lihtc.county_from}
+select string_agg("County from" || ':' || n, ' ' order by "County from" desc) from (
+  select coalesce(cast("County from" as varchar), 'none') "County from", count(*) n from Project group by all);
+
+-- name: LIHTC no year that is a code: placed in service, and allocated, blank where HUD writes 8888 or 9999, and said why
+-- want: 0 {lihtc.source.pis_missing} {lihtc.source.alloc_missing}
+select (select count(*) from Project where "Year placed in service" in (8888, 9999) or "Allocation year" in (8888, 9999)) || ' ' ||
+  (select count("Placed in service note") from Project where "Year placed in service" is null) || ' ' ||
+  (select count("Allocation year note") from Project where "Allocation year" is null);
+
+-- name: LIHTC codes spelled out: values left as HUD's bare code, which its dictionary does not give (FHA 4, a reason 4)
+-- want: {lihtc.bare_codes}
+select count(*) from Project where cast("FHA" as varchar) = '4' or cast("Why no longer monitored" as varchar) = '4';
+
+-- name: LIHTC K1 a HUD ID before, where HUD's own note gives one
+-- want: {lihtc.ids_before}
+select count(nullif("HUD ID before", '')) from Project;
+
+-- name: LIHTC B7 a project a page, each in its state's and county's folder, linked from its county's page
+-- want: 1 {lihtc.source.rows} {lihtc.source.rows}
+select (select max(n) from (select count(*) n from Project group by _file)) || ' ' ||
+  (select count(*) from Project where _file in (select path from links)) || ' ' ||
+  (select count(distinct l.path) from Tax_Credit_Projects_Projects p join links l on l._file = p._file and l._line = p._line join Project r on r._file = l.path);
+
+-- name: LIHTC B7 the pages written, every one gathered; the listing pages, states and counties
+-- want: {lihtc.pages} {lihtc.states} {lihtc.counties}
+select (select count(*) from files where path like 'lihtc/%') || ' ' ||
+  (select count(*) from "Tax Credit Projects" where Level = 'State') || ' ' ||
+  (select count(*) from "Tax Credit Projects" where Level = 'County' and "County FIPS" is not null);
+
+-- name: LIHTC B5/K2 every project with a county outside New England joins the rents' and the limits' county record (code and 99999); the 8 that do not are a county no more (Wade Hampton, AK, 02270; Shannon, SD, 46113: renamed in 2015, from older tracts) and the two territories HUD sets no rents for (60010, AS; 69110, MP, five)
+-- want: {lihtc.join_county} 8
+select count(*) || ' ' || count(*) filter (where l.FIPS is null) from Project p
+  left join Rents r on r.FIPS = p."County FIPS" * 100000 + 99999 left join Limits l on l.FIPS = r.FIPS
+  where p."County FIPS" is not null and p."County FIPS" // 1000 not in (9, 23, 25, 33, 44, 50);
+-- (the want's first: counted from HUD's file, the projects with a county outside New England)
+
+-- name: LIHTC every change with its boundary, was, now and source
+-- want: {lihtc.changes_n}
+select count(*) from Change where Dataset = 'Tax Credit Projects' and Boundary is not null and Was is not null and Now is not null and Source is not null and Crosswalk is not null;
+

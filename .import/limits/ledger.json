@@ -1,0 +1,330 @@
+{
+ "ledger": [
+  {
+   "year": 1998,
+   "rows": 3189,
+   "exact": 0,
+   "byName": 0,
+   "county": 3095,
+   "split": 89,
+   "orphan": 5,
+   "twice": 0
+  },
+  {
+   "year": 1999,
+   "rows": 3189,
+   "exact": 0,
+   "byName": 0,
+   "county": 3098,
+   "split": 89,
+   "orphan": 2,
+   "twice": 0
+  },
+  {
+   "year": 2000,
+   "rows": 3189,
+   "exact": 0,
+   "byName": 0,
+   "county": 3098,
+   "split": 89,
+   "orphan": 2,
+   "twice": 0
+  },
+  {
+   "year": 2001,
+   "rows": 3189,
+   "exact": 0,
+   "byName": 0,
+   "county": 3098,
+   "split": 89,
+   "orphan": 2,
+   "twice": 0
+  },
+  {
+   "year": 2002,
+   "rows": 3189,
+   "exact": 0,
+   "byName": 0,
+   "county": 3098,
+   "split": 89,
+   "orphan": 2,
+   "twice": 0
+  },
+  {
+   "year": 2003,
+   "rows": 3193,
+   "exact": 0,
+   "byName": 0,
+   "county": 3099,
+   "split": 91,
+   "orphan": 3,
+   "twice": 0
+  },
+  {
+   "year": 2004,
+   "rows": 3193,
+   "exact": 0,
+   "byName": 0,
+   "county": 3100,
+   "split": 91,
+   "orphan": 2,
+   "twice": 0
+  },
+  {
+   "year": 2005,
+   "rows": 3194,
+   "exact": 0,
+   "byName": 0,
+   "county": 3103,
+   "split": 89,
+   "orphan": 2,
+   "twice": 0
+  },
+  {
+   "year": 2006,
+   "rows": 4764,
+   "exact": 4551,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 14,
+   "twice": 0
+  },
+  {
+   "year": 2007,
+   "rows": 4764,
+   "exact": 4565,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2008,
+   "rows": 4764,
+   "exact": 4565,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2009,
+   "rows": 4764,
+   "exact": 4565,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2010,
+   "rows": 4766,
+   "exact": 4567,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2011,
+   "rows": 4766,
+   "exact": 4567,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2012,
+   "rows": 4766,
+   "exact": 4567,
+   "byName": 199,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2013,
+   "rows": 4767,
+   "exact": 4579,
+   "byName": 188,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2014,
+   "rows": 4767,
+   "exact": 4579,
+   "byName": 188,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2015,
+   "rows": 4767,
+   "exact": 4579,
+   "byName": 188,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2016,
+   "rows": 4771,
+   "exact": 4583,
+   "byName": 188,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2017,
+   "rows": 4771,
+   "exact": 4586,
+   "byName": 185,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2018,
+   "rows": 4771,
+   "exact": 4588,
+   "byName": 183,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2019,
+   "rows": 4769,
+   "exact": 4587,
+   "byName": 182,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2020,
+   "rows": 4768,
+   "exact": 4586,
+   "byName": 182,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2021,
+   "rows": 4766,
+   "exact": 4584,
+   "byName": 182,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2022,
+   "rows": 4765,
+   "exact": 4586,
+   "byName": 179,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2023,
+   "rows": 4764,
+   "exact": 4589,
+   "byName": 175,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2024,
+   "rows": 4764,
+   "exact": 4589,
+   "byName": 175,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2025,
+   "rows": 4764,
+   "exact": 4758,
+   "byName": 6,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  },
+  {
+   "year": 2026,
+   "rows": 4764,
+   "exact": 4764,
+   "byName": 0,
+   "county": 0,
+   "split": 0,
+   "orphan": 0,
+   "twice": 0
+  }
+ ],
+ "written": {
+  "files": 56,
+  "records": 4782,
+  "gone": 18,
+  "cells": {
+   "1998": 3843,
+   "1999": 3843,
+   "2000": 3843,
+   "2001": 3843,
+   "2002": 3843,
+   "2003": 3845,
+   "2004": 3845,
+   "2005": 3848,
+   "2006": 4764,
+   "2007": 4764,
+   "2008": 4764,
+   "2009": 4764,
+   "2010": 4766,
+   "2011": 4766,
+   "2012": 4766,
+   "2013": 4767,
+   "2014": 4767,
+   "2015": 4767,
+   "2016": 4771,
+   "2017": 4771,
+   "2018": 4771,
+   "2019": 4769,
+   "2020": 4768,
+   "2021": 4766,
+   "2022": 4765,
+   "2023": 4764,
+   "2024": 4764,
+   "2025": 4764,
+   "2026": 4764
+  }
+ }
+}

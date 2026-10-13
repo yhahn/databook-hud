@@ -36,24 +36,24 @@
  "tables": {
   "Rents_Fair_Market_Rents": {
    "rows": 23820,
-   "cells": 767230,
-   "sum": 635834938
+   "cells": 783560,
+   "sum": 653227353,
+   "at_50th": {
+    "cells": 16330,
+    "sum": 17392415
+   }
   },
   "Rents_45th_percentile_1983_to_1994": {
    "rows": 23720,
    "cells": 259235,
    "sum": 113642523
   },
-  "Rents_50th_percentile_2001_to_2019": {
-   "rows": 1840,
-   "cells": 16330,
-   "sum": 17392415
-  },
   "Rents_Areas": {
    "rows": 19294
   }
  },
  "place_years_at_50th": 3270,
+ "place_years_at_50th_with_rents": 3266,
  "source": {
   "rows": 4764,
   "cells": 1042795,

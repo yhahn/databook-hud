@@ -61,10 +61,6 @@ select count(*) from Rents_Fair_Market_Rents;
 -- want: {rents.tables.Rents_45th_percentile_1983_to_1994.rows}
 select count(*) from Rents_45th_percentile_1983_to_1994;
 
--- name: rows of Rents_50th_percentile_2001_to_2019
--- want: {rents.tables.Rents_50th_percentile_2001_to_2019.rows}
-select count(*) from Rents_50th_percentile_2001_to_2019;
-
 -- name: rows of Rents_Areas
 -- want: {rents.tables.Rents_Areas.rows}
 select count(*) from Rents_Areas;
@@ -77,16 +73,15 @@ select count(v) || ' ' || sum(v) from (unpivot Rents_Fair_Market_Rents on column
 -- want: {rents.tables.Rents_45th_percentile_1983_to_1994.cells} {rents.tables.Rents_45th_percentile_1983_to_1994.sum}
 select count(v) || ' ' || sum(v) from (unpivot Rents_45th_percentile_1983_to_1994 on columns('^[0-9]+$') into name y value v);
 
--- name: rents in Rents_50th_percentile_2001_to_2019, and their sum
--- want: {rents.tables.Rents_50th_percentile_2001_to_2019.cells} {rents.tables.Rents_50th_percentile_2001_to_2019.sum}
-select count(v) || ' ' || sum(v) from (unpivot Rents_50th_percentile_2001_to_2019 on columns('^[0-9]+$') into name y value v);
-
--- name: every rent in HUD's file, in one of the three tables (and as the old databook-hud-rents gathered: 1042795 766869876)
+-- name: every rent in HUD's file, written and gathered once, in the card or the 45th's table (and as the old databook-hud-rents gathered: 1042795 766869876)
 -- want: {rents.source.cells} {rents.source.sum}
 select sum(n) || ' ' || sum(s) from (
   select count(v) n, sum(v) s from (unpivot Rents_Fair_Market_Rents on columns('^[0-9]+$') into name y value v)
-  union all select count(v), sum(v) from (unpivot Rents_45th_percentile_1983_to_1994 on columns('^[0-9]+$') into name y value v)
-  union all select count(v), sum(v) from (unpivot Rents_50th_percentile_2001_to_2019 on columns('^[0-9]+$') into name y value v));
+  union all select count(v), sum(v) from (unpivot Rents_45th_percentile_1983_to_1994 on columns('^[0-9]+$') into name y value v));
+
+-- name: no table of the 50th percentile (D8: its rents are in the card)
+-- want: 0
+select count(*) from information_schema.tables where table_name ilike 'Rents_50th%';
 
 -- name: rows of Limits_Very_low_income_50
 -- want: {limits.tables.Limits_Very_low_income_50.rows}
@@ -141,11 +136,28 @@ where table_name = 'Rents_Fair_Market_Rents' and regexp_matches(column_name, '^[
 select count(o."2014") || ' ' || count(n."2014") from Limits_30_limit_1999_to_2014 o
 full join Limits_Extremely_low_income_30 n using (record, Persons) where Persons = 1;
 
--- name: D4 no 50th-percentile rent in a 40th-percentile card (place-years at the 50th, empty in the card)
--- want: 0
-select count(*) from (unpivot (select * exclude (_file, _line) from Rents_50th_percentile_2001_to_2019) on columns('^[0-9]+$') into name y value v) h
-join (unpivot (select * exclude (_file, _line) from Rents_Fair_Market_Rents) on columns('^[0-9]+$') into name y value v) m
-using (record, Bedrooms, y) where m.v is not null;
+-- name: D8 the card's rents in the years its Areas run says 50, and their sum (as HUD's file set at the 50th)
+-- want: {rents.tables.Rents_Fair_Market_Rents.at_50th.cells} {rents.tables.Rents_Fair_Market_Rents.at_50th.sum}
+select count(m.v) || ' ' || sum(m.v)
+from (unpivot (select * exclude (_file, _line) from Rents_Fair_Market_Rents) on columns('^[0-9]+$') into name y value v) m
+join Rents_Areas a on a.record = m.record and cast(m.y as int) between a."From" and a."To"
+where a.Percentile = 50;
+
+-- name: D8 every place-year at the 50th has its rents in the card, where HUD gives any: place-years marked 50, and those with a rent (HUD gives Broomfield County, CO none in FY2001-04)
+-- want: {rents.place_years_at_50th} {rents.place_years_at_50th_with_rents}
+select count(*) || ' ' || count(r.record) from (
+  select a.record, y from Rents_Areas a, range(2001, 2020) t(y)
+  where a.Percentile = 50 and y between a."From" and a."To") p
+left join (select distinct record, cast(y as int) y
+  from (unpivot (select * exclude (_file, _line) from Rents_Fair_Market_Rents) on columns('^[0-9]+$') into name y value v)) r
+using (record, y);
+
+-- name: D8 every rent in the card under one Areas run, at the 40th or the 50th
+-- want: {rents.tables.Rents_Fair_Market_Rents.cells}
+select count(m.v)
+from (unpivot (select * exclude (_file, _line) from Rents_Fair_Market_Rents) on columns('^[0-9]+$') into name y value v) m
+join Rents_Areas a on a.record = m.record and cast(m.y as int) between a."From" and a."To"
+where a.Percentile in (40, 50);
 
 -- name: D6 no New England town has a limit of its own before FY2006
 -- want: 0

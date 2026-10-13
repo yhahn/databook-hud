@@ -1,6 +1,6 @@
 # Changes in the Fair Market Rents
 
-Where HUD's file changes a definition or a key during its years: the latest form is kept in the cards, the older only in tables of their own, and nothing runs across a change.
+Where HUD's file changes a definition or a key during its years: the latest form is kept in the cards, the older only in tables of their own, and nothing runs across a change. A setting HUD made place by place, the 50th percentile, is the rent's own: in the cards as set, marked beside it (SPEC D8).
 
 ### Change: Percentile, 45th to 40th, 1995
 
@@ -18,7 +18,7 @@ Where HUD's file changes a definition or a key during its years: the latest form
 - Boundary: 2001
 - Was: every FMR at the 40th percentile
 - Now: FMRs of selected costly areas at the 50th percentile (221 places in FY2001)
-- Crosswalk: None: a place-year has one FMR in this file. Its 50th-percentile years are in its table "50th percentile, 2001 to 2019", and empty in its card.
+- Crosswalk: None: a place-year has one FMR in this file, the one HUD set, and the legal rent that year. A setting made place by place, not a change of definition (SPEC D8): the rents are in each place's card as set, marked by its Areas runs, Percentile 50.
 - Places: 221
 - Source: HUD's Read Me for the FMR history (READ_ME_FMRHIST_FY2025), note 4; the fmr01 column
 
@@ -48,7 +48,7 @@ Where HUD's file changes a definition or a key during its years: the latest form
 - Boundary: 2020
 - Was: FMRs of 4 places at the 50th percentile in FY2019
 - Now: every FMR at the 40th percentile (the Small Area FMR rule, 81 FR 80567)
-- Crosswalk: None, as in 2001.
+- Crosswalk: None, as in 2001: the rents of those places are in their cards as set, marked by their Areas runs' Percentile (SPEC D8).
 - Places: 4
 - Source: HUD's Read Me for the FMR history (READ_ME_FMRHIST_FY2025), note 4; the fmr19 and fmr20 columns
 

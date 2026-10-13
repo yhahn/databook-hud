@@ -30,7 +30,9 @@ def main():
          '## The datasets', '',
          f"- [Fair Market Rents](./rents/README.md), FY1983 to FY2027: {rents['records']} places "
          f"({rents['counties']} counties, {rents['towns']} New England towns), "
-         '`### Rents:`, their rents by bedroom count.',
+         '`### Rents:`, their rents by bedroom count as HUD set them: at the 40th '
+         'percentile, or, for some costly areas in FY2001 to FY2019, the 50th, marked '
+         "in each place's Areas.",
          f"- [Income Limits](./limits/README.md), FY1998 to FY2026: {limits['current']} places "
          f"as HUD lists them now and {limits['gone']} it no longer lists, `### Limits:`, "
          'their median family income and limits by household size; and '
@@ -63,8 +65,11 @@ def main():
          "join holds; `lpad(cast(\"FIPS\" as varchar), 10, '0')` gives it back.", '',
          '## Changes', '',
          "Where HUD changed a definition or a key during a dataset's years, the latest "
-         'form is in the cards and the older only in tables of their own, never spliced; '
-         'each change is a record, `### Change:`, in the dataset\'s Changes page '
+         'form is in the cards and the older only in tables of their own, never spliced. '
+         'A setting HUD made place by place, on and off (the rents\' 50th percentile, '
+         'FY2001 to FY2019), is the value\'s own: the rents are in the card as set, the '
+         'setting marked beside them, and its start and end are said as changes. '
+         'Every change is a record, `### Change:`, in the dataset\'s Changes page '
          '([rents](./rents/Changes.md), [limits](./limits/Changes.md)).', '']
     for name, counts in (('Fair Market Rents', rents), ('Income Limits', limits)):
         for year, title in counts['changes']:

@@ -1,4 +1,126 @@
-# Notes: databook-hud, the two HUD books made one and held to SPEC (deputy, 2026-10-13)
+# Notes: D8, the 50th percentile in the rents' card (deputy, 2026-10-13)
+
+## What was asked
+
+SPEC D8 (the person, 10-13): a setting HUD made place by place, on and
+off, is the value's own. So the rents' card holds every year FY1995-2027
+as HUD set it, at the 40th or the 50th, marked by the Areas runs'
+Percentile; the table "50th percentile, 2001 to 2019" goes; the 45th
+(FY1983-94, a change for all, D3) stays a table. Test first, on branch
+`d8` from main; the merge left to the seat.
+
+## What I made
+
+Branch `d8`, two commits (each `--stat` read):
+
+| Commit | What | Files |
+|---|---|---|
+| 9cfabf3 | the vectors first: DC's (rule D8) and Andover's 50th years moved into the card, the table gone; every card titled anew. 6 of 8 tests then failed | 6 |
+| the next (b66fd26 or after) | import.py, target.sql, readme.py, the decisions, this note, every rents page and the front page rewritten | 66 |
+
+The card's title is now **"Fair Market Rents, as HUD set them"** (it
+holds two percentiles, so it names neither). In import.py one tuple,
+`AS_SET = ('40', '50')`, is what the card takes. The Change records of
+2001 and 2020 now say the rents are in each place's card as set, marked
+by its Areas runs' Percentile (SPEC D8). The rents README, its table
+list, and the query "the places set at the 50th percentile longest" (now
+`sum("To" - "From" + 1)` over `Rents_Areas where Percentile = 50`), and
+the front page's words are rewritten; every README query runs.
+
+### Counts
+
+| | Before (import) | Now (d8) |
+|---|---|---|
+| Rents_Fair_Market_Rents rows | 23,820 | 23,820 |
+| its rents, sum | 767,230; 635,834,938 | 783,560; 653,227,353 |
+| of them at the 50th (Areas run says 50) | (in the 50th table: 16,330; 17,392,415) | 16,330; 17,392,415 |
+| Rents_45th_percentile_1983_to_1994 | 23,720 rows; 259,235 rents | the same |
+| Rents_50th_percentile_2001_to_2019 | 1,840 rows; 16,330 rents | gone (checked: no such table) |
+| every rent in HUD's file, written and gathered once | 1,042,795; 766,869,876 | 1,042,795; 766,869,876 |
+| place-years marked 50 / with a rent in the card | 3,270 / (3,270 had a row) | 3,270 / 3,266 |
+| Rents_Areas | 19,294 | 19,294 |
+
+`sh .import/build.sh` under `crew run 6G`: 8 Python tests, 10 node
+tests, 42 target checks and 9 README queries, all held; 36 s wall,
+1.8 GB peak. `proper check`: nothing to mend.
+
+## Decisions (mended in place)
+
+- `.import/DECISIONS.md` 8 and 12, `.import/rents/DECISIONS.md`
+  ("The rents, one card as HUD set them", "Percentile"): what, why,
+  undo (`AS_SET`; the 50th table is in git at fb7ad77).
+- The card's title: "Fair Market Rents, as HUD set them". Mine; undo in
+  `record()`.
+- **Broomfield County, CO** is marked at the 50th in FY2001-04 (area
+  2080) but HUD's file gives it no rents those years (it became a county
+  in 2001; rents from FY2005). Its card is empty there, as the source is;
+  its Areas run still says 50. The D8 check counts place-years marked
+  50 (3,270) against those with a rent in the card (3,266), the
+  difference these four, named in the check. So "the places set at the
+  50th longest" gives Broomfield 14 years, four of them without rents.
+
+## Learnings
+
+For the seat:
+1. **A mark without a value.** HUD marks a percentile where it set no
+   rent (Broomfield, FY2001-04). D8's "the value as set, the setting
+   beside it" needs a word for a setting with no value: kept, as the
+   source has it. The first D8 check, written as "every place-year
+   marked 50 has its rents", failed on exactly these four; one case.
+2. **The old split was all bookkeeping.** Moving the 50th back into the
+   card changed no number: the same 16,330 rents, the same sum, and
+   every rent in the source still written once. The holes were the only
+   thing D4 had made.
+3. **The mark as a run, not a column**, is checkable but costs a range
+   join (`cast(y as int) between "From" and "To"`) against an unpivoted
+   card. It reads well on the page; in SQL a per-year column would be
+   simpler. Fine as it is; worth knowing for the next D8 case.
+
+For proper: none new. For cards.md: DC's line no longer has holes; a
+line that carries two percentiles might want the mark drawn (a dot or a
+band where the Areas say 50). A thought for cards.md, not asked.
+
+## SPEC, where it did not quite fit (proposals, not edits)
+
+1. **D1 and D8 together.** D1: "the main card shows the current
+   definition". Under D8 it shows the current definition and the
+   settings made place by place within it. Proposal, D1: "...the current
+   definition, with any setting made place by place (D8); its title
+   names what it holds, not one setting."
+2. **D5 and D8.** D8 says a place-by-place setting is not a change of
+   definition, but its start and end (2001, 2020) are still worth a
+   Change record. Proposal, D8 add: "Its start and end are still said
+   (D5), the Crosswalk saying where the mark is."
+3. **A mark with no value** (learning 1). Proposal, D8 add: "Where the
+   source marks a setting and gives no value, the mark is kept and the
+   value empty (D6)."
+
+## What I was unsure of
+
+- The title's words; "as HUD set them" was the plainest I found.
+- Whether Broomfield's empty marked years should be dropped from the
+  Areas run's 50; I kept HUD's mark, as written.
+
+## Against the brief
+
+The brief's six steps went as written, with Broomfield the one surprise
+(found by the D8 check on the first full build). Time: 330 s to the
+build all held, about 6 minutes, measured from the branch made to the
+last build; with the note and commits, under 10 minutes.
+
+## What the brief lacked
+
+- That every card's title changes, so every vector and every state
+  page changes (69 pages), not DC's alone.
+- That Andover's vector also held a 50th table.
+
+In one line: the rents' card now holds every rent as HUD set it, 40th or
+50th, marked by its Areas runs, the 50th table gone, every rent in HUD's
+file still written and gathered once, every test and check held.
+
+---
+
+# The earlier note: the two HUD books made one and held to SPEC (deputy, 2026-10-13)
 
 ## What was asked
 

@@ -3,8 +3,9 @@
 Reads HUD's FMR history (FMR_All_1983_2027.csv, latin-1, a row a county
 or New England town), checks its shape (shape.json), and writes every page
 of rents/: a file a state, a record a place (`### Rents:`), its rents a
-card at the 40th percentile, the older 45th-percentile years and the
-50th-percentile years in tables of their own, its areas a table of runs;
+card from FY1995 as HUD set them (at the 40th percentile, or the 50th
+where HUD set it, SPEC D8), the older 45th-percentile years a table of
+their own, its areas a table of runs, the percentile marked in each;
 Changes.md, the changes in HUD's file; README.md. Nothing it writes is
 edited by hand: run it again.
 
@@ -32,7 +33,8 @@ BEDROOMS = range(5)
 
 # The percentile eras (Read Me, and the file's fmrNN column, checked in
 # check_shape): the 45th to FY1994; the 40th from FY1995, the current
-# definition and so the main card; some areas at the 50th, FY2001-2019.
+# definition and so the main card; some areas at the 50th, FY2001-2019,
+# a setting made place by place, and so in the card as set (SPEC D8).
 P45 = [y for y in YEARS if y <= 1994]
 P40 = [y for y in YEARS if y >= 1995]
 P50 = list(range(2001, 2020))
@@ -147,9 +149,14 @@ def percentile(row, y):
     return pct
 
 
+# The percentiles a card or table takes: the card, the rent as HUD set it
+# from FY1995, at the 40th or, place by place, the 50th (SPEC D8)
+AS_SET = ('40', '50')
+
+
 def rent(row, y, b, at):
-    """A rent, where the place-year was set at the percentile `at`; else empty."""
-    return cell(row.get(f'fmr{YY[y]}_{b}')) if percentile(row, y) == at else ''
+    """A rent, where the place-year was set at a percentile in `at`; else empty."""
+    return cell(row.get(f'fmr{YY[y]}_{b}')) if percentile(row, y) in at else ''
 
 
 def prev(y):
@@ -237,16 +244,12 @@ def record(row, dupes, state_region):
              f'- Census region: {region(row, state_region)}',
              f'- Area changes: {changes(row)}',
              '', '#### Fair Market Rents', '']
-    lines += table('Bedrooms', [(str(b), [rent(row, y, b, '40') for y in P40]) for b in BEDROOMS],
-                   P40, card='Fair Market Rents (40th percentile)', unit=UNIT)
-    old = [(str(b), [rent(row, y, b, '45') for y in P45]) for b in BEDROOMS]
+    lines += table('Bedrooms', [(str(b), [rent(row, y, b, AS_SET) for y in P40]) for b in BEDROOMS],
+                   P40, card='Fair Market Rents, as HUD set them', unit=UNIT)
+    old = [(str(b), [rent(row, y, b, ('45',)) for y in P45]) for b in BEDROOMS]
     if any(v for _, vals in old for v in vals):
         lines += ['', '#### 45th percentile, 1983 to 1994', '']
         lines += table('Bedrooms', old, P45)
-    high = [(str(b), [rent(row, y, b, '50') for y in P50]) for b in BEDROOMS]
-    if any(v for _, vals in high for v in vals):
-        lines += ['', '#### 50th percentile, 2001 to 2019', '']
-        lines += table('Bedrooms', high, P50)
     lines += ['', '#### Areas', '',
               # HUD's old MSA numbers (to FY2005) and its metro codes (FY2006
               # on) are two columns: the one a number, the other text
@@ -306,13 +309,15 @@ def found_changes(rows):
         ('Some areas at the 50th percentile', 2001,
          'every FMR at the 40th percentile',
          f'FMRs of selected costly areas at the 50th percentile ({at(2001, "50")} places in FY2001)',
-         'None: a place-year has one FMR in this file. Its 50th-percentile years are in its table '
-         '"50th percentile, 2001 to 2019", and empty in its card.',
+         'None: a place-year has one FMR in this file, the one HUD set, and the legal rent that '
+         "year. A setting made place by place, not a change of definition (SPEC D8): the rents "
+         "are in each place's card as set, marked by its Areas runs, Percentile 50.",
          readme + ', note 4; the fmr01 column', at(2001, '50')),
         ('The 50th percentile ended', 2020,
          f'FMRs of {at(2019, "50")} places at the 50th percentile in FY2019',
          'every FMR at the 40th percentile (the Small Area FMR rule, 81 FR 80567)',
-         'None, as in 2001.', readme + ', note 4; the fmr19 and fmr20 columns', at(2019, '50')),
+         "None, as in 2001: the rents of those places are in their cards as set, marked by "
+         "their Areas runs' Percentile (SPEC D8).", readme + ', note 4; the fmr19 and fmr20 columns', at(2019, '50')),
         ("HUD's nonmetropolitan mark", 2005,
          'MSA 10000 for a county outside a metropolitan area',
          'MSA 9999', "None needed: a code, not a move; each place's Areas runs show both.",
@@ -341,7 +346,9 @@ def changes_page(found):
     lines = ['# Changes in the Fair Market Rents', '',
              "Where HUD's file changes a definition or a key during its years: the "
              'latest form is kept in the cards, the older only in tables of their own, '
-             'and nothing runs across a change.', '']
+             'and nothing runs across a change. A setting HUD made place by place, the '
+             "50th percentile, is the rent's own: in the cards as set, marked beside "
+             'it (SPEC D8).', '']
     for title, year, was, now, cross, source, n, *table in found:
         lines += [f'### Change: {title}, {year}', '',
                   '- Dataset: Fair Market Rents',
@@ -380,19 +387,22 @@ def readme(by_state, total, counties, towns, found):
          'Each place is a record, `### Rents: <name>, <ST>` (towns too, with '
          '`- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes '
          '(state, county, county subdivision; `99999` for a whole county). Its '
-         'card, **Fair Market Rents**, holds the rents at the 40th percentile, '
-         'the definition since FY1995, a row a bedroom count and a column a year. '
-         'Rents set otherwise are kept beside it, never in it: '
-         '`#### 45th percentile, 1983 to 1994`, and, for the places HUD set at '
-         'the 50th percentile in some years from FY2001 to FY2019, '
-         '`#### 50th percentile, 2001 to 2019` (those years are empty in the '
-         "card). Its `#### Areas` are the runs of years it sat in one FMR area: "
-         'HUD names areas only from FY2022, so older runs give the code alone. '
+         'card, **Fair Market Rents**, holds its rents as HUD set them from '
+         'FY1995, a row a bedroom count and a column a year: at the 40th '
+         'percentile, the definition since FY1995, or, for some costly areas in '
+         'some years from FY2001 to FY2019, at the 50th. The rent HUD set was '
+         'the legal rent that year, so it is in the card, and the percentile is '
+         "marked beside it, in the place's `#### Areas`. The years before FY1995, "
+         'at the 45th percentile for every place, are kept beside the card, never '
+         'in it: `#### 45th percentile, 1983 to 1994`. '
+         "Its `#### Areas` are the runs of years it sat in one FMR area at one "
+         'percentile: HUD names areas only from FY2022, so older runs give the '
+         'code alone. '
          '`- Area changes:` counts the years its code changed, leaving out 2006.', '',
          '## How to ask', '',
          'Each table is one across the country, a row a place and bedroom count: '
-         '`Rents_Fair_Market_Rents`, `Rents_45th_percentile_1983_to_1994`, '
-         '`Rents_50th_percentile_2001_to_2019`; and `Rents_Areas`, a row a run.', '',
+         '`Rents_Fair_Market_Rents` and `Rents_45th_percentile_1983_to_1994`; '
+         'and `Rents_Areas`, a row a run, with its `Percentile`.', '',
          '```sql',
          '-- two-bedroom rents in Manhattan and Onondaga County, 1995 and now',
          f'select record, "1995", "2010", "{LATEST}" from Rents_Fair_Market_Rents',
@@ -405,9 +415,8 @@ def readme(by_state, total, counties, towns, found):
          '```', '',
          '```sql',
          '-- the places set at the 50th percentile longest',
-         'select record, count(*) as years',
-         'from (unpivot (select * exclude (_file, _line) from Rents_50th_percentile_2001_to_2019 where Bedrooms = 2)',
-         "  on columns('^[0-9]+$') into name year value rent)",
+         'select record, sum("To" - "From" + 1) as years',
+         'from Rents_Areas where Percentile = 50',
          'group by record order by years desc, record limit 10',
          '```', '',
          '`FIPS` is gathered as a number, so its leading zero goes; '
@@ -484,12 +493,15 @@ def build(rows):
         'records': len(rows), 'counties': counties, 'towns': len(rows) - counties,
         'pages': len(by_state), 'changes': [[c[1], c[0]] for c in found],
         'tables': {
-            'Rents_Fair_Market_Rents': {'rows': 5 * len(rows), **cells(P40, '40')},
-            'Rents_45th_percentile_1983_to_1994': {'rows': 5 * has(P45, '45'), **cells(P45, '45')},
-            'Rents_50th_percentile_2001_to_2019': {'rows': 5 * has(P50, '50'), **cells(P50, '50')},
+            'Rents_Fair_Market_Rents': {'rows': 5 * len(rows), **cells(P40, AS_SET),
+                                        'at_50th': cells(P50, ('50',))},
+            'Rents_45th_percentile_1983_to_1994': {'rows': 5 * has(P45, ('45',)), **cells(P45, ('45',))},
             'Rents_Areas': {'rows': sum(len(areas(r)) for r in rows)},
         },
         'place_years_at_50th': sum(percentile(r, y) == '50' for r in rows for y in P50),
+        # HUD marks Broomfield County, CO at the 50th in FY2001-04 but gives it no rents
+        'place_years_at_50th_with_rents': sum(percentile(r, y) == '50' and any(rent(r, y, b, ('50',)) for b in BEDROOMS)
+                                              for r in rows for y in P50),
         'source': {'rows': len(rows), 'cells': len(src_vals), 'sum': sum(src_vals)},
     }
     return pages, counts

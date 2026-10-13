@@ -46,14 +46,17 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
    memory: the percentile years from `fmrNN`, the nonmetro mark's year,
    the CT year, every place recoded, listed or dropped. What HUD says
    (its Read Me, the Act of 2014) is cited in `- Source:`.
-8. **The rents' main card is the 40th percentile, FY1995 on** (D1): the
-   45th-percentile years, FY1983-1994, are a table of their own
-   (`45th percentile, 1983 to 1994`), and so are the place-years HUD set
-   at the 50th, FY2001-2019 (`50th percentile, 2001 to 2019`), empty in
-   the card (D4, D6). 3,270 place-years, 16,330 rents, 368 places.
-   HUD published no year at both percentiles in this file, so there is
-   no crosswalk year (D2 cannot be kept): the Change records say so.
-   Undo: `P40`, `rent()` and `record()` in import.py.
+8. **The rents' main card is the rent as HUD set it, FY1995 on** (D1,
+   D8): at the 40th percentile, or the 50th where HUD set a place there
+   in FY2001-2019 (3,270 place-years, 16,330 rents, 368 places), marked
+   by the place's Areas runs (`Percentile`). The 50th was a setting made
+   place by place, on and off, and the rent set was the legal rent that
+   year: the person, 10-13, now SPEC D8. Until 10-13 (branch `import`)
+   those years were empty in the card and kept in a table `50th
+   percentile, 2001 to 2019`. The 45th-percentile years, FY1983-1994, a
+   change for every place at once (D3), stay a table of their own
+   (`45th percentile, 1983 to 1994`). Undo: `AS_SET` in import.py, and
+   the 50th table from git (fb7ad77).
 9. **Methods are not definitions.** HUD changed how it reckons both
    series many times (recent-mover rents, the ACS base, hold-harmless
    to FY2009, caps since); these change the numbers, not what they are,
@@ -73,7 +76,7 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
     the importer stops, and the year is read before it is written.
 12. **V2 vectors were made by the importer and checked by eye against
     the source**, cell by cell for the rules they hold (Autauga's 1994
-    and 1995 rents, DC's 50th-percentile years, Onondaga's FY2014 in
+    and 1995 rents, DC's 50th-percentile years (moved into its card for D8, 10-13), Onondaga's FY2014 in
     both files, Andover's county row), not written by hand before the
     code. They hold the rules now; a change to the output must be a
     change to a vector.

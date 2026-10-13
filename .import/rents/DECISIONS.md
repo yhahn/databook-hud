@@ -52,16 +52,22 @@ Each: what, why, how to undo it.
   `NCTNY`, HUD's misspelling of `NCNTY` in FY2023–24. What is left is
   real reclassing (a county drawn into or out of a metro area, an area
   split), 677 places of 4,764. Undo: `same()` and `changes()`.
-- **The rents, one card at the 40th percentile** (since 10-13, SPEC
-  D1-D6): `#### Fair Market Rents`, `> [!CARD:line] Fair Market Rents
-  (40th percentile)`, a row a bedroom count 0–4, a column a fiscal year,
-  FY1995–2027, the years of the current definition. The 45th-percentile
-  years, FY1983 and 1985–1994, are a plain table `#### 45th percentile,
-  1983 to 1994`; a place-year HUD set at the 50th (FY2001–2019) is empty
-  in the card and written in `#### 50th percentile, 2001 to 2019`,
-  present only for the 368 places that had one. HUD's file has no
-  FY1984, so there is no 1984 column. Dollars as numbers; empty where
-  HUD gives none. Undo: `P40` and `record()`.
+- **The rents, one card as HUD set them** (SPEC D1-D6, and D8 since
+  10-13): `#### Fair Market Rents`, `> [!CARD:line] Fair Market Rents,
+  as HUD set them`, a row a bedroom count 0–4, a column a fiscal year,
+  FY1995–2027, the years of the current definition (the 40th). A
+  place-year HUD set at the 50th (FY2001–2019, 368 places) is in the
+  card as set, the legal rent that year, and marked by its Areas run's
+  `Percentile` (D8: a setting made place by place, not a change of
+  definition; the person, 10-13). Until 10-13 those years were empty in
+  the card and written in `#### 50th percentile, 2001 to 2019`. The
+  title says what the card holds, not a percentile, as it holds two.
+  The 45th-percentile years, FY1983 and 1985–1994, a change for every
+  place at once (D3), are a plain table `#### 45th percentile, 1983 to
+  1994`. HUD's file has no FY1984, so there is no 1984 column. Dollars
+  as numbers; empty where HUD gives none: Broomfield County, CO is
+  marked at the 50th in FY2001–04 with no rents, and its card is empty
+  there. Undo: `AS_SET`, `P40` and `record()`.
 - **Areas each year, cheaply, as runs**: a table `#### Areas` under each
   record, `| From | To | MSA | Metro code | Area | Percentile |`, a row for
   each run of years the place sat under one area code at one
@@ -75,7 +81,8 @@ Each: what, why, how to undo it.
   never crosses 2006. Undo: `areas()` and the table in `record()`.
 - **Percentile** is HUD's `fmrNN` column: 45 for FY1983–1994, 40 since,
   with some areas at 50 (FY2001–2019). It sits in the Areas runs, not
-  the rents card, which stays a bedroom a row. HUD's file has no
+  the rents card, which stays a bedroom a row: the runs are the mark
+  beside the card's values that SPEC D8 asks for. HUD's file has no
   percentile column from FY2024: those years are written 40, as the
   Read Me says the 50th-percentile program ended with FY2019 and
   FY2020–23 are 40 everywhere (and 24 CFR 888.113 sets the 40th).

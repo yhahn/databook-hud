@@ -8,11 +8,11 @@ A Fair Market Rent (FMR) is what HUD reckons a modest, decent home costs to rent
 
 ## How it is written
 
-Each place is a record, `### Rents: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county). Its card, **Fair Market Rents**, holds the rents at the 40th percentile, the definition since FY1995, a row a bedroom count and a column a year. Rents set otherwise are kept beside it, never in it: `#### 45th percentile, 1983 to 1994`, and, for the places HUD set at the 50th percentile in some years from FY2001 to FY2019, `#### 50th percentile, 2001 to 2019` (those years are empty in the card). Its `#### Areas` are the runs of years it sat in one FMR area: HUD names areas only from FY2022, so older runs give the code alone. `- Area changes:` counts the years its code changed, leaving out 2006.
+Each place is a record, `### Rents: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county). Its card, **Fair Market Rents**, holds its rents as HUD set them from FY1995, a row a bedroom count and a column a year: at the 40th percentile, the definition since FY1995, or, for some costly areas in some years from FY2001 to FY2019, at the 50th. The rent HUD set was the legal rent that year, so it is in the card, and the percentile is marked beside it, in the place's `#### Areas`. The years before FY1995, at the 45th percentile for every place, are kept beside the card, never in it: `#### 45th percentile, 1983 to 1994`. Its `#### Areas` are the runs of years it sat in one FMR area at one percentile: HUD names areas only from FY2022, so older runs give the code alone. `- Area changes:` counts the years its code changed, leaving out 2006.
 
 ## How to ask
 
-Each table is one across the country, a row a place and bedroom count: `Rents_Fair_Market_Rents`, `Rents_45th_percentile_1983_to_1994`, `Rents_50th_percentile_2001_to_2019`; and `Rents_Areas`, a row a run.
+Each table is one across the country, a row a place and bedroom count: `Rents_Fair_Market_Rents` and `Rents_45th_percentile_1983_to_1994`; and `Rents_Areas`, a row a run, with its `Percentile`.
 
 ```sql
 -- two-bedroom rents in Manhattan and Onondaga County, 1995 and now
@@ -28,9 +28,8 @@ where t.Bedrooms = 2 order by t."2027" desc limit 10
 
 ```sql
 -- the places set at the 50th percentile longest
-select record, count(*) as years
-from (unpivot (select * exclude (_file, _line) from Rents_50th_percentile_2001_to_2019 where Bedrooms = 2)
-  on columns('^[0-9]+$') into name year value rent)
+select record, sum("To" - "From" + 1) as years
+from Rents_Areas where Percentile = 50
 group by record order by years desc, record limit 10
 ```
 

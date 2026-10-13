@@ -1,3 +1,4 @@
 .import/limits/node_modules/
 .proper/
 __pycache__/
+.claude/worktrees/

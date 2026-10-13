@@ -472,7 +472,7 @@ def readme(by_state, total, counties, towns, found):
          "city.md` (Connecticut's under its planning regions). A state's page "
          '(`Alabama.md`) lists its places, or in New England its counties, and a '
          "New England county's page its towns, linked, in a table gathered as "
-         '`"Fair Market Rents_Places"`. A page is named for its place, a slash a '
+         '`Fair_Market_Rents_Places`. A page is named for its place, a slash a '
          'dash; a name two pages of one folder would share takes its FIPS. The '
          'changes are a page each, in `Changes/`, listed in [Changes](./Changes.md).', '',
          'Each place is a record, `# Rents: <name>, <ST>` (towns too, with '

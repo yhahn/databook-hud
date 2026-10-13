@@ -16,7 +16,7 @@ A county takes the limits of its area, so all the counties of one metropolitan a
 
 ## How it is written
 
-A page a place, as a reader finds it: `Alabama/Autauga County.md`; in New England, where HUD's places are towns, `Maine/Penobscot County/Bangor city.md` (Connecticut's under its planning regions). A state's page (`Alabama.md`) lists its places, or in New England its counties, and a New England county's page its towns, linked, in a table gathered as `"Income Limits_Places"`. The places HUD no longer lists are a page each in `Gone/`, listed in [Gone](./Gone.md); the changes, in `Changes/`, listed in [Changes](./Changes.md). A page is named for its place, a slash a dash; a name two pages of one folder would share takes its FIPS.
+A page a place, as a reader finds it: `Alabama/Autauga County.md`; in New England, where HUD's places are towns, `Maine/Penobscot County/Bangor city.md` (Connecticut's under its planning regions). A state's page (`Alabama.md`) lists its places, or in New England its counties, and a New England county's page its towns, linked, in a table gathered as `Income_Limits_Places`. The places HUD no longer lists are a page each in `Gone/`, listed in [Gone](./Gone.md); the changes, in `Changes/`, listed in [Changes](./Changes.md). A page is named for its place, a slash a dash; a name two pages of one folder would share takes its FIPS.
 
 Each place is a record, `# Limits: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county): the rents' key, so a place's rents and its income limits join. Its cards, a column a fiscal year and, for the limits, a row a household size: Median family income, Extremely low income (30%) from FY2014, Very low income (50%), Low income (80%); empty where HUD gives none. Beside them, never in them, the table `30% limit, 1999 to 2014`, the old definition; FY2014 is in both, the year HUD published both. Its `#### Areas` are the runs of years it sat in one HUD area (HUD's MSA numbers before FY2006, its area codes since).
 
@@ -26,7 +26,7 @@ Where a place's FIPS changed, it is followed by code, a table of renames, or nam
 
 ## How to ask
 
-Each card or table is one across the country, a row a place and household size: `Limits_Extremely_low_income_30`, `Limits_Very_low_income_50`, `Limits_Low_income_80`, `Limits_30_limit_1999_to_2014`; `Limits_Median_family_income`, a row a place; `Limits_Areas`, a row a run; and the county rows before 2006, `"County before 2006_Very_low_income_50"` and the like.
+Each card or table is one across the country, a row a place and household size: `Limits_Extremely_low_income_30`, `Limits_Very_low_income_50`, `Limits_Low_income_80`, `Limits_30_limit_1999_to_2014`; `Limits_Median_family_income`, a row a place; `Limits_Areas`, a row a run; and the county rows before 2006, `County_before_2006_Very_low_income_50` and the like.
 
 ```sql
 -- a family of four's very low income limit, then and now, in Manhattan and Onondaga County
@@ -50,7 +50,7 @@ where o.Persons = 8 order by n."2014" - o."2014" desc limit 10
 -- a Connecticut town's very low income limit for four, before and after 2006, through its county's row
 select t.name, c."2005" as "its county row, 2005", v."2006" as "the town, 2006"
 from Limits t
-join "County before 2006_Very_low_income_50" c on c.record = t."County before 2006" and c.Persons = 4
+join County_before_2006_Very_low_income_50 c on c.record = t."County before 2006" and c.Persons = 4
 join Limits_Very_low_income_50 v on v.record = t.name and v.Persons = 4
 where t.State = 'Connecticut' order by t.name limit 10
 ```

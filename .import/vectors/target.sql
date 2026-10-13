@@ -113,9 +113,9 @@ select count(v) from (unpivot Limits_30_limit_1999_to_2014 on columns('^[0-9]+$'
 -- want: {limits.tables.Limits_Median_family_income.cells}
 select count(v) from (unpivot Limits_Median_family_income on columns('^[0-9]+$') into name y value v);
 
--- name: limits in "County before 2006_Very_low_income_50"
+-- name: limits in County_before_2006_Very_low_income_50
 -- want: {limits.tables.County before 2006_Very_low_income_50.cells}
-select count(v) from (unpivot "County before 2006_Very_low_income_50" on columns('^[0-9]+$') into name y value v);
+select count(v) from (unpivot County_before_2006_Very_low_income_50 on columns('^[0-9]+$') into name y value v);
 
 -- name: rows of Limits_Areas
 -- want: {limits.tables.Limits_Areas.rows}
@@ -203,14 +203,14 @@ select count(*) from Change where Boundary is null or Was is null or Now is null
 -- want: {limits.source.l50} {limits.source.l80} {limits.source.l30} {limits.source.eli} {limits.source.median}
 with n as (
   select 'l50' k, count(v) c from (unpivot Limits_Very_low_income_50 on columns('^[0-9]+$') into name y value v)
-  union all select 'l50', count(v) from (unpivot "County before 2006_Very_low_income_50" on columns('^[0-9]+$') into name y value v)
+  union all select 'l50', count(v) from (unpivot County_before_2006_Very_low_income_50 on columns('^[0-9]+$') into name y value v)
   union all select 'l80', count(v) from (unpivot Limits_Low_income_80 on columns('^[0-9]+$') into name y value v)
-  union all select 'l80', count(v) from (unpivot "County before 2006_Low_income_80" on columns('^[0-9]+$') into name y value v)
+  union all select 'l80', count(v) from (unpivot County_before_2006_Low_income_80 on columns('^[0-9]+$') into name y value v)
   union all select 'l30', count(v) from (unpivot Limits_30_limit_1999_to_2014 on columns('^[0-9]+$') into name y value v)
-  union all select 'l30', count(v) from (unpivot "County before 2006_30_limit" on columns('^[0-9]+$') into name y value v)
+  union all select 'l30', count(v) from (unpivot County_before_2006_30_limit on columns('^[0-9]+$') into name y value v)
   union all select 'eli', count(v) from (unpivot Limits_Extremely_low_income_30 on columns('^[0-9]+$') into name y value v)
   union all select 'med', count(v) from (unpivot Limits_Median_family_income on columns('^[0-9]+$') into name y value v)
-  union all select 'med', count(v) from (unpivot "County before 2006_Median_family_income" on columns('^[0-9]+$') into name y value v))
+  union all select 'med', count(v) from (unpivot County_before_2006_Median_family_income on columns('^[0-9]+$') into name y value v))
 select string_agg(c, ' ' order by o) from (select k, sum(c) c, case k when 'l50' then 1 when 'l80' then 2 when 'l30' then 3 when 'eli' then 4 else 5 end o from n group by k);
 
 -- name: B7 no page holds more than ten records of a kind (pages over ten)
@@ -245,9 +245,9 @@ select (select count(*) from Change where _file in (select path from links)) || 
 
 -- name: B7 every place listed once, in its state's or county's table (the rents' and the limits' listed now)
 -- want: {rents.records} {limits.current}
-select (select count(distinct l.path) from "Fair Market Rents_Places" p join links l on l._file = p._file and l._line = p._line
+select (select count(distinct l.path) from Fair_Market_Rents_Places p join links l on l._file = p._file and l._line = p._line
          join Rents r on r._file = l.path) || ' ' ||
-  (select count(distinct l.path) from "Income Limits_Places" p join links l on l._file = p._file and l._line = p._line
+  (select count(distinct l.path) from Income_Limits_Places p join links l on l._file = p._file and l._line = p._line
          join Limits r on r._file = l.path);
 
 -- name: B7 no link that leads nowhere

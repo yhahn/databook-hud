@@ -1,7 +1,9 @@
 # Fair Market Rents: Northern Mariana Islands
 
+- Level: State
 - Postal code: MP
 - State FIPS: 69
+- County FIPS: 
 - Counties: 1
 - Towns: 0
 
@@ -9,33 +11,6 @@ HUD's Fair Market Rents for Northern Mariana Islands, fiscal years 1983 to 2027:
 
 ## Places
 
-### Rents: Northern Mariana Islands, MP
-
-- FIPS: 6999999999
-- FIPS 2024: 
-- FIPS before: 
-- Level: County
-- FMR area: Northern Mariana Islands
-- Metro code: NCNTY69999N69999
-- State: Northern Mariana Islands
-- Census region: none
-- Area changes: 0
-
-#### Fair Market Rents
-
-> [!CARD:line] Fair Market Rents, as HUD set them
-> | Bedrooms | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
-> |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-> | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 396 | 411 | 432 | 457 | 480 | 509 | 532 | 570 | 652 | 683 | 665 | 688 |
-> | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 480 | 498 | 509 | 538 | 560 | 586 | 608 | 647 | 732 | 759 | 735 | 755 |
-> | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 642 | 666 | 677 | 712 | 737 | 772 | 800 | 852 | 962 | 996 | 965 | 988 |
-> | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 927 | 961 | 977 | 1028 | 1063 | 1105 | 1136 | 1211 | 1356 | 1396 | 1342 | 1368 |
-> | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1116 | 1158 | 1177 | 1238 | 1281 | 1337 | 1369 | 1451 | 1633 | 1673 | 1612 | 1650 |
->
-> - Unit: dollars a month, gross rent (rent and utilities)
-
-#### Areas
-
-| From | To | MSA | Metro code | Area | Percentile |
-|---|---|---|---|---|---|
-| 2016 | 2027 |  | NCNTY69999N69999 | Northern Mariana Islands | 40 |
+| Place | FIPS | Level | Towns |
+|---|---|---|---|
+| [Northern Mariana Islands, MP](./Northern%20Mariana%20Islands/Northern%20Mariana%20Islands.md) | 6999999999 | County |  |

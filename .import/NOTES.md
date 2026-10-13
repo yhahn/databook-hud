@@ -1,3 +1,190 @@
+# Notes: B7, a page a place (deputy, 2026-10-13)
+
+## What was asked
+
+SPEC B7 (the person, 10-13): a page holds no more than ten records of
+the kind it is about; past that, a folder nested as a reader finds the
+thing, a page each, and the folder's own page beside it listing what is
+in it. Before, a state page held up to 551 records (limits/Maine.md).
+Test first; file names safe and unique; every count unchanged; the
+README queries run; the layout said; cold gather measured; the bench
+looked at. Branch `b7` from main; the merge left to the seat.
+
+## What I made
+
+Branch `b7`, two commits (each `--stat` read):
+
+| Commit | What | Files |
+|---|---|---|
+| b7 first, as tests | the B7 vectors (`b7-pages.json`, one an importer), every record vector shifted to head its page, file-name tests, the B7 checks in target.sql, `.import/counties.js` and `counties.json`. Against the old writers: rents 7 failures and 3 errors of 11 tests, limits 6 of 12 | 17 |
+| the pages written | both importers, both READMEs and the front page, the decisions, this note, and every page | about 9,900 |
+
+The tree:
+
+```
+rents/Alabama.md                         the state: its 67 places, a table, linked
+rents/Alabama/Autauga County.md          # Rents: Autauga County, AL
+rents/Maine.md                           its 16 counties, linked, with their towns counted
+rents/Maine/Penobscot County.md          its 67 towns listed (HUD gives no county row: no record)
+rents/Maine/Penobscot County/Bangor city.md
+rents/Changes.md, rents/Changes/<title>, <year>.md      7
+limits/... the same; limits/Maine/Penobscot County.md also holds its 2 County before 2006 records
+limits/Connecticut/Tolland County.md     an old county's rows before 2006 (8 such pages)
+limits/Missouri/Crawford County.md       its record, then its 2 rows before 2006
+limits/Gone.md, limits/Gone/<name>, <ST>.md             18
+limits/Changes.md, limits/Changes/…                     17
+```
+
+Pages: 4,897 in rents (4,764 places, 56 states, 68 New England
+counties and planning regions, 7 changes, Changes.md, README.md), 4,934 in limits
+(4,764 + 18 gone, 56 states, 76 county pages (68 and Connecticut's 8 old counties), 17 changes, Gone.md,
+Changes.md, README.md): 9,831, and the front page. Before: 128.
+
+### Counts, before and after
+
+| | main | b7 |
+|---|---|---|
+| Rents / Limits / County before 2006 / Change records | 4,764 / 4,782 / 125 / 24 | the same |
+| Rents_Fair_Market_Rents rows; rents, sum | 23,820; 783,560, 653,227,353 | the same |
+| every rent in HUD's file, written and gathered once | 1,042,795; 766,869,876 | the same |
+| every limit and median (l50, l80, l30, eli, median) | as counted from HUD's files | the same (checked) |
+| Rents_Areas, Limits_Areas, Change_Places | as before | the same |
+| `counts.json` tables and source sections, both | | identical, compared key by key |
+| most records of a kind on one page | 551 (limits/Maine.md) | 1 (Rents, Limits, Change); 5 County before 2006 (Rockingham, NH) |
+
+`sh .import/build.sh` under `crew run 6G`: 11 Python tests, 12 node
+tests, 50 target checks (41 before; 7 new for B7, 1 for the listing
+pages' keys, the 2 D7 checks mended to `Gone/`) and the 9 README
+queries: all held. `proper check`: nothing to mend.
+
+### The gather, cold (no `.proper/`), `crew run 6G -- /usr/bin/time -v proper check`
+
+Measured back to back with main (exported by `git archive` to scratch),
+the machine busy with other seats (load 6 to 8):
+
+| | wall | peak memory |
+|---|---|---|
+| main, the brief's figure | 20.3 s | 1.22 GB |
+| main, today, twice | 19.5 s, 24.0 s | 1.18 GB, 1.60 GB |
+| b7, twice | 17.2 s, 16.6 s | 0.89 GB, 0.87 GB |
+
+So 9,800 small files gather no slower than 128 large ones, and in less
+memory. (A first b7 run, 41.5 s, was taken while another seat's 6G job
+ran beside it; not counted.) Warm: about 6 s.
+
+## Decisions
+
+`.import/DECISIONS.md` 14-21, the old ones pointed at them. In short:
+a page a place in every state, not only past ten (14); New England by
+county, Connecticut by planning region (15); county names from HUD's
+limits files, one table for both (16); County before 2006 with its county
+(17); the listing pages are records of the kinds the state pages were,
+with a `## Places` table (18); a place's record heads its page, `#` not
+`###` (19); the file-name and link rule (20); Gone and the changes a
+page each (21).
+
+## Learnings
+
+For proper (for engine, with evidence):
+1. **`%2C` in a link is not read as a comma.** proper decodes `%20`,
+   `%27`, `%28`, `%C3%B1` in a link's path but not `%2C`:
+   `./Gone/Bedford%20city%2C%20VA.md` gathered as path `Gone/Bedford
+   city%2C VA.md` and warned "no file here" (42 such warnings on the first
+   gather). It acts like `decodeURI`, which leaves reserved characters;
+   `decodeURIComponent` per segment would read it. Worked round here by
+   leaving the comma bare.
+2. **A list of `- 1995: [title](link)` under a title is a near-record**:
+   "# Changes in the Fair Market Rents is nearly a Rents record". Fair
+   enough (the rows are key-shaped); worked round by `- [title, 1995](link)`.
+   One case; perhaps the warning could leave a row whose value is only a
+   link.
+3. **A link cell gathers as its markdown**: `"Fair Market Rents_Places".Place`
+   is `[Autauga County, AL](./Alabama/Autauga%20County.md)`; the text and
+   path are in `links`, joined on `_file, _line`. A cell that is one link
+   could gather as its text (the path beside it). One case.
+4. **Many small files gather faster and leaner than few large ones**
+   (above): 9,800 pages, 16.6 s and 0.87 GB, against 128 pages, 19.5 s
+   and 1.18 GB. No trouble from B7.
+
+For cards.md (from the bench, port 4419, headless Chromium, 1280 and 390
+wide; the server stopped after):
+5. **The bench does not follow a link to a page of its folder.** A
+   state's listing draws its 254 links well, but a tap goes to
+   `/Texas/Anderson%20County.md` (relative to `/`, not to the open file's
+   folder) and is a 404. The bench should open a `.md` link in itself,
+   read from the open file's folder, as proper reads it; the folder's own
+   check already refuses links that lead out. With B7 the book is walked
+   by these links, so this is the thing it most wants.
+6. **A folder's page is not beside its folder in the tree**: folders come
+   first, so `Penobscot County/` and `Penobscot County.md` sit 16 rows
+   apart. A folder with a page of its name could be one row: the name
+   opens the page, the arrow the folder (as a Term's page and its folder
+   in scotus).
+7. A listing of 254 rows reads well (Place, FIPS, Level, Towns), and a
+   folder of 254 opens at once (330 ms a file). On a phone the tree fills
+   the top half of the screen and the page below is short: a phone wants
+   the tree to close once a file is opened.
+
+For the seat:
+8. **The rents have no county in New England**, so a New England county
+   page holds no Rents record, only the list (the brief expected "the
+   county's record").
+9. **Connecticut's old counties need pages of their own** in the limits:
+   their County before 2006 records belong to counties that are no longer
+   folders (the planning regions are).
+
+## SPEC, where it did not quite fit (proposals, not edits)
+
+1. **B7 and predictability.** B7 allows "a few" on one page; I put every
+   place on a page of its own in every state, so a place is always at
+   `<state>/<place>.md`. Proposal: "A thing of a kind that any folder
+   splits is a page in every folder, so it is always found at one path."
+2. **B7, the folder's page as a record.** Say what a folder's page is: a
+   record of the dataset's listing kind, its table of what is in the
+   folder linked, gathered as `<Kind>_Places`. And that a link cell's
+   text is the thing's name.
+3. **B7, file names.** Add: a page is named for its record, made safe
+   (a slash a dash; `:*?"<>|` dropped), a name two pages of a folder
+   would share taking the key; links written so proper and the bench
+   read them back (today: leave the comma bare).
+4. **B2/B6, a table the importers share** (`counties.json`): where two
+   datasets' folders must agree and only one source names the thing,
+   the table is made by a script in `.import/`, from a source, not by
+   hand.
+
+## What I was unsure of
+
+- `Counties` on a state page now counts the counties listed (Maine 16),
+  not county records (0): its meaning changed. Decision 18.
+- Whether `Counties` and `Towns` belong on a county's listing page at all
+  (`Counties` is blank there).
+- Old Connecticut county pages list no towns: the towns tie to them only
+  through each town's `County before 2006`. A list could be written.
+
+## Against the brief
+
+No Predicted in the brief. The five steps went as written; the surprises
+were proper's `%2C` (found by the B7 "no link leads nowhere" check on the
+first gather) and the near-record warning on the Changes list. Time,
+measured: branch made at 11:59:52, last build held at about 12:24, note
+and commits done by 12:31: 31 minutes in all.
+
+## What the brief lacked
+
+- That HUD's rents have no county rows in New England, nor county names
+  anywhere (the folders' names had to come from the limits' files).
+- Where Connecticut's County before 2006 records go, its counties being
+  no longer its keys.
+- How a listing page is a record (its kind and keys, B3) and how its
+  table is named (B4).
+
+In one line: databook-hud is now a page a place, 9,831 pages, nested state,
+county, town, each listing page linked, every count unchanged and every
+check held, gathered cold in 17 s and 0.87 GB against main's 20-24 s and
+1.2-1.6 GB; the bench draws it well but cannot follow its links yet.
+
+---
+
 # Notes: D8, the 50th percentile in the rents' card (deputy, 2026-10-13)
 
 ## What was asked

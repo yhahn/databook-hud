@@ -26,7 +26,8 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
 
 ## The kinds (SPEC B5)
 
-4. **`### Rents: <place>` and `### Limits: <place>`**, the seat's lean.
+4. **`### Rents: <place>` and `### Limits: <place>`**, the seat's lean
+   (since B7, `# Rents:` and `# Limits:`, a page each: 19 below).
    The state pages too: `# Fair Market Rents: <State>` and
    `# Income Limits: <State>` (both had `# State:`, which would have made
    one table of two shapes). New England's county rows before 2006 are
@@ -84,3 +85,58 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
     importer writes from the source as it writes the pages; and runs
     every README query. The old repos' counts are checked once (NOTES),
     not in target.sql, so the check does not lean on another repo.
+
+## The pages (SPEC B7), 10-13, branch `b7`
+
+14. **A page a place, always, in every state**: `rents/Alabama/Autauga
+    County.md`, not only past ten. B7 lets a page hold a few, but a reader
+    and an agent find any place at one path whatever the state's size
+    (DC's one county too). Undo: `state_pages()` in import.py and the
+    pages block of `build()` in import.js.
+15. **New England nested by county**: `<State>/<County>.md` lists its
+    towns, `<State>/<County>/<town>.md` a town each; Connecticut's by
+    planning region, its key since FY2025/26. HUD's rents give no county
+    row in New England, so a county's page there holds no Rents record,
+    only its listing (the brief had "the county's record"; there is none
+    to write). The limits' county page also holds its `County before
+    2006` records. Undo: as 14.
+16. **County names from HUD's limits files**: the rents' file names no
+    county, so `.import/counties.json` (76 New England counties and
+    planning regions, made by `node .import/counties.js` from the limits'
+    `County_Name`, FY2006 on, latest name kept) names the folders of both
+    datasets alike. Run again when a limits year is added; either importer
+    stops if a code is not in it. Undo: delete both files.
+17. **County before 2006 records go with their county**: in New England
+    on the county's page; Connecticut's old counties (gone as keys) on a
+    page of their own each, `Connecticut/Tolland County.md`, listed on the
+    state's page as Level `County before 2006`; Crawford, MO's two on its
+    own record's page, after it. At most 5 on a page (Rockingham, NH).
+18. **The listing pages are records**, of the kinds the state pages
+    already were (`# Fair Market Rents: <name>`, `# Income Limits:
+    <name>`), keys `Level` (State, County), `Postal code`, `State FIPS`,
+    `County FIPS` (5 digits, a New England county's), `Counties`, `Towns`;
+    their `## Places` table (Place linked, FIPS, Level, Towns) is gathered
+    as `"Fair Market Rents_Places"` and `"Income Limits_Places"`. A
+    state's `Counties` is now the counties listed: Maine's 16, not the
+    0 county records it said before. Undo: `keys()` in both importers.
+19. **A place's record heads its page**: `# Rents:` and `# Limits:` (were
+    `###`), its tables `##` (were `####`); the table names are unchanged
+    (`Rents_Fair_Market_Rents`, …). `County before 2006` records stay
+    `###` under `## Counties before 2006`. Every record vector shifted
+    likewise, nothing else in them changed. Undo: the heading strings.
+20. **File names**: a page is named as its record, less `, <ST>` (`Gone/`
+    keeps it, as places of every state meet there); NFC; `/` and `\` a
+    dash; `: * ? " < > |` and control characters dropped; spaces single;
+    no leading dot. Accents kept (`Añasco Municipio.md`). Two pages of one
+    folder whose names match, case aside, each take ` (<FIPS>)`; none do
+    today (the names HUD repeats in a state already carry their FIPS).
+    Links: every character but letters, digits, `-_.~` and the comma as
+    `%XX` (UTF-8); the comma left bare because proper reads `%2C` in a
+    link as itself and the link leads nowhere. Undo: `safe()`, `link()`,
+    `unique()` in both importers (kept alike; a test each).
+21. **Gone and the changes, a page each**: `limits/Gone/<name>, <ST>.md`
+    (18), `Gone.md` a list of links; `rents/Changes/<title>, <year>.md` (7)
+    and `limits/Changes/…` (17), `Changes.md` a list. The lists are not
+    written `- 1995: [...]`: proper reads key-like rows under a title as a
+    near-record. Rents' 7 changes would fit one page; split for the same
+    shape in both. Undo: `changes_pages()`, `changesPages()`.

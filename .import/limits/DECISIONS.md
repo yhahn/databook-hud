@@ -74,7 +74,8 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
 
 ## Shape
 
-7. **As the rents**: a file a state (`limits/<State name>.md`,
+7. (Since B7, 10-13: a page a place, `.import/DECISIONS.md` 14-21.)
+   **As the rents**: a file a state (`limits/<State name>.md`,
    `# Income Limits: <State>`), a record a place, `### Limits: <name>,
    <ST>` (was `### County:` until 10-13: SPEC B5), towns the same kind
    with `- Level: Town`; rows `FIPS`, `FIPS 2024`, `FIPS before`,

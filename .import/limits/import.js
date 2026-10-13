@@ -4,8 +4,10 @@
 //
 //   node .import/limits/import.js [--src ~/.cache/proper/hud/il] [--out <repo>/limits]
 //
-// A file a state; a record a county (or New England town) as HUD keys it
-// today, `### Limits: <name>`, by its 10-digit FIPS, the rents' key. Each
+// A page a place (SPEC B7), in its state's folder (in New England, its
+// county's), each state and New England county a page listing its places;
+// a record a county (or New England town) as HUD keys it today,
+// `# Limits: <name>`, by its 10-digit FIPS, the rents' key. Each
 // record carries its median family income and its limits as cards, years
 // across, and the areas it has belonged to. Where HUD changed a definition
 // or a key, the older form is kept apart and never spliced (SPEC D1-D7):
@@ -24,6 +26,9 @@ const KEYED = 2006; // from FY2006 the files carry the FIPS; before, state, coun
 const ELI = 2014; // the extremely low income limit, redefined (Consolidated Appropriations Act, 2014)
 const OLD30_YEARS = YEARS.filter((y) => y >= 1999 && y <= ELI); // FY1998 has no 30% limit
 const NEW_ENGLAND = new Set(['09', '23', '25', '33', '44', '50']);
+// New England's counties (Connecticut's planning regions, and its counties
+// before them) by code, as HUD's files name them: .import/counties.js
+const COUNTIES = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'counties.json'), 'utf8'));
 
 const LEVELS = [
   ['l30', 'Extremely low income (30%)', YEARS.filter((y) => y >= ELI)],
@@ -233,7 +238,7 @@ function build({ byYear, old30 }) {
     const [f24, before, earlier] = fipsBefore(rec);
     const name = displayName(rec);
     const lines = [
-      `### Limits: ${name}`, '',
+      `# Limits: ${name}`, '',
       `- FIPS: ${rec.fips}`,
       `- FIPS 2024: ${f24}`,
       `- FIPS before: ${before}`,
@@ -248,20 +253,20 @@ function build({ byYear, old30 }) {
       `- Last year: ${rec.gone ? latestYear : ''}`,
     ];
     const median = YEARS.map((y) => rec.years.get(y)?.median);
-    lines.push('', '#### Median family income', '', ...card('Median family income', 'Measure', YEARS, [['Median', median]]));
+    lines.push('', '## Median family income', '', ...card('Median family income', 'Measure', YEARS, [['Median', median]]));
     tally('Limits_Median_family_income', 1, filled(median));
     for (const [k, title, years] of LEVELS) {
       const rows = SIZES.map((n) => [n, years.map((y) => rec.years.get(y)?.[k]?.[n - 1])]);
-      lines.push('', `#### ${title}`, '', ...card(title, 'Persons', years, rows));
+      lines.push('', `## ${title}`, '', ...card(title, 'Persons', years, rows));
       tally(`Limits_${tableName(title)}`, 8, rows.reduce((s, [, v]) => s + filled(v), 0));
     }
     const old = SIZES.map((n) => [n, OLD30_YEARS.map((y) => old30Of(rec, y)?.[n - 1])]);
     if (old.some(([, v]) => filled(v))) {
-      lines.push('', '#### 30% limit, 1999 to 2014', '', ...plain('Persons', OLD30_YEARS, old));
+      lines.push('', '## 30% limit, 1999 to 2014', '', ...plain('Persons', OLD30_YEARS, old));
       tally('Limits_30_limit_1999_to_2014', 8, old.reduce((s, [, v]) => s + filled(v), 0));
     }
     const runs = areas(rec);
-    lines.push('', '#### Areas', '', '| From | To | MSA | Metro code | Area |', '|---|---|---|---|---|');
+    lines.push('', '## Areas', '', '| From | To | MSA | Metro code | Area |', '|---|---|---|---|---|');
     for (const a of runs) lines.push(`| ${a.from} | ${a.to} | ${a.from < KEYED ? a.code : ''} | ${a.from < KEYED ? '' : a.code} | ${a.name} |`);
     tally('Limits_Areas', runs.length, 0);
     const text = lines.join('\n');
@@ -302,12 +307,22 @@ function build({ byYear, old30 }) {
     if (!byState.has(r.stateFips)) byState.set(r.stateFips, []);
     byState.get(r.stateFips).push(r);
   }
-  const eraByState = new Map();
+  // a county's rows before FY2006 go on its county's page (B7): in New
+  // England the county's own, listing its towns; elsewhere, its record's
+  const erasOf = new Map(); // county5 -> era records
   for (const e of eraRecords.values()) {
-    const s = e.county5.slice(0, 2);
-    if (!eraByState.has(s)) eraByState.set(s, []);
-    eraByState.get(s).push(e);
+    if (!erasOf.has(e.county5)) erasOf.set(e.county5, []);
+    erasOf.get(e.county5).push(e);
   }
+  for (const es of erasOf.values()) es.sort((a, b) => eraName(a).localeCompare(eraName(b)));
+  const erasText = (k) => ['## Counties before 2006', '', (erasOf.get(k) ?? []).map(eraText).join('\n\n')];
+  const PLACES = ['## Places', '', '| Place | FIPS | Level | Towns |', '|---|---|---|---|'];
+  const keys = (level, st, sf, cf, c, t) => [`- Level: ${level}`, `- Postal code: ${st}`, `- State FIPS: ${sf}`, `- County FIPS: ${cf}`, `- Counties: ${c}`, `- Towns: ${t}`, ''];
+  const page = (lines) => lines.join('\n').trimEnd() + '\n';
+  const countyName = (k) => {
+    if (!COUNTIES[k]) throw new Error(`no name for county ${k} in .import/counties.json: run node .import/counties.js`);
+    return COUNTIES[k];
+  };
   const states = [];
   const goneRecs = [];
   for (const [sf, recs] of [...byState].sort()) {
@@ -317,34 +332,72 @@ function build({ byYear, old30 }) {
     const counties = cur.filter((r) => isCounty(r.fips)).length;
     const towns = cur.length - counties;
     counts.current += cur.length; counts.counties += counties; counts.towns += towns;
-    const eras = (eraByState.get(sf) ?? []).sort((a, b) => eraName(a).localeCompare(eraName(b)));
+    const eraKeys = [...erasOf.keys()].filter((k) => k.slice(0, 2) === sf);
     const what = [counties && `${counties} ${counties === 1 ? 'county' : 'counties'}`, towns && `${towns} ${towns === 1 ? 'town' : 'towns'}`].filter(Boolean).join(' and ');
-    const text = [
-      `# Income Limits: ${stateName}`, '',
-      `- Postal code: ${alpha}`,
-      `- State FIPS: ${sf}`,
-      `- Counties: ${counties}`,
-      `- Towns: ${towns}`, '',
-      `HUD's Section 8 income limits for ${stateName}, fiscal years ${YEARS[0]} to ${LATEST}: ${what}, as HUD lists them in FY${LATEST}.`
-        + (eras.length && NEW_ENGLAND.has(sf) ? ` Before FY2006 HUD keyed New England's limits by county, not town: those rows are kept below, under Counties before 2006, and each town names its own as \`County before 2006\`.` : '')
-        + (eras.length && !NEW_ENGLAND.has(sf) ? ` Before FY2006 a county split between two areas in a year has its parts kept below, under Counties before 2006, and its own year empty.` : ''), '',
-      '## Places', '',
-      ...cur.map((r) => recordText(r) + '\n'),
-      ...(eras.length ? ['## Counties before 2006', '', ...eras.map((e) => eraText(e) + '\n')] : []),
-    ].join('\n');
-    pages[`${stateName}.md`] = text.trimEnd() + '\n';
+    let said = `HUD's Section 8 income limits for ${stateName}, fiscal years ${YEARS[0]} to ${LATEST}: ${what}, as HUD lists them in FY${LATEST}.`
+      + (eraKeys.length && NEW_ENGLAND.has(sf) ? ` Before FY2006 HUD keyed New England's limits by county, not town: those rows are kept on each county's page, under Counties before 2006, and each town names its own as \`County before 2006\`.` : '')
+      + (eraKeys.length && !NEW_ENGLAND.has(sf) ? ` Before FY2006 a county split between two areas in a year has its parts kept on its own page, under Counties before 2006, and its own year empty.` : '');
+    const listed = []; // [code, row]
+    let nCounties = counties;
+    if (NEW_ENGLAND.has(sf)) {
+      said += " Each county's page lists its towns.";
+      const byCounty = new Map();
+      for (const r of cur) { const k = r.fips.slice(0, 5); if (!byCounty.has(k)) byCounty.set(k, []); byCounty.get(k).push(r); }
+      for (const k of eraKeys) if (!byCounty.has(k)) byCounty.set(k, []);
+      nCounties = [...byCounty.values()].filter((c) => c.length).length;
+      for (const [k, crecs] of [...byCounty].sort()) {
+        const cname = countyName(k);
+        const folder = safe(cname);
+        const era = erasOf.has(k);
+        if (!crecs.length) {
+          // a county no more (Connecticut's, before its planning regions): its rows before FY2006
+          pages[`${stateName}/${folder}.md`] = page([`# Income Limits: ${cname}, ${alpha}`, '', ...keys('County', alpha, sf, k, '', 0),
+            `HUD's Section 8 income limits for ${cname}, ${stateName}, as HUD keyed them before FY${KEYED}, by county; its towns are now listed under their planning regions, each naming its county's row as \`County before 2006\`.`, '',
+            ...erasText(k)]);
+          listed.push([k, `| [${cname}, ${alpha}](${link(`${stateName}/${folder}.md`)}) | ${k} | County before 2006 |  |`]);
+          continue;
+        }
+        const names = unique(crecs.map((r) => [stem(displayName(r)), r.fips]));
+        const rows = crecs.map((r, i) => {
+          pages[`${stateName}/${folder}/${names[i]}.md`] = page([recordText(r)]);
+          return `| [${displayName(r)}](${link(`${folder}/${names[i]}.md`)}) | ${r.fips} | Town |  |`;
+        });
+        pages[`${stateName}/${folder}.md`] = page([`# Income Limits: ${cname}, ${alpha}`, '', ...keys('County', alpha, sf, k, '', crecs.length),
+          `HUD's Section 8 income limits for the towns of ${cname}, ${stateName}, fiscal years ${YEARS[0]} to ${LATEST}, a page a town.`
+            + (era ? ` Before FY${KEYED} HUD keyed New England's limits by county: the county's own rows are below, under Counties before 2006.` : ''), '',
+          ...PLACES, ...rows, ...(era ? ['', ...erasText(k)] : [])]);
+        listed.push([k, `| [${cname}, ${alpha}](${link(`${stateName}/${folder}.md`)}) | ${k} | County | ${crecs.length} |`]);
+      }
+    } else {
+      const names = unique(cur.map((r) => [stem(displayName(r)), r.fips]));
+      cur.forEach((r, i) => {
+        const k = r.fips.slice(0, 5);
+        const era = isCounty(r.fips) && erasOf.has(k);
+        pages[`${stateName}/${names[i]}.md`] = page([recordText(r), ...(era ? ['', ...erasText(k)] : [])]);
+        listed.push([r.fips, `| [${displayName(r)}](${link(`${stateName}/${names[i]}.md`)}) | ${r.fips} | ${isCounty(r.fips) ? 'County' : 'Town'} |  |`]);
+      });
+      for (const k of eraKeys) if (!cur.some((r) => r.fips === `${k}99999`)) throw new Error(`county ${k}'s rows before 2006 have no page to go on`);
+    }
+    pages[`${stateName}.md`] = page([`# Income Limits: ${stateName}`, '', ...keys('State', alpha, sf, '', nCounties, towns), said, '',
+      ...PLACES, ...listed.sort((a, b) => a[0].localeCompare(b[0])).map(([, l]) => l)]);
     states.push([stateName, counties, towns]);
   }
   goneRecs.sort((a, b) => a.fips.localeCompare(b.fips));
-  pages['Gone.md'] = [
+  const goneNames = unique(goneRecs.map((r) => [displayName(r), r.fips]));
+  pages['Gone.md'] = page([
     '# Places HUD no longer lists', '',
-    `${goneRecs.length} places HUD listed in some years and no longer does: a county split or merged, a town deorganized, a county listed a second time inside another area. Each is kept under its last FIPS, with its last year (\`- Last year:\`), so a count of the years it was listed still finds it.`, '',
-    ...goneRecs.map((r) => recordText(r) + '\n'),
-  ].join('\n').trimEnd() + '\n';
+    `${goneRecs.length} places HUD listed in some years and no longer does: a county split or merged, a town deorganized, a county listed a second time inside another area. Each is kept under its last FIPS, with its last year (\`- Last year:\`), so a count of the years it was listed still finds it. A page each:`, '',
+    ...goneRecs.map((r, i) => {
+      pages[`Gone/${goneNames[i]}.md`] = page([recordText(r)]);
+      return `- [${displayName(r)}](${link(`Gone/${goneNames[i]}.md`)}): FIPS ${r.fips}, last listed FY${Math.max(...r.years.keys())}`;
+    }),
+  ]);
   counts.gone = goneRecs.length;
+  for (const es of erasOf.values()) for (const e of es) if (!texts.has(eraName(e))) throw new Error(`${eraName(e)} on no page`);
 
   const changes = foundChanges({ records: all, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, placeName: displayName });
-  pages['Changes.md'] = changesPage(changes);
+  Object.assign(pages, changesPages(changes));
+  counts.pages = Object.keys(pages).length + 1; // and README.md
   counts.changes = changes.map((c) => [c.year, c.title]);
   // every limit in HUD's files, to be found once in what is written
   const vals = (rows, f) => rows.reduce((s, r) => s + filled(f(r) ?? []), 0);
@@ -451,30 +504,52 @@ function foundChanges({ records, eraRecords, ledger, rowsOf, old30By, unmatched,
   return out.sort((a, b) => a.year - b.year);
 }
 
-function changesPage(changes) {
-  const lines = ['# Changes in the Income Limits', '',
-    "Where HUD's files change a definition or a key during their years: the latest form is kept in the cards, the older only in tables or records of their own, and nothing runs across a change.", ''];
+function changesPages(changes) {
+  const pages = {};
+  const listed = [];
   for (const c of changes) {
-    lines.push(`### Change: ${c.title}, ${c.year}`, '',
+    const fn = safe(`${c.title}, ${c.year}`);
+    const lines = [`# Change: ${c.title}, ${c.year}`, '',
       '- Dataset: Income Limits',
       `- Boundary: ${c.year}`,
       `- Was: ${c.was}`,
       `- Now: ${c.now}`,
       `- Crosswalk: ${c.cross}`,
       `- Places: ${c.places}`,
-      `- Source: ${c.source}`, '');
+      `- Source: ${c.source}`, ''];
     if (c.table) {
-      lines.push('#### Places', '', '| Place | Was | Now | What |', '|---|---|---|---|');
+      lines.push('## Places', '', '| Place | Was | Now | What |', '|---|---|---|---|');
       for (const [p, was, now, what] of c.table) lines.push(`| ${p} | ${was} | ${now} | ${what} |`);
-      lines.push('');
     }
+    pages[`Changes/${fn}.md`] = lines.join('\n').trimEnd() + '\n';
+    listed.push(`- [${c.title}, ${c.year}](${link(`Changes/${fn}.md`)})`);
   }
-  return lines.join('\n').trimEnd() + '\n';
+  pages['Changes.md'] = ['# Changes in the Income Limits', '',
+    "Where HUD's files change a definition or a key during their years: the latest form is kept in the cards, the older only in tables or records of their own, and nothing runs across a change. A change a page:", '',
+    ...listed].join('\n') + '\n';
+  return pages;
 }
 
 // --- small things ------------------------------------------------------------
 
 const cell = (v) => (v == null ? '' : String(v));
+
+// B7: a page's name, made safe for a file (a slash a dash, the characters no
+// file system takes dropped, spaces single, no leading dot); a link to it,
+// every character but letters, digits and -_.~, as %XX; names a folder's
+// pages would share, whatever their case, each given its FIPS. As the
+// rents' importer does.
+const safe = (name) => name.normalize('NFC').replace(/[/\\]/g, '-').replace(/[:*?"<>|\x00-\x1f]/g, '').split(/\s+/).filter(Boolean).join(' ').replace(/^[. ]+/, '');
+// (the comma left as it is: proper reads %2C in a link as itself)
+const enc = (s) => encodeURIComponent(s).replace(/[!'()*]/g, (c) => '%' + c.charCodeAt(0).toString(16).toUpperCase()).replace(/%2C/g, ',');
+const link = (p) => './' + p.split('/').map(enc).join('/');
+function unique(named) {
+  const n = new Map();
+  for (const [name] of named) { const k = safe(name).toLowerCase(); n.set(k, (n.get(k) ?? 0) + 1); }
+  return named.map(([name, fips]) => safe(name) + (n.get(safe(name).toLowerCase()) > 1 ? ` (${fips})` : ''));
+}
+// a place's page name: its record's name, less the state's code
+const stem = (name) => name.replace(/, [A-Z]{2}$/, '');
 const titleCase = (s) => (s === s.toUpperCase() ? s.toLowerCase().replace(/\b[a-z]/g, (c) => c.toUpperCase()) : s);
 // the table proper gathers a heading's card or table as
 const tableName = (title) => title.replace(/[^A-Za-z0-9]+/g, '_').replace(/^_|_$/g, '');
@@ -542,9 +617,19 @@ function main() {
   pages['README.md'] = require('./readme').text({ YEARS, LATEST, counts, ledger, states, changes });
 
   fs.mkdirSync(OUT, { recursive: true });
-  // clear what an earlier run wrote, so a page no longer written goes
-  for (const f of fs.readdirSync(OUT)) if (f.endsWith('.md')) fs.rmSync(path.join(OUT, f));
-  for (const [f, text] of Object.entries(pages)) fs.writeFileSync(path.join(OUT, f), text);
+  // clear what an earlier run wrote, so a page no longer written goes, and
+  // the folders left empty
+  const clear = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const p = path.join(dir, e.name);
+      if (e.isDirectory()) { clear(p); if (!fs.readdirSync(p).length) fs.rmdirSync(p); } else if (e.name.endsWith('.md')) fs.rmSync(p);
+    }
+  };
+  clear(OUT);
+  for (const [f, text] of Object.entries(pages)) {
+    fs.mkdirSync(path.dirname(path.join(OUT, f)), { recursive: true });
+    fs.writeFileSync(path.join(OUT, f), text);
+  }
 
   console.log(`Wrote ${Object.keys(pages).length} pages: ${counts.records} records (${counts.current} listed in FY${LATEST}, ${counts.gone} gone), ${counts.era} county rows before 2006, ${changes.length} changes.`);
   console.log('year  rows  exact byName county   era orphan twice  records-with-year');
@@ -554,5 +639,5 @@ function main() {
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify({ ...counts, ledger }, null, 1) + '\n');
 }
 
-module.exports = { build, YEARS, LATEST };
+module.exports = { build, YEARS, LATEST, safe, link, unique };
 if (require.main === module) main();

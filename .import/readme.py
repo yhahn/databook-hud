@@ -25,7 +25,10 @@ def main():
          'town, year by year: what a modest home costs to rent (the Fair Market Rents) '
          'and the incomes under which a household may have help (the Income Limits). '
          'Data only, printable as a book and queryable as tables: a folder a dataset, '
-         'a file a state, a record a place, and proper gathers them into DuckDB. Both '
+         'and in it a page a place, as a reader finds it: a state\'s page listing its '
+         'places (`rents/Alabama.md`), a folder of them beside it (`rents/Alabama/Autauga '
+         'County.md`), and in New England a county\'s page and folder between '
+         '(`rents/Maine/Penobscot County/Bangor city.md`); proper gathers them into DuckDB. Both '
          'are keyed by the same ten-digit FIPS, so a place\'s rent and its limits join.', '',
          '## The datasets', '',
          f"- [Fair Market Rents](./rents/README.md), FY1983 to FY2027: {rents['records']} places "

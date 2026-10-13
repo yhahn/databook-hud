@@ -2,11 +2,13 @@
 
 Reads HUD's FMR history (FMR_All_1983_2027.csv, latin-1, a row a county
 or New England town), checks its shape (shape.json), and writes every page
-of rents/: a file a state, a record a place (`### Rents:`), its rents a
+of rents/: a page a place (`# Rents:`), in its state's folder (in New
+England, its county's), each state and New England county a page listing
+its places (SPEC B7); its rents a
 card from FY1995 as HUD set them (at the 40th percentile, or the 50th
 where HUD set it, SPEC D8), the older 45th-percentile years a table of
 their own, its areas a table of runs, the percentile marked in each;
-Changes.md, the changes in HUD's file; README.md. Nothing it writes is
+the changes in HUD's file, a page each, Changes.md listing them; README.md. Nothing it writes is
 edited by hand: run it again.
 
     python3 -I .import/rents/import.py [source.csv]
@@ -17,8 +19,11 @@ Decisions: .import/rents/DECISIONS.md. Tests: test_import.py, vectors/.
 import csv
 import json
 import os
+import re
 import sys
+import unicodedata
 from collections import Counter
+from urllib.parse import quote
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(os.path.dirname(HERE))
@@ -62,6 +67,13 @@ STATES = {
     '72': ('Puerto Rico', 'PR'), '78': ('U.S. Virgin Islands', 'VI'),
 }
 REGIONS = {'1': 'Northeast', '2': 'Midwest', '3': 'South', '4': 'West'}
+
+# New England, where HUD keys towns, not counties: a state's folder holds
+# a folder a county (Connecticut's, a planning region), named as HUD's
+# income limits name it (.import/counties.json, from .import/counties.js)
+NEW_ENGLAND = {'09', '23', '25', '33', '44', '50'}
+with open(os.path.join(os.path.dirname(HERE), 'counties.json'), encoding='utf-8') as _f:
+    COUNTIES = json.load(_f)
 
 
 # --- V1: the source's shape, checked before anything is written -------------
@@ -233,7 +245,7 @@ UNIT = 'dollars a month, gross rent (rent and utilities)'
 def record(row, dupes, state_region):
     st_name, _ = STATES[row['state']]
     f24, before = fips_before(row)
-    lines = [f'### Rents: {name_of(row, dupes)}', '',
+    lines = [f'# Rents: {name_of(row, dupes)}', '',
              f"- FIPS: {row['fips2027']}",
              f'- FIPS 2024: {f24}',
              f'- FIPS before: {before}',
@@ -243,14 +255,14 @@ def record(row, dupes, state_region):
              f'- State: {st_name}',
              f'- Census region: {region(row, state_region)}',
              f'- Area changes: {changes(row)}',
-             '', '#### Fair Market Rents', '']
+             '', '## Fair Market Rents', '']
     lines += table('Bedrooms', [(str(b), [rent(row, y, b, AS_SET) for y in P40]) for b in BEDROOMS],
                    P40, card='Fair Market Rents, as HUD set them', unit=UNIT)
     old = [(str(b), [rent(row, y, b, ('45',)) for y in P45]) for b in BEDROOMS]
     if any(v for _, vals in old for v in vals):
-        lines += ['', '#### 45th percentile, 1983 to 1994', '']
+        lines += ['', '## 45th percentile, 1983 to 1994', '']
         lines += table('Bedrooms', old, P45)
-    lines += ['', '#### Areas', '',
+    lines += ['', '## Areas', '',
               # HUD's old MSA numbers (to FY2005) and its metro codes (FY2006
               # on) are two columns: the one a number, the other text
               '| From | To | MSA | Metro code | Area | Percentile |',
@@ -262,30 +274,96 @@ def record(row, dupes, state_region):
     return lines
 
 
-def state_page(code, rows, dupes, state_region):
+# --- the pages, a place each (SPEC B7) ------------------------------------
+
+def safe(name):
+    """A page's name, made safe for a file: a slash a dash, the characters
+    no file system takes dropped, spaces single, no leading dot."""
+    s = unicodedata.normalize('NFC', name)
+    s = re.sub(r'[/\\]', '-', s)
+    s = re.sub(r'[:*?"<>|\x00-\x1f]', '', s)
+    return ' '.join(s.split()).lstrip('. ')
+
+
+def link(path):
+    """A link to a page, from the folder it is listed in: every character
+    but letters, digits and -_.~, written as %XX (UTF-8). The comma is
+    left as it is: proper reads %2C in a link as itself, not a comma."""
+    return './' + '/'.join(quote(p, safe=',') for p in path.split('/'))
+
+
+def unique(named):
+    """Names for the pages of one folder, from (name, FIPS): a name two
+    pages would share, whatever its case, is given each one's FIPS."""
+    n = Counter(safe(name).casefold() for name, _ in named)
+    return [safe(name) + (f' ({fips})' if n[safe(name).casefold()] > 1 else '') for name, fips in named]
+
+
+def stem(name):
+    """A place's page name: its record's name, less the state's code."""
+    return re.sub(r', [A-Z]{2}$', '', name)
+
+
+PLACES = ['## Places', '', '| Place | FIPS | Level | Towns |', '|---|---|---|---|']
+
+
+def keys(level, st, code, county, counties, towns):
+    return [f'- Level: {level}', f'- Postal code: {st}', f'- State FIPS: {code}',
+            f'- County FIPS: {county}', f'- Counties: {counties}', f'- Towns: {towns}', '']
+
+
+def state_pages(code, rows, dupes, state_region):
+    """A state's pages, {path: text}: its own, listing its places (in New
+    England, its counties), and a page a place; in New England a page a
+    county, listing its towns, and a folder of them."""
     st_name, st = STATES[code]
     counties = sum(r['cousub'] == '99999' for r in rows)
     towns = len(rows) - counties
     moved = sum(changes(r) > 0 for r in rows)
-    lines = [f'# Fair Market Rents: {st_name}', '',
-             f'- Postal code: {st}',
-             f'- State FIPS: {code}',
-             f'- Counties: {counties}',
-             f'- Towns: {towns}', '']
     what = (f'{counties} counties' if counties != 1 else '1 county') + \
         (f' and {towns} towns' if towns else '')
     if not counties:
         what = f'{towns} towns'
-    lines.append(f"HUD's Fair Market Rents for {st_name}, fiscal years 1983 to {LATEST}: {what}, "
-                 'each with its rents by bedroom count and the FMR areas it has sat in. '
-                 + (f'{moved} of them have changed FMR area at least once '
-                    if len(rows) > 1 else
-                    ('It has changed FMR area ' if moved else 'It has never changed FMR area ')) +
-                 '(not counting 2006, when HUD renumbered every area).')
-    lines += ['', '## Places', '']
-    for r in rows:
-        lines += record(r, dupes, state_region)
-    return '\n'.join(lines).rstrip() + '\n'
+    said = (f"HUD's Fair Market Rents for {st_name}, fiscal years 1983 to {LATEST}: {what}, "
+            'each with its rents by bedroom count and the FMR areas it has sat in. '
+            + (f'{moved} of them have changed FMR area at least once '
+               if len(rows) > 1 else
+               ('It has changed FMR area ' if moved else 'It has never changed FMR area ')) +
+            '(not counting 2006, when HUD renumbered every area).')
+    pages, listed = {}, []
+    if code in NEW_ENGLAND:
+        said += " Each county's page lists its towns."
+        by_county = {}
+        for r in rows:
+            by_county.setdefault(r['fips2027'][:5], []).append(r)
+        for cf, crows in sorted(by_county.items()):
+            if cf not in COUNTIES:
+                raise SystemExit(f'no name for county {cf} in .import/counties.json: run node .import/counties.js')
+            county = safe(COUNTIES[cf])
+            names = unique([(stem(name_of(r, dupes)), r['fips2027']) for r in crows])
+            town_rows = []
+            for r, fn in zip(crows, names):
+                pages[f'{st_name}/{county}/{fn}.md'] = '\n'.join(record(r, dupes, state_region)).rstrip() + '\n'
+                town_rows.append(f"| [{name_of(r, dupes)}]({link(f'{county}/{fn}.md')}) | {r['fips2027']} | Town |  |")
+            pages[f'{st_name}/{county}.md'] = '\n'.join([
+                f'# Fair Market Rents: {COUNTIES[cf]}, {st}', '',
+                *keys('County', st, code, cf, '', len(crows)),
+                f"HUD's Fair Market Rents for the towns of {COUNTIES[cf]}, {st_name}, fiscal years 1983 to "
+                f'{LATEST}, a page a town. In New England HUD draws its areas by town, not county, so the '
+                'county has no rents of its own.', '', *PLACES, *town_rows]) + '\n'
+            listed.append(f"| [{COUNTIES[cf]}, {st}]({link(f'{st_name}/{county}.md')}) | {cf} | County | {len(crows)} |")
+        n_counties = len(by_county)
+    else:
+        names = unique([(stem(name_of(r, dupes)), r['fips2027']) for r in rows])
+        for r, fn in zip(rows, names):
+            pages[f'{st_name}/{fn}.md'] = '\n'.join(record(r, dupes, state_region)).rstrip() + '\n'
+            level = 'County' if r['cousub'] == '99999' else 'Town'
+            listed.append(f"| [{name_of(r, dupes)}]({link(f'{st_name}/{fn}.md')}) | {r['fips2027']} | {level} |  |")
+        n_counties = counties
+    pages[f'{st_name}.md'] = '\n'.join([f'# Fair Market Rents: {st_name}', '',
+                                        *keys('State', st, code, '', n_counties, towns),
+                                        said, '', *PLACES, *listed]) + '\n'
+    return pages
 
 
 # --- the changes in HUD's file (D5) ----------------------------------------
@@ -342,27 +420,32 @@ def found_changes(rows):
     ], key=lambda c: c[1])
 
 
-def changes_page(found):
-    lines = ['# Changes in the Fair Market Rents', '',
-             "Where HUD's file changes a definition or a key during its years: the "
-             'latest form is kept in the cards, the older only in tables of their own, '
-             'and nothing runs across a change. A setting HUD made place by place, the '
-             "50th percentile, is the rent's own: in the cards as set, marked beside "
-             'it (SPEC D8).', '']
+def changes_pages(found):
+    """The changes, a page each (SPEC B7), and Changes.md listing them."""
+    pages, listed = {}, []
     for title, year, was, now, cross, source, n, *table in found:
-        lines += [f'### Change: {title}, {year}', '',
-                  '- Dataset: Fair Market Rents',
-                  f'- Boundary: {year}',
-                  f'- Was: {was}',
-                  f'- Now: {now}',
-                  f'- Crosswalk: {cross}',
-                  f'- Places: {n}',
-                  f'- Source: {source}', '']
+        fn = safe(f'{title}, {year}')
+        lines = [f'# Change: {title}, {year}', '',
+                 '- Dataset: Fair Market Rents',
+                 f'- Boundary: {year}',
+                 f'- Was: {was}',
+                 f'- Now: {now}',
+                 f'- Crosswalk: {cross}',
+                 f'- Places: {n}',
+                 f'- Source: {source}', '']
         if table:
-            lines += ['#### Places', '', '| Place | Was | Now | What |', '|---|---|---|---|']
+            lines += ['## Places', '', '| Place | Was | Now | What |', '|---|---|---|---|']
             lines += [f'| {p} | {was_} | {now_} | {what} |' for p, was_, now_, what in table[0]]
-            lines.append('')
-    return '\n'.join(lines).rstrip() + '\n'
+        pages[f'Changes/{fn}.md'] = '\n'.join(lines).rstrip() + '\n'
+        listed.append(f"- [{title}, {year}]({link(f'Changes/{fn}.md')})")
+    pages['Changes.md'] = '\n'.join([
+        '# Changes in the Fair Market Rents', '',
+        "Where HUD's file changes a definition or a key during its years: the "
+        'latest form is kept in the cards, the older only in tables of their own, '
+        'and nothing runs across a change. A setting HUD made place by place, the '
+        "50th percentile, is the rent's own: in the cards as set, marked beside "
+        'it (SPEC D8). A change a page:', '', *listed]) + '\n'
+    return pages
 
 
 # --- README -----------------------------------------------------------------
@@ -384,7 +467,15 @@ def readme(by_state, total, counties, towns, found):
          'have the same rents. In New England HUD draws its areas by town, not '
          'county, so there each town is a place of its own.', '',
          '## How it is written', '',
-         'Each place is a record, `### Rents: <name>, <ST>` (towns too, with '
+         'A page a place, as a reader finds it: `Alabama/Autauga County.md`; in '
+         "New England, where HUD's places are towns, `Maine/Penobscot County/Bangor "
+         "city.md` (Connecticut's under its planning regions). A state's page "
+         '(`Alabama.md`) lists its places, or in New England its counties, and a '
+         "New England county's page its towns, linked, in a table gathered as "
+         '`"Fair Market Rents_Places"`. A page is named for its place, a slash a '
+         'dash; a name two pages of one folder would share takes its FIPS. The '
+         'changes are a page each, in `Changes/`, listed in [Changes](./Changes.md).', '',
+         'Each place is a record, `# Rents: <name>, <ST>` (towns too, with '
          '`- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes '
          '(state, county, county subdivision; `99999` for a whole county). Its '
          'card, **Fair Market Rents**, holds its rents as HUD set them from '
@@ -475,9 +566,9 @@ def build(rows):
     pages = {}
     for code, srows in by_state.items():
         srows.sort(key=lambda r: r['fips2027'])
-        pages[STATES[code][0] + '.md'] = state_page(code, srows, dupes, state_region)
+        pages.update(state_pages(code, srows, dupes, state_region))
     found = found_changes(rows)
-    pages['Changes.md'] = changes_page(found)
+    pages.update(changes_pages(found))
     counties = sum(r['cousub'] == '99999' for r in rows)
     pages['README.md'] = readme(by_state, len(rows), counties, len(rows) - counties, found)
 
@@ -491,7 +582,7 @@ def build(rows):
                 for v in [cell(r.get(f'fmr{YY[y]}_{b}'))] if v]
     counts = {
         'records': len(rows), 'counties': counties, 'towns': len(rows) - counties,
-        'pages': len(by_state), 'changes': [[c[1], c[0]] for c in found],
+        'states': len(by_state), 'pages': len(pages), 'changes': [[c[1], c[0]] for c in found],
         'tables': {
             'Rents_Fair_Market_Rents': {'rows': 5 * len(rows), **cells(P40, AS_SET),
                                         'at_50th': cells(P50, ('50',))},
@@ -522,17 +613,22 @@ def main():
     if written != counts['source']['cells']:
         sys.exit(f"would write {written} rent cells, but the source has {counts['source']['cells']}")
     os.makedirs(OUT, exist_ok=True)
-    # the pages a run writes: the old ones go first, so a gone state goes
-    for fn in os.listdir(OUT):
-        if fn.endswith('.md'):
-            os.remove(os.path.join(OUT, fn))
+    # the pages a run writes: the old ones go first, so a gone page goes,
+    # and the folders left empty
+    for d, _, files in os.walk(OUT, topdown=False):
+        for fn in files:
+            if fn.endswith('.md'):
+                os.remove(os.path.join(d, fn))
+        if d != OUT and not os.listdir(d):
+            os.rmdir(d)
     for fn, text in pages.items():
+        os.makedirs(os.path.dirname(os.path.join(OUT, fn)), exist_ok=True)
         with open(os.path.join(OUT, fn), 'w', encoding='utf-8') as f:
             f.write(text)
     with open(os.path.join(HERE, 'counts.json'), 'w', encoding='utf-8') as f:
         json.dump(counts, f, indent=1)
         f.write('\n')
-    print(f"{len(rows)} rows read; {counts['records']} records in {counts['pages']} state pages, "
+    print(f"{len(rows)} rows read; {counts['records']} records on {counts['pages']} pages ({counts['states']} states), "
           f"{len(counts['changes'])} changes; the source's {counts['source']['cells']:,} rents written as "
           + ' + '.join(f"{t[k]['cells']:,} ({k})" for k in t if 'cells' in t[k]))
 

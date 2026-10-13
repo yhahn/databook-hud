@@ -29,6 +29,7 @@ Each: what, why, how to undo it.
 
 ## Shape
 
+- (Since B7, 10-13: a page a place, `.import/DECISIONS.md` 14-21.)
 - **A file a state**, `rents/<State name>.md` (`District of Columbia.md`,
   `Puerto Rico.md`, the territories too), headed `# Fair Market Rents:
   <State>`, a record a county or town: `### Rents: <name>, <ST>` (was

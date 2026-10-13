@@ -36,7 +36,7 @@ too.
 peak (1,481,028 kB), 119% CPU.
 
 **Decisions** (DECISIONS.md): the rents' key and shape; CT's planning
-regions from FY2023 (the rents: FY2026); places followed through code
+regions from FY2025 (the rents: FY2026; this note first said FY2023, wrongly: FY2024's file still has the county codes); places followed through code
 changes by code, a rename table, name, and name less its kind; places
 HUD dropped kept as records with `- Last year:`; the history to FY1998
 by county, New England's 33 split counties left empty before 2006; the
@@ -57,7 +57,7 @@ columns (MSA, Metro code).
   name, took the county's own year until rows with their own code
   went first; Census renames change code and name together; CT's
   re-keying year differs between the rents (FY2026) and the limits
-  (FY2023).
+  (FY2025).
 - For the seat: two deputies on one session share one scratchpad. The
   rents deputy and I both made `t1/` there; I wrote one file into its
   folder before seeing it, and removed it. A deputy's brief could name

@@ -135,8 +135,21 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
     link as itself and the link leads nowhere. Undo: `safe()`, `link()`,
     `unique()` in both importers (kept alike; a test each).
 21. **Gone and the changes, a page each**: `limits/Gone/<name>, <ST>.md`
-    (18), `Gone.md` a list of links; `rents/Changes/<title>, <year>.md` (7)
+    (16; 18 until Rockland and Westchester's second listings were made
+    their counties', 22), `Gone.md` a list of links; `rents/Changes/<title>, <year>.md` (7)
     and `limits/Changes/…` (17), `Changes.md` a list. The lists are not
     written `- 1995: [...]`: proper reads key-like rows under a title as a
     near-record. Rents' 7 changes would fit one page; split for the same
     shape in both. Undo: `changes_pages()`, `changesPages()`.
+
+## Gone mended, 10-13, branch `lihtc`
+
+22. **Gone holds 16, not 18.** Rockland and Westchester, NY's `…99998`
+    rows (FY2006-2020, beside each county's own `…99999` row the same
+    years) are second listings, not dropped places: the bench found it
+    (hud-analysis-3). They are kept with their county, a record of kind
+    `Second listing` on the county's page, never a place and never gone;
+    limits decision 4a has the whole. Checks first (target.sql: the kind
+    and its keys, 2 records each on its county's page, Gone 16, the
+    year-rows check counting them), then vector `rockland-ny.json`, then
+    the importer. Undo: as 4a.

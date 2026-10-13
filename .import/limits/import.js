@@ -61,7 +61,7 @@ const RENAMED = {
 
 function build({ byYear, old30 }) {
   const rowsOf = (y) => byYear.get(y) ?? [];
-  const ledger = YEARS.map((y) => ({ year: y, rows: rowsOf(y).length, exact: 0, byName: 0, county: 0, era: 0, orphan: 0, twice: 0 }));
+  const ledger = YEARS.map((y) => ({ year: y, rows: rowsOf(y).length, exact: 0, byName: 0, county: 0, era: 0, orphan: 0, second: 0, twice: 0 }));
   const L = (y) => ledger.find((l) => l.year === y);
 
   const records = new Map(); // fips -> record
@@ -70,6 +70,7 @@ function build({ byYear, old30 }) {
     years: new Map(), // year -> row
     county2006: null, // the state and county it lay in when keyed first (FY2006 or after)
     gone: false,
+    second: null, // a second listing (…99998): the FIPS of the county it lists again
     codes: new Map(), // year -> the FIPS its row had that year
     era: null, // New England: the county row it lay in before FY2006 (the crosswalk)
   });
@@ -98,7 +99,14 @@ function build({ byYear, old30 }) {
     const rows = rowsOf(y);
     for (const r of [...rows.filter((r) => records.has(r.fips)), ...rows.filter((r) => !records.has(r.fips))]) {
       let rec = records.get(r.fips);
-      if (rec) { if (!rec.years.has(y)) l.exact++; } else {
+      const own = r.fips.endsWith('99998') && records.get(`${r.fips.slice(0, 5)}99999`);
+      if (rec) { if (!rec.years.has(y)) (rec.second ? l.second++ : l.exact++); } else if (own) {
+        // a county listed a second time, inside another area (Rockland and
+        // Westchester, NY, FY2006-2020): its county's, not a place (D7)
+        rec = Object.assign(newRecord(r, r.fips), { second: own.fips });
+        records.set(r.fips, rec);
+        l.second++;
+      } else {
         rec = records.get(RENAMED[r.fips]) ?? nameIndex.get(`${r.stateFips}|${norm(r.name)}`) ?? baseIndex.get(`${r.fips.slice(0, 5)}|${base(r.name)}`);
         if (rec && !rec.years.has(y)) l.byName++;
         else {
@@ -203,7 +211,8 @@ function build({ byYear, old30 }) {
 
   // --- writing --------------------------------------------------------------
 
-  const all = [...records.values()].filter((r) => r.years.size > 0);
+  const all = [...records.values()].filter((r) => r.years.size > 0 && !r.second);
+  const seconds = [...records.values()].filter((r) => r.second).sort((a, b) => a.fips.localeCompare(b.fips));
   const clashKeys = new Map();
   for (const r of all) { const k = `${r.stateFips}|${norm(r.name)}`; clashKeys.set(k, (clashKeys.get(k) ?? 0) + 1); }
   const clashes = new Set([...clashKeys].filter(([, n]) => n > 1).map(([k]) => k));
@@ -221,7 +230,7 @@ function build({ byYear, old30 }) {
   const texts = new Map(); // a record's name -> its markdown, for the tests
   const pages = {};
   const counts = {
-    records: 0, current: 0, gone: 0, counties: 0, towns: 0, era: eraRecords.size, eraTowns: 0,
+    records: 0, current: 0, gone: 0, second: seconds.length, counties: 0, towns: 0, era: eraRecords.size, eraTowns: 0,
     unmatched: unmatched.length,
     tables: {},
     cells: Object.fromEntries(YEARS.map((y) => [y, 0])),
@@ -302,6 +311,43 @@ function build({ byYear, old30 }) {
     return lines.join('\n');
   }
 
+  // a county listed a second time inside another area: on its county's page,
+  // after its record, with the limits of the area it was listed in (D7)
+  const SECOND_YEARS = YEARS.filter((y) => y >= KEYED);
+  const secondName = (s) => `${titleCase(s.name)}, ${stateOf(s.fips)[0]} (${s.fips})`;
+  function secondText(s) {
+    const ys = [...s.years.keys()];
+    const last = s.years.get(Math.max(...ys));
+    const name = secondName(s);
+    const lines = [
+      `### Second listing: ${name}`, '',
+      `- FIPS: ${s.fips}`,
+      `- Listing of: ${s.second}`,
+      `- State: ${stateOf(s.fips)[1]}`,
+      `- Area: ${last.areaName ?? ''}`,
+      `- Metro code: ${last.areaCode}`,
+      `- First year: ${Math.min(...ys)}`,
+      `- Last year: ${Math.max(...ys)}`,
+    ];
+    const median = SECOND_YEARS.map((y) => s.years.get(y)?.median);
+    lines.push('', '#### Median family income', '', ...plain('Measure', SECOND_YEARS, [['Median', median]]));
+    tally('Second listing_Median_family_income', 1, filled(median));
+    const sets = [...LEVELS.map(([k, title, years]) => [k, title, years.filter((y) => y >= KEYED)]), ['old30', '30% limit, 2006 to 2014', OLD30_YEARS.filter((y) => y >= KEYED)]];
+    for (const [k, title, years] of sets) {
+      const rows = SIZES.map((n) => [n, years.map((y) => (k === 'old30' ? old30Of(s, y) : s.years.get(y)?.[k])?.[n - 1])]);
+      lines.push('', `#### ${title}`, '', ...plain('Persons', years, rows));
+      tally(`Second listing_${tableName(title)}`, 8, rows.reduce((t, [, v]) => t + filled(v), 0));
+    }
+    const runs = areas(s);
+    lines.push('', '#### Areas', '', '| From | To | Metro code | Area |', '|---|---|---|---|');
+    for (const a of runs) lines.push(`| ${a.from} | ${a.to} | ${a.code} | ${a.name} |`);
+    tally('Second listing_Areas', runs.length, 0);
+    texts.set(name, lines.join('\n'));
+    return lines.join('\n');
+  }
+  const secondsOf = (fips) => seconds.filter((s) => s.second === fips);
+  const secondsText = (fips) => (secondsOf(fips).length ? ['', '## Second listings', '', secondsOf(fips).map(secondText).join('\n\n')] : []);
+
   const byState = new Map();
   for (const r of all) {
     if (!byState.has(r.stateFips)) byState.set(r.stateFips, []);
@@ -373,7 +419,7 @@ function build({ byYear, old30 }) {
       cur.forEach((r, i) => {
         const k = r.fips.slice(0, 5);
         const era = isCounty(r.fips) && erasOf.has(k);
-        pages[`${stateName}/${names[i]}.md`] = page([recordText(r), ...(era ? ['', ...erasText(k)] : [])]);
+        pages[`${stateName}/${names[i]}.md`] = page([recordText(r), ...secondsText(r.fips), ...(era ? ['', ...erasText(k)] : [])]);
         listed.push([r.fips, `| [${displayName(r)}](${link(`${stateName}/${names[i]}.md`)}) | ${r.fips} | ${isCounty(r.fips) ? 'County' : 'Town'} |  |`]);
       });
       for (const k of eraKeys) if (!cur.some((r) => r.fips === `${k}99999`)) throw new Error(`county ${k}'s rows before 2006 have no page to go on`);
@@ -386,7 +432,7 @@ function build({ byYear, old30 }) {
   const goneNames = unique(goneRecs.map((r) => [displayName(r), r.fips]));
   pages['Gone.md'] = page([
     '# Places HUD no longer lists', '',
-    `${goneRecs.length} places HUD listed in some years and no longer does: a county split or merged, a town deorganized, a county listed a second time inside another area. Each is kept under its last FIPS, with its last year (\`- Last year:\`), so a count of the years it was listed still finds it. A page each:`, '',
+    `${goneRecs.length} places HUD listed in some years and no longer does: a county split or merged, a town deorganized. Each is kept under its last FIPS, with its last year (\`- Last year:\`), so a count of the years it was listed still finds it. A page each:`, '',
     ...goneRecs.map((r, i) => {
       pages[`Gone/${goneNames[i]}.md`] = page([recordText(r)]);
       return `- [${displayName(r)}](${link(`Gone/${goneNames[i]}.md`)}): FIPS ${r.fips}, last listed FY${Math.max(...r.years.keys())}`;
@@ -394,8 +440,9 @@ function build({ byYear, old30 }) {
   ]);
   counts.gone = goneRecs.length;
   for (const es of erasOf.values()) for (const e of es) if (!texts.has(eraName(e))) throw new Error(`${eraName(e)} on no page`);
+  for (const s of seconds) if (!texts.has(secondName(s))) throw new Error(`${secondName(s)}: its county is on no page`);
 
-  const changes = foundChanges({ records: all, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, placeName: displayName });
+  const changes = foundChanges({ records: all, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, seconds, placeName: displayName, secondName });
   Object.assign(pages, changesPages(changes));
   counts.pages = Object.keys(pages).length + 1; // and README.md
   counts.changes = changes.map((c) => [c.year, c.title]);
@@ -415,7 +462,7 @@ function build({ byYear, old30 }) {
 
 // --- the changes in HUD's files (D5) ----------------------------------------
 
-function foundChanges({ records, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, placeName }) {
+function foundChanges({ records, eraRecords, ledger, rowsOf, old30By, unmatched, goneRecs, seconds = [], placeName, secondName }) {
   const out = [];
   const firstWith = (test) => YEARS.find((y) => rowsOf(y).some(test));
   const eli = rowsOf(ELI).filter((r) => { const o = old30By.get(`${ELI}|${r.fips}`); return o && String(o) !== String(r.l30); }).length;
@@ -483,6 +530,10 @@ function foundChanges({ records, eraRecords, ledger, rowsOf, old30By, unmatched,
     const last = Math.max(...rec.years.keys());
     if (last >= KEYED) add(YEARS[YEARS.indexOf(last) + 1], [placeName(rec), rec.fips, '', 'no longer listed']);
   }
+  for (const s of seconds) {
+    const last = Math.max(...s.years.keys());
+    if (last < LATEST) add(YEARS[YEARS.indexOf(last) + 1], [secondName(s), s.fips, '', 'second listing ended']);
+  }
   for (const rec of records) {
     if (rec.gone) continue;
     const first = Math.min(...[...rec.years.keys()].filter((y) => y >= KEYED));
@@ -490,12 +541,12 @@ function foundChanges({ records, eraRecords, ledger, rowsOf, old30By, unmatched,
   }
   for (const [y, rows] of [...listed].sort((a, b) => a[0] - b[0])) {
     const n = (w) => rows.filter((r) => r[3] === w).length;
-    const parts = [n('new code') && `${n('new code')} under a new code`, n('first listed') && `${n('first listed')} first listed`, n('no longer listed') && `${n('no longer listed')} no longer listed`].filter(Boolean);
+    const parts = [n('new code') && `${n('new code')} under a new code`, n('first listed') && `${n('first listed')} first listed`, n('no longer listed') && `${n('no longer listed')} no longer listed`, n('second listing ended') && `${n('second listing ended')} second listings ended`].filter(Boolean);
     out.push({
       title: 'Places recoded, listed or dropped', year: y,
       was: `the places as HUD listed them in FY${YEARS[YEARS.indexOf(y) - 1]}`,
       now: `${parts.join(', ')} in FY${y}`,
-      cross: 'A place under a new code is followed by code, a table of renames, or name (never a guess); its old code is `- FIPS before:`. A place no longer listed is on the Gone page, with `- Last year:`.',
+      cross: 'A place under a new code is followed by code, a table of renames, or name (never a guess); its old code is `- FIPS before:`. A place no longer listed is on the Gone page, with `- Last year:`; a second listing of a county, inside another area, is on the county\'s page.',
       places: rows.length,
       source: `HUD's FY${YEARS[YEARS.indexOf(y) - 1]} and FY${y} income limits`,
       table: rows.sort((a, b) => a[0].localeCompare(b[0])),
@@ -631,9 +682,9 @@ function main() {
     fs.writeFileSync(path.join(OUT, f), text);
   }
 
-  console.log(`Wrote ${Object.keys(pages).length} pages: ${counts.records} records (${counts.current} listed in FY${LATEST}, ${counts.gone} gone), ${counts.era} county rows before 2006, ${changes.length} changes.`);
-  console.log('year  rows  exact byName county   era orphan twice  records-with-year');
-  for (const l of ledger) console.log([l.year, l.rows, l.exact, l.byName, l.county, l.era, l.orphan, l.twice, counts.cells[l.year]].map((v) => String(v).padStart(5)).join(' '));
+  console.log(`Wrote ${Object.keys(pages).length} pages: ${counts.records} records (${counts.current} listed in FY${LATEST}, ${counts.gone} gone), ${counts.second} second listings, ${counts.era} county rows before 2006, ${changes.length} changes.`);
+  console.log('year  rows  exact byName county   era orphan second twice  records-with-year');
+  for (const l of ledger) console.log([l.year, l.rows, l.exact, l.byName, l.county, l.era, l.orphan, l.second, l.twice, counts.cells[l.year]].map((v) => String(v).padStart(5)).join(' '));
   if (twice.length) console.log(`Rows a record had already in their year, not written:\n  ${twice.join('\n  ')}`);
   if (unmatched.length) console.log(`New England towns not tied to a county row before 2006:\n  ${unmatched.join('\n  ')}`);
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify({ ...counts, ledger }, null, 1) + '\n');

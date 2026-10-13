@@ -34,16 +34,39 @@ by the databooks seat's deputy, 2026-10-13, on branch `import`.
    two). Undo: the matching loop in import.js.
 
 4. **A place HUD stopped listing is a record of its own**, under its
-   last code, with `- Last year:`. Eighteen: Alaska's split census
+   last code, with `- Last year:`. Sixteen: Alaska's split census
    areas, Bedford city and Clifton Forge, VA (merged), six deorganized
-   Maine towns, Rockland and Westchester, NY's second rows
-   (`…99998`: listed again inside the New York area, FY2006-2020, with
-   that area's limits), and four pre-2006 rows that are no county
+   Maine towns, and four pre-2006 rows that are no county
    today (W. Pacific Islands, GU; PR Non-Metro counties; VI St.
    John/St. Thomas; Skagway-Yakutat-Angoon, AK). Since 10-13 (SPEC D7)
    they are out of the state pages, on `limits/Gone.md`, still of kind
    Limits so a count of earlier years finds them; the four pre-2006
    ones have `- Metro code:` blank and `- MSA:` their last number.
+   Until 10-13 (branch `lihtc`) there were eighteen: Rockland and
+   Westchester, NY's second rows (`…99998`) were counted gone; they are
+   their counties' now (decision 4a).
+
+4a. **A second listing is its county's** (10-13, branch `lihtc`).
+   HUD listed Rockland and Westchester counties, NY, twice in
+   FY2006-2020: under `…99999` in their own area (Rockland, NY HUD
+   Metro FMR Area, later Rockland, NY HUD Income Limit Area;
+   Westchester County, NY Statutory Exception Area), and
+   under `…99998` inside the New York area, with its limits, every year
+   both. The second is no place HUD stopped listing (the county goes
+   on), so not Gone (D7); nor the county's own row, so not in its card.
+   It is a record of its own kind, `### Second listing: <county>, NY
+   (<FIPS>)`, keys FIPS, Listing of (the county's FIPS), State, Area,
+   Metro code, First year, Last year, under `## Second listings` on the
+   county's page after its record (B7: what belongs to a thing goes with
+   it), its limits in plain tables (`Second_listing_Very_low_income_50`
+   and the like, FY2006 on) and its Areas. Its end in FY2021 is a row,
+   `second listing ended`, in that year's Places change. The county's
+   own record, no longer sharing its name, is `Rockland County, NY`
+   (was `Rockland County (3608799999), NY`), its page `New
+   York/Rockland County.md`. Why not out: HUD published those limits,
+   and every limit in its files is written once. Undo: `second` in
+   import.js (the record and `secondText`); the check of it in
+   target.sql; vector `rockland-ny.json`.
 
 ## Before FY2006
 

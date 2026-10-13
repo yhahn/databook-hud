@@ -1,6 +1,6 @@
 # Income Limits, 1998 to 2026
 
-HUD's Section 8 income limits for every county, fiscal years 1998 to 2026: the area median family income, and the household incomes under which a family counts as extremely low, very low and low income, for households of one to eight. 4764 places as HUD lists them in FY2026 (3161 counties and 1603 New England towns), 18 more that HUD has since stopped listing ([Gone](./Gone.md)), and 125 New England county rows from before FY2006. Part of databook-hud: data only, printable as a book and queryable as tables.
+HUD's Section 8 income limits for every county, fiscal years 1998 to 2026: the area median family income, and the household incomes under which a family counts as extremely low, very low and low income, for households of one to eight. 4764 places as HUD lists them in FY2026 (3161 counties and 1603 New England towns), 16 more that HUD has since stopped listing ([Gone](./Gone.md)), 125 New England county rows from before FY2006, and 2 second listings of a county inside another area (Rockland and Westchester, NY, FY2006 to 2020), each on its county's page. Part of databook-hud: data only, printable as a book and queryable as tables.
 
 ## What the limits are
 
@@ -18,9 +18,11 @@ A county takes the limits of its area, so all the counties of one metropolitan a
 
 A page a place, as a reader finds it: `Alabama/Autauga County.md`; in New England, where HUD's places are towns, `Maine/Penobscot County/Bangor city.md` (Connecticut's under its planning regions). A state's page (`Alabama.md`) lists its places, or in New England its counties, and a New England county's page its towns, linked, in a table gathered as `Income_Limits_Places`. The places HUD no longer lists are a page each in `Gone/`, listed in [Gone](./Gone.md); the changes, in `Changes/`, listed in [Changes](./Changes.md). A page is named for its place, a slash a dash; a name two pages of one folder would share takes its FIPS.
 
-Each place is a record, `# Limits: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county): the rents' key, so a place's rents and its income limits join. Its cards, a column a fiscal year and, for the limits, a row a household size: Median family income, Extremely low income (30%) from FY2014, Very low income (50%), Low income (80%); empty where HUD gives none. Beside them, never in them, the table `30% limit, 1999 to 2014`, the old definition; FY2014 is in both, the year HUD published both. Its `#### Areas` are the runs of years it sat in one HUD area (HUD's MSA numbers before FY2006, its area codes since).
+Each place is a record, `# Limits: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county): the rents' key, so a place's rents and its income limits join. Its cards, a column a fiscal year and, for the limits, a row a household size: Median family income, Extremely low income (30%) from FY2014, Very low income (50%), Low income (80%); empty where HUD gives none. Beside them, never in them, the table `30% limit, 1999 to 2014`, the old definition; FY2014 is in both, the year HUD published both. Its `## Areas` are the runs of years it sat in one HUD area (HUD's MSA numbers before FY2006, its area codes since).
 
 Where a place's FIPS changed, it is followed by code, a table of renames, or name: Connecticut's towns moved to planning-region codes in FY2025 (`- FIPS 2024:` keeps the old county code, as the rents do); some Maine, Massachusetts and Vermont towns and three counties were renamed with new codes (`- FIPS before:`, and `- FIPS earlier:` for a place with two).
+
+**Second listings.** In FY2006 to 2020 HUD listed Rockland and Westchester counties, NY, twice: under their own code (`…99999`), with their own area's limits, and again under `…99998` inside the New York area, with its limits. The second is no place of its own: it is a record, `### Second listing: <county>, NY (<FIPS>)`, keyed `- Listing of:` its county's FIPS, under `## Second listings` on the county's page; its tables are `Second_listing_Very_low_income_50` and the like.
 
 **Before FY2006** HUD keyed its limits by county and MSA, though it drew New England's areas by town, so a New England county could lie in several areas. Outside New England a county's row is its own record's. In New England a town's cards are empty before FY2006: its county's rows (123 to 125 a year) are records of their own, `### County before 2006: <county>, <ST> (MSA <number>)`, on the county's page (Connecticut's old counties have pages of their own), and each town names the one it lay in, from FY2006's own crosswalk, as `- County before 2006:`.
 
@@ -143,4 +145,4 @@ Notice of use: HUD's data are a work of the United States Government, and so fre
 - [Northern Mariana Islands](./Northern%20Mariana%20Islands.md): 1 county
 - [Puerto Rico](./Puerto%20Rico.md): 78 counties
 - [U.S. Virgin Islands](./U.S.%20Virgin%20Islands.md): 3 counties
-- [Gone](./Gone.md): 18 places HUD no longer lists
+- [Gone](./Gone.md): 16 places HUD no longer lists

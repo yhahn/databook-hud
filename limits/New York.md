@@ -56,7 +56,7 @@ HUD's Section 8 income limits for New York, fiscal years 1998 to 2026: 62 counti
 | [Queens County, NY](./New%20York/Queens%20County.md) | 3608199999 | County |  |
 | [Rensselaer County, NY](./New%20York/Rensselaer%20County.md) | 3608399999 | County |  |
 | [Richmond County, NY](./New%20York/Richmond%20County.md) | 3608599999 | County |  |
-| [Rockland County (3608799999), NY](./New%20York/Rockland%20County%20%283608799999%29.md) | 3608799999 | County |  |
+| [Rockland County, NY](./New%20York/Rockland%20County.md) | 3608799999 | County |  |
 | [St. Lawrence County, NY](./New%20York/St.%20Lawrence%20County.md) | 3608999999 | County |  |
 | [Saratoga County, NY](./New%20York/Saratoga%20County.md) | 3609199999 | County |  |
 | [Schenectady County, NY](./New%20York/Schenectady%20County.md) | 3609399999 | County |  |
@@ -72,6 +72,6 @@ HUD's Section 8 income limits for New York, fiscal years 1998 to 2026: 62 counti
 | [Warren County, NY](./New%20York/Warren%20County.md) | 3611399999 | County |  |
 | [Washington County, NY](./New%20York/Washington%20County.md) | 3611599999 | County |  |
 | [Wayne County, NY](./New%20York/Wayne%20County.md) | 3611799999 | County |  |
-| [Westchester County (3611999999), NY](./New%20York/Westchester%20County%20%283611999999%29.md) | 3611999999 | County |  |
+| [Westchester County, NY](./New%20York/Westchester%20County.md) | 3611999999 | County |  |
 | [Wyoming County, NY](./New%20York/Wyoming%20County.md) | 3612199999 | County |  |
 | [Yates County, NY](./New%20York/Yates%20County.md) | 3612399999 | County |  |

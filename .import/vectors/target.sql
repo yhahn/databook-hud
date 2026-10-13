@@ -19,6 +19,11 @@ where table_name = 'Limits' and column_name not in ('name', '_file', '_line', '_
 select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
 where table_name = 'County before 2006' and column_name not in ('name', '_file', '_line', '_end_line');
 
+-- name: B3 the keys of Second listing
+-- want: FIPS, Listing of, State, Area, Metro code, First year, Last year
+select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
+where table_name = 'Second listing' and column_name not in ('name', '_file', '_line', '_end_line');
+
 -- name: B3 the keys of Change
 -- want: Dataset, Boundary, Was, Now, Crosswalk, Places, Source
 select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
@@ -31,7 +36,7 @@ from information_schema.columns where table_name in ('Fair Market Rents', 'Incom
 and column_name not in ('name', '_file', '_line', '_end_line') group by t);
 
 -- name: B5 the kinds, each dataset its own
--- want: Change, County before 2006, Fair Market Rents, Income Limits, Limits, Rents
+-- want: Change, County before 2006, Fair Market Rents, Income Limits, Limits, Rents, Second listing
 select string_agg(distinct table_name, ', ' order by table_name) from information_schema.columns
 where column_name = '_end_line';
 
@@ -54,6 +59,19 @@ select count(distinct FIPS) from Limits where "Last year" is null;
 -- name: County before 2006 records
 -- want: {limits.era}
 select count(*) from "County before 2006";
+
+-- name: Second listing records (Rockland and Westchester, NY, listed again inside the New York area, FY2006-2020)
+-- want: {limits.second}
+select count(*) from "Second listing";
+
+-- name: D7 a second listing is no place: none a Limits record, each on its county's page, after its record
+-- want: 0 2
+select (select count(*) from Limits where cast(FIPS as varchar) like '%99998') || ' ' ||
+  (select count(*) from "Second listing" s join Limits l on l.FIPS = s."Listing of" and l._file = s._file and l._line < s._line);
+
+-- name: D7 the places HUD no longer lists: 16 (the bench, hud-analysis-3)
+-- want: 16
+select count(*) from Limits where "Last year" is not null;
 
 -- name: Change records
 -- want: {changes}
@@ -121,10 +139,11 @@ select count(v) from (unpivot County_before_2006_Very_low_income_50 on columns('
 -- want: {limits.tables.Limits_Areas.rows}
 select count(*) from Limits_Areas;
 
--- name: each year's very low income limits, a row of HUD's file a place (Persons 1, FY2006 on)
+-- name: each year's very low income limits, a row of HUD's file a place or a second listing (Persons 1, FY2006 on)
 -- want: {limits.rows_2006_on}
-select string_agg(n, ' ' order by y) from (select y, cast(count(v) as varchar) n
-  from (unpivot (select * from Limits_Very_low_income_50 where Persons = 1) on columns('^[0-9]+$') into name y value v)
+select string_agg(n, ' ' order by y) from (select y, cast(count(v) as varchar) n from (
+  select y, v from (unpivot (select * exclude (_file, _line) from Limits_Very_low_income_50 where Persons = 1) on columns('^[0-9]+$') into name y value v)
+  union all select y, v from (unpivot (select * exclude (_file, _line) from Second_listing_Very_low_income_50 where Persons = 1) on columns('^[0-9]+$') into name y value v))
   where y >= '2006' group by y);
 
 -- name: D1/D4 the extremely low income card begins at FY2014, the definition's year
@@ -137,9 +156,11 @@ where table_name = 'Limits_Extremely_low_income_30' and regexp_matches(column_na
 select min(column_name) from information_schema.columns
 where table_name = 'Rents_Fair_Market_Rents' and regexp_matches(column_name, '^[0-9]+$');
 
--- name: D2 FY2014 in both: the old 30% limit and the new, a place each
+-- name: D2 FY2014 in both: the old 30% limit and the new, a row of HUD's file each (a place's, or a second listing's)
 -- want: 4767 4767
-select count(o."2014") || ' ' || count(n."2014") from Limits_30_limit_1999_to_2014 o
+select (count(o."2014") + (select count("2014") from Second_listing_30_limit_2006_to_2014 where Persons = 1)) || ' ' ||
+  (count(n."2014") + (select count("2014") from Second_listing_Extremely_low_income_30 where Persons = 1))
+from Limits_30_limit_1999_to_2014 o
 full join Limits_Extremely_low_income_30 n using (record, Persons) where Persons = 1;
 
 -- name: D8 the card's rents in the years its Areas run says 50, and their sum (as HUD's file set at the 50th)
@@ -210,7 +231,12 @@ with n as (
   union all select 'l30', count(v) from (unpivot County_before_2006_30_limit on columns('^[0-9]+$') into name y value v)
   union all select 'eli', count(v) from (unpivot Limits_Extremely_low_income_30 on columns('^[0-9]+$') into name y value v)
   union all select 'med', count(v) from (unpivot Limits_Median_family_income on columns('^[0-9]+$') into name y value v)
-  union all select 'med', count(v) from (unpivot County_before_2006_Median_family_income on columns('^[0-9]+$') into name y value v))
+  union all select 'med', count(v) from (unpivot County_before_2006_Median_family_income on columns('^[0-9]+$') into name y value v)
+  union all select 'l50', count(v) from (unpivot Second_listing_Very_low_income_50 on columns('^[0-9]+$') into name y value v)
+  union all select 'l80', count(v) from (unpivot Second_listing_Low_income_80 on columns('^[0-9]+$') into name y value v)
+  union all select 'l30', count(v) from (unpivot Second_listing_30_limit_2006_to_2014 on columns('^[0-9]+$') into name y value v)
+  union all select 'eli', count(v) from (unpivot Second_listing_Extremely_low_income_30 on columns('^[0-9]+$') into name y value v)
+  union all select 'med', count(v) from (unpivot Second_listing_Median_family_income on columns('^[0-9]+$') into name y value v))
 select string_agg(c, ' ' order by o) from (select k, sum(c) c, case k when 'l50' then 1 when 'l80' then 2 when 'l30' then 3 when 'eli' then 4 else 5 end o from n group by k);
 
 -- name: B7 no page holds more than ten records of a kind (pages over ten)
@@ -219,6 +245,7 @@ select count(*) from (
   select _file, count(*) n from Rents group by _file union all
   select _file, count(*) from Limits group by _file union all
   select _file, count(*) from "County before 2006" group by _file union all
+  select _file, count(*) from "Second listing" group by _file union all
   select _file, count(*) from Change group by _file union all
   select _file, count(*) from "Fair Market Rents" group by _file union all
   select _file, count(*) from "Income Limits" group by _file) where n > 10;

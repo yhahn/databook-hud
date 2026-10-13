@@ -5,7 +5,7 @@ Two of HUD's yardsticks for housing help, for every county and New England town,
 ## The datasets
 
 - [Fair Market Rents](./rents/README.md), FY1983 to FY2027: 4764 places (3161 counties, 1603 New England towns), `### Rents:`, their rents by bedroom count as HUD set them: at the 40th percentile, or, for some costly areas in FY2001 to FY2019, the 50th, marked in each place's Areas.
-- [Income Limits](./limits/README.md), FY1998 to FY2026: 4764 places as HUD lists them now and 18 it no longer lists, `### Limits:`, their median family income and limits by household size; and 125 county rows from before FY2006 that no place's record can hold (New England's, keyed by county then, and one Missouri county split in two), `### County before 2006:`.
+- [Income Limits](./limits/README.md), FY1998 to FY2026: 4764 places as HUD lists them now and 16 it no longer lists, `### Limits:`, their median family income and limits by household size; and 125 county rows from before FY2006 that no place's record can hold (New England's, keyed by county then, and one Missouri county split in two), `### County before 2006:`.
 
 Each dataset is written by its own importer, in `.import/rents/` (Python) and `.import/limits/` (Node); nothing here is edited by hand.
 

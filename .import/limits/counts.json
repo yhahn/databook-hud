@@ -1,7 +1,8 @@
 {
- "records": 4782,
+ "records": 4780,
  "current": 4764,
- "gone": 18,
+ "gone": 16,
+ "second": 2,
  "counties": 3161,
  "towns": 1603,
  "era": 125,
@@ -9,27 +10,27 @@
  "unmatched": 0,
  "tables": {
   "Limits_Median_family_income": {
-   "rows": 4782,
-   "cells": 124629
+   "rows": 4780,
+   "cells": 124599
   },
   "Limits_Extremely_low_income_30": {
-   "rows": 38256,
-   "cells": 495768
+   "rows": 38240,
+   "cells": 495656
   },
   "Limits_Very_low_income_50": {
-   "rows": 38256,
-   "cells": 997032
+   "rows": 38240,
+   "cells": 996792
   },
   "Limits_Low_income_80": {
-   "rows": 38256,
-   "cells": 997032
+   "rows": 38240,
+   "cells": 996792
   },
   "Limits_30_limit_1999_to_2014": {
-   "rows": 38192,
-   "cells": 514872
+   "rows": 38176,
+   "cells": 514728
   },
   "Limits_Areas": {
-   "rows": 10846,
+   "rows": 10842,
    "cells": 0
   },
   "County before 2006_Median_family_income": {
@@ -47,6 +48,30 @@
   "County before 2006_Low_income_80": {
    "rows": 1000,
    "cells": 7904
+  },
+  "Second listing_Median_family_income": {
+   "rows": 2,
+   "cells": 30
+  },
+  "Second listing_Extremely_low_income_30": {
+   "rows": 16,
+   "cells": 112
+  },
+  "Second listing_Very_low_income_50": {
+   "rows": 16,
+   "cells": 240
+  },
+  "Second listing_Low_income_80": {
+   "rows": 16,
+   "cells": 240
+  },
+  "Second listing_30_limit_2006_to_2014": {
+   "rows": 16,
+   "cells": 144
+  },
+  "Second listing_Areas": {
+   "rows": 4,
+   "cells": 0
   }
  },
  "cells": {
@@ -58,21 +83,21 @@
   "2003": 3068,
   "2004": 3068,
   "2005": 3071,
-  "2006": 4764,
-  "2007": 4764,
-  "2008": 4764,
-  "2009": 4764,
-  "2010": 4766,
-  "2011": 4766,
-  "2012": 4766,
-  "2013": 4767,
-  "2014": 4767,
-  "2015": 4767,
-  "2016": 4771,
-  "2017": 4771,
-  "2018": 4771,
-  "2019": 4769,
-  "2020": 4768,
+  "2006": 4762,
+  "2007": 4762,
+  "2008": 4762,
+  "2009": 4762,
+  "2010": 4764,
+  "2011": 4764,
+  "2012": 4764,
+  "2013": 4765,
+  "2014": 4765,
+  "2015": 4765,
+  "2016": 4769,
+  "2017": 4769,
+  "2018": 4769,
+  "2019": 4767,
+  "2020": 4766,
   "2021": 4766,
   "2022": 4765,
   "2023": 4764,
@@ -80,7 +105,7 @@
   "2025": 4764,
   "2026": 4764
  },
- "pages": 4934,
+ "pages": 4932,
  "changes": [
   [
    2003,
@@ -167,6 +192,7 @@
    "county": 3061,
    "era": 123,
    "orphan": 5,
+   "second": 0,
    "twice": 0
   },
   {
@@ -177,6 +203,7 @@
    "county": 3064,
    "era": 123,
    "orphan": 2,
+   "second": 0,
    "twice": 0
   },
   {
@@ -187,6 +214,7 @@
    "county": 3064,
    "era": 123,
    "orphan": 2,
+   "second": 0,
    "twice": 0
   },
   {
@@ -197,6 +225,7 @@
    "county": 3064,
    "era": 123,
    "orphan": 2,
+   "second": 0,
    "twice": 0
   },
   {
@@ -207,6 +236,7 @@
    "county": 3064,
    "era": 123,
    "orphan": 2,
+   "second": 0,
    "twice": 0
   },
   {
@@ -217,6 +247,7 @@
    "county": 3065,
    "era": 125,
    "orphan": 3,
+   "second": 0,
    "twice": 0
   },
   {
@@ -227,6 +258,7 @@
    "county": 3066,
    "era": 125,
    "orphan": 2,
+   "second": 0,
    "twice": 0
   },
   {
@@ -237,6 +269,7 @@
    "county": 3069,
    "era": 123,
    "orphan": 2,
+   "second": 0,
    "twice": 0
   },
   {
@@ -246,147 +279,162 @@
    "byName": 199,
    "county": 0,
    "era": 0,
-   "orphan": 14,
+   "orphan": 12,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2007,
    "rows": 4764,
-   "exact": 4565,
+   "exact": 4563,
    "byName": 199,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2008,
    "rows": 4764,
-   "exact": 4565,
+   "exact": 4563,
    "byName": 199,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2009,
    "rows": 4764,
-   "exact": 4565,
+   "exact": 4563,
    "byName": 199,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2010,
    "rows": 4766,
-   "exact": 4567,
+   "exact": 4565,
    "byName": 199,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2011,
    "rows": 4766,
-   "exact": 4567,
+   "exact": 4565,
    "byName": 199,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2012,
    "rows": 4766,
-   "exact": 4567,
+   "exact": 4565,
    "byName": 199,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2013,
    "rows": 4767,
-   "exact": 4579,
+   "exact": 4577,
    "byName": 188,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2014,
    "rows": 4767,
-   "exact": 4579,
+   "exact": 4577,
    "byName": 188,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2015,
    "rows": 4767,
-   "exact": 4579,
+   "exact": 4577,
    "byName": 188,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2016,
    "rows": 4771,
-   "exact": 4583,
+   "exact": 4581,
    "byName": 188,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2017,
    "rows": 4771,
-   "exact": 4586,
+   "exact": 4584,
    "byName": 185,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2018,
    "rows": 4771,
-   "exact": 4588,
+   "exact": 4586,
    "byName": 183,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2019,
    "rows": 4769,
-   "exact": 4587,
+   "exact": 4585,
    "byName": 182,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
    "year": 2020,
    "rows": 4768,
-   "exact": 4586,
+   "exact": 4584,
    "byName": 182,
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 2,
    "twice": 0
   },
   {
@@ -397,6 +445,7 @@
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 0,
    "twice": 0
   },
   {
@@ -407,6 +456,7 @@
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 0,
    "twice": 0
   },
   {
@@ -417,6 +467,7 @@
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 0,
    "twice": 0
   },
   {
@@ -427,6 +478,7 @@
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 0,
    "twice": 0
   },
   {
@@ -437,6 +489,7 @@
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 0,
    "twice": 0
   },
   {
@@ -447,6 +500,7 @@
    "county": 0,
    "era": 0,
    "orphan": 0,
+   "second": 0,
    "twice": 0
   }
  ]
